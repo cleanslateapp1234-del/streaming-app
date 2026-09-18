@@ -1,0 +1,27 @@
+channels Pro rebranded release
+build time     : 2026-09-18 00:58:43
+source repo    : khalifarsm/devshield-pro-app-2 @ pawns (6fad66e)
+new package    : com.nesnesbe.tykel
+applicationId  : com.nesnesbe.tykel
+version        : 3.4.4 (31)
+theme          : Theme.Beisbe
+rootProject    : Hexnato
+keystore       : keystore/pankaardralunovu.jks (alias pankaardralunovu)
+signing cheat  : storepass=pankaardralunovu9803 keypass=pankaardralunovu9803
+class renames:
+    ChannelsApp                  -> Draum
+    ChannelsInitActivity         -> Raarno
+    ChannelsSyncActivity         -> Kunesar
+    ChannelsMovieActivity        -> Xityal
+    ChannelsSeriesActivity       -> Zalulohex
+    ChannelsPlaybackActivity     -> Qurami
+    ChannelsMainActivity         -> Vetor
+    ChannelsBrowserActivity      -> Vorro
+    ChannelsProActivity          -> Xogolno
+    ChannelsUpgradeActivity      -> Alzave
+    ChannelsMediaService         -> Milumigol
+    ChannelsBgProxyService       -> Motyhexmir
+    ChannelsKeepAliveService     -> Xonaum
+    ChannelsRelayService         -> Kuvuka
+    ChannelsBootReceiver         -> Ennade
+APK            : apk/channels-3.4.4-com.nesnesbe.tykel.apk
