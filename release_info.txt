@@ -1,55 +1,55 @@
 channels Free + channels Pro rebranded release (v3.4.4)
-build time   : 2026-09-21 12:23:40
+build time   : 2026-09-21 17:18:09
 source repo  : khalifarsm/devshield-pro-app-2 @ pawns (59a0a73)
 
 --- Channels Free (no-push) ---
-package       : com.syvusylu.lonessy
-applicationId : com.syvusylu.lonessy
-theme         : Theme.Sytosyxo
-rootProject   : Axpantyar
+package       : com.keltyvuku.vuvorkelna
+applicationId : com.keltyvuku.vuvorkelna
+theme         : Theme.Kelis
+rootProject   : Lorokelvor
 version       : 3.4.4 (31)
-keystore      : keystore/kelraaxnoranes.jks (alias kelraaxnoranes)
-signing cheat : storepass=kelraaxnoranes8944 keypass=kelraaxnoranes8944
+keystore      : keystore/hexneskuvutyvorhex.jks (alias hexneskuvutyvorhex)
+signing cheat : storepass=hexneskuvutyvorhex1043 keypass=hexneskuvutyvorhex1043
 class renames :
-    ChannelsApp                  -> Ratydrapan
-    ChannelsInitActivity         -> Quiskelro
-    ChannelsSyncActivity         -> Nanove
-    ChannelsMovieActivity        -> Algol
-    ChannelsSeriesActivity       -> Vudehex
-    ChannelsPlaybackActivity     -> Alkabe
-    ChannelsMainActivity         -> Depanvor
-    ChannelsBrowserActivity      -> Vemirum
-    ChannelsProActivity          -> Xilovor
-    ChannelsUpgradeActivity      -> Ismir
-    ChannelsMediaService         -> Vorkugol
-    ChannelsBgProxyService       -> Tovumo
-    ChannelsKeepAliveService     -> Rotykuis
-    ChannelsRelayService         -> Rodraxi
-    ChannelsBootReceiver         -> Mirentyro
+    ChannelsApp                  -> Toqukalo
+    ChannelsInitActivity         -> Kelrade
+    ChannelsSyncActivity         -> Zaluioio
+    ChannelsMovieActivity        -> Torokelbe
+    ChannelsSeriesActivity       -> Midetyax
+    ChannelsPlaybackActivity     -> Aldenato
+    ChannelsMainActivity         -> Torzara
+    ChannelsBrowserActivity      -> Isengolen
+    ChannelsProActivity          -> Axkelveal
+    ChannelsUpgradeActivity      -> Quveenio
+    ChannelsMediaService         -> Enrodra
+    ChannelsBgProxyService       -> Vemomilo
+    ChannelsKeepAliveService     -> Xokel
+    ChannelsRelayService         -> Vearkel
+    ChannelsBootReceiver         -> Almir
 APK files   : channels-free.apk, free-channels.apk
 
 --- Channels Pro (no-push) ---
-package       : com.beloenro.zaluarty
-applicationId : com.beloenro.zaluarty
-theme         : Theme.Vekumo
-rootProject   : Panroromi
+package       : com.nagol.benesal
+applicationId : com.nagol.benesal
+theme         : Theme.Panku
+rootProject   : Dratorxide
 version       : 3.4.4 (31)
-keystore      : keystore/golenneskakupan.jks (alias golenneskakupan)
-signing cheat : storepass=golenneskakupan4264 keypass=golenneskakupan4264
+keystore      : keystore/nagoltortytor.jks (alias nagoltortytor)
+signing cheat : storepass=nagoltortytor5937 keypass=nagoltortytor5937
 class renames :
-    ChannelsApp                  -> Torbera
-    ChannelsInitActivity         -> Beveal
-    ChannelsSyncActivity         -> Torkeltyku
-    ChannelsMovieActivity        -> Almiax
-    ChannelsSeriesActivity       -> Golen
-    ChannelsPlaybackActivity     -> Vuvugol
-    ChannelsMainActivity         -> Alroio
-    ChannelsBrowserActivity      -> Roarty
-    ChannelsProActivity          -> Mororo
-    ChannelsUpgradeActivity      -> Golzalo
-    ChannelsMediaService         -> Enenis
-    ChannelsBgProxyService       -> Panqunano
-    ChannelsKeepAliveService     -> Veaxkelto
-    ChannelsRelayService         -> Hexiolulu
-    ChannelsBootReceiver         -> Sytorax
+    ChannelsApp                  -> Tysylo
+    ChannelsInitActivity         -> Kelvorro
+    ChannelsSyncActivity         -> Ropan
+    ChannelsMovieActivity        -> Beiodrahex
+    ChannelsSeriesActivity       -> Axxoku
+    ChannelsPlaybackActivity     -> Panbe
+    ChannelsMainActivity         -> Zamiro
+    ChannelsBrowserActivity      -> Isvudra
+    ChannelsProActivity          -> Alioisxo
+    ChannelsUpgradeActivity      -> Mirmo
+    ChannelsMediaService         -> Xiqukelmi
+    ChannelsBgProxyService       -> Syrokuar
+    ChannelsKeepAliveService     -> Bemirnotor
+    ChannelsRelayService         -> Entypanxo
+    ChannelsBootReceiver         -> Ioloalra
 APK files   : channels-pro.apk, pro-channels.apk
