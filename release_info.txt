@@ -1,55 +1,55 @@
 channels Free + channels Pro rebranded release (v3.4.4)
-build time   : 2026-10-05 00:00:06
+build time   : 2026-10-05 08:01:51
 source repo  : khalifarsm/devshield-pro-app-2 @ pawns (59a0a73)
 
 --- Channels Free (no-push) ---
-package       : com.axtyhex.pankelku
-applicationId : com.axtyhex.pankelku
-theme         : Theme.Kuzamobe
-rootProject   : Movor
+package       : com.velozara.bekel
+applicationId : com.velozara.bekel
+theme         : Theme.Vorra
+rootProject   : Tybetor
 version       : 3.4.4 (31)
-keystore      : keystore/keldranovormir.jks (alias keldranovormir)
-signing cheat : storepass=keldranovormir7963 keypass=keldranovormir7963
+keystore      : keystore/panvunavegolvorvor.jks (alias panvunavegolvorvor)
+signing cheat : storepass=panvunavegolvorvor6778 keypass=panvunavegolvorvor6778
 class renames :
-    ChannelsApp                  -> Xitolo
-    ChannelsInitActivity         -> Armir
-    ChannelsSyncActivity         -> Xotyrona
-    ChannelsMovieActivity        -> Vorvemihex
-    ChannelsSeriesActivity       -> Rokami
-    ChannelsPlaybackActivity     -> Enummi
-    ChannelsMainActivity         -> Arraza
-    ChannelsBrowserActivity      -> Isdranesbe
-    ChannelsProActivity          -> Syaldeal
-    ChannelsUpgradeActivity      -> Nesmidra
-    ChannelsMediaService         -> Katoral
-    ChannelsBgProxyService       -> Isxove
-    ChannelsKeepAliveService     -> Luzato
-    ChannelsRelayService         -> Torio
-    ChannelsBootReceiver         -> Golvorqu
+    ChannelsApp                  -> Nesvorxora
+    ChannelsInitActivity         -> Kalolu
+    ChannelsSyncActivity         -> Xonapannes
+    ChannelsMovieActivity        -> Kaissy
+    ChannelsSeriesActivity       -> Xiraloxi
+    ChannelsPlaybackActivity     -> Draioisde
+    ChannelsMainActivity         -> Vugolvor
+    ChannelsBrowserActivity      -> Alxoxo
+    ChannelsProActivity          -> Umvuxi
+    ChannelsUpgradeActivity      -> Golvu
+    ChannelsMediaService         -> Nesvexi
+    ChannelsBgProxyService       -> Lutoenqu
+    ChannelsKeepAliveService     -> Umvudrara
+    ChannelsRelayService         -> Qudraroqu
+    ChannelsBootReceiver         -> Enmoio
 APK files   : channels-free.apk, free-channels.apk
 
 --- Channels Pro (no-push) ---
-package       : com.voraxgol.vulokel
-applicationId : com.voraxgol.vulokel
-theme         : Theme.Tovorro
-rootProject   : Kasyumio
+package       : com.mobekutor.kuumpanza
+applicationId : com.mobekutor.kuumpanza
+theme         : Theme.Islomoar
+rootProject   : Deumra
 version       : 3.4.4 (31)
-keystore      : keystore/kelmironesioio.jks (alias kelmironesioio)
-signing cheat : storepass=kelmironesioio9013 keypass=kelmironesioio9013
+keystore      : keystore/axumraroalty.jks (alias axumraroalty)
+signing cheat : storepass=axumraroalty3395 keypass=axumraroalty3395
 class renames :
-    ChannelsApp                  -> Toren
-    ChannelsInitActivity         -> Nesrana
-    ChannelsSyncActivity         -> Kelkaxo
-    ChannelsMovieActivity        -> Naalentor
-    ChannelsSeriesActivity       -> Bekaxo
-    ChannelsPlaybackActivity     -> Drahexto
-    ChannelsMainActivity         -> Drahex
-    ChannelsBrowserActivity      -> Drasyumto
-    ChannelsProActivity          -> Miumgol
-    ChannelsUpgradeActivity      -> Enkagolxo
-    ChannelsMediaService         -> Kadravor
-    ChannelsBgProxyService       -> Vedravu
-    ChannelsKeepAliveService     -> Kelvu
-    ChannelsRelayService         -> Luumro
-    ChannelsBootReceiver         -> Pantor
+    ChannelsApp                  -> Vetylu
+    ChannelsInitActivity         -> Enzamirdra
+    ChannelsSyncActivity         -> Alqura
+    ChannelsMovieActivity        -> Torto
+    ChannelsSeriesActivity       -> Kunatono
+    ChannelsPlaybackActivity     -> Isalgolis
+    ChannelsMainActivity         -> Pankelis
+    ChannelsBrowserActivity      -> Naquis
+    ChannelsProActivity          -> Loraty
+    ChannelsUpgradeActivity      -> Torveisno
+    ChannelsMediaService         -> Draaxkel
+    ChannelsBgProxyService       -> Toren
+    ChannelsKeepAliveService     -> Vorbemo
+    ChannelsRelayService         -> Tolohex
+    ChannelsBootReceiver         -> Umtor
 APK files   : channels-pro.apk, pro-channels.apk
