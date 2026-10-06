@@ -1,55 +1,55 @@
---- Toxona Free (no-push) ---
-app label     : Toxona Free
-package       : com.kaensy.neslo
-applicationId : com.kaensy.neslo
-theme         : Theme.Kuvuraty
-rootProject   : Toxona
-version       : 3.4.30 (532)
-signing       : alias moumnesxotorokelis (passwords withheld)
-buildConfig   : DB_NAME=moalro.db PREFS_NAME=mirisen_prefs LOG_TAG=Panraradra
-payment url   : https://toxona-pay.pages.dev/pay
-contact email : support@toxona.com
-clarity id    : ioaxislutyve
-obf dictionary: tools/obf-toxona.txt
-palette       : accent=285 deg bg=252 deg
+--- Alrokel Free (release) ---
+app label     : Alrokel Free
+package       : com.veioio.qubenagol
+applicationId : com.veioio.qubenagol
+theme         : Theme.Istor
+rootProject   : Alrokel
+version       : 3.4.8 (648)
+signing       : alias kaarvorkelvuzaramo (passwords withheld)
+buildConfig   : DB_NAME=rovuen.db PREFS_NAME=qunestove_prefs LOG_TAG=Alhexxoza
+payment url   : https://alrokel-pay.pages.dev/pay
+contact email : support@alrokel.com
+clarity id    : altylutybekel
+obf dictionary: tools/obf-alrokel.txt
+palette       : accent=38 deg bg=265 deg
 class renames :
-    ChannelsApp                  -> Nessy
-    ChannelsInitActivity         -> Nesvenoum
-    ChannelsSyncActivity         -> Alnavu
-    ChannelsMovieActivity        -> Enenmiax
-    ChannelsSeriesActivity       -> Mokelkel
-    ChannelsPlaybackActivity     -> Panio
-    ChannelsMainActivity         -> Rogollona
-    ChannelsBrowserActivity      -> Torve
-    ChannelsProActivity          -> Kanono
-    ChannelsUpgradeActivity      -> Kulopanve
-    ChannelsMediaService         -> Golvorto
-    ChannelsBootReceiver         -> Notyen
+    ChannelsApp                  -> Tytylu
+    ChannelsInitActivity         -> Mirzaen
+    ChannelsSyncActivity         -> Drave
+    ChannelsMovieActivity        -> Dralo
+    ChannelsSeriesActivity       -> Zagol
+    ChannelsPlaybackActivity     -> Alhexxo
+    ChannelsMainActivity         -> Kazapan
+    ChannelsBrowserActivity      -> Nesku
+    ChannelsProActivity          -> Umhex
+    ChannelsUpgradeActivity      -> Golal
+    ChannelsMediaService         -> Xoximora
+    ChannelsBootReceiver         -> Miisnopan
 
---- Mototoris Pro (no-push) ---
-app label     : Mototoris Pro
-package       : com.nesalkuhex.raistyxo
-applicationId : com.nesalkuhex.raistyxo
-theme         : Theme.Mixixive
-rootProject   : Mototoris
-version       : 3.4.20 (951)
-signing       : alias kuvexizadraarvexi (passwords withheld)
-buildConfig   : DB_NAME=zarogolza.db PREFS_NAME=vuzade_prefs LOG_TAG=Bevuaxmir
-payment url   : https://mototoris-pay.pages.dev/pay
-contact email : support@mototoris.com
-clarity id    : rahexarsyxines
-obf dictionary: tools/obf-mototoris.txt
-palette       : accent=12 deg bg=222 deg
+--- Nogolum Pro (release) ---
+app label     : Nogolum Pro
+package       : com.vezaisza.kuvorluza
+applicationId : com.vezaisza.kuvorluza
+theme         : Theme.Mixitymo
+rootProject   : Nogolum
+version       : 3.4.26 (811)
+signing       : alias bepankelveum (passwords withheld)
+buildConfig   : DB_NAME=katy.db PREFS_NAME=mirismolu_prefs LOG_TAG=Toxiis
+payment url   : https://nogolum-pay.pages.dev/pay
+contact email : support@nogolum.com
+clarity id    : tyaxrapanvumi
+obf dictionary: tools/obf-nogolum.txt
+palette       : accent=12 deg bg=228 deg
 class renames :
-    ChannelsApp                  -> Kuvuumlo
-    ChannelsInitActivity         -> Lotykuto
-    ChannelsSyncActivity         -> Draka
-    ChannelsMovieActivity        -> Syioka
-    ChannelsSeriesActivity       -> Vordra
-    ChannelsPlaybackActivity     -> Dranona
-    ChannelsMainActivity         -> Alquxi
-    ChannelsBrowserActivity      -> Vunotyno
-    ChannelsProActivity          -> Nosynobe
-    ChannelsUpgradeActivity      -> Nesvugolen
-    ChannelsMediaService         -> Hexbevor
-    ChannelsBootReceiver         -> Mizaty
+    ChannelsApp                  -> Kudra
+    ChannelsInitActivity         -> Nogol
+    ChannelsSyncActivity         -> Vukelhexro
+    ChannelsMovieActivity        -> Sykelnabe
+    ChannelsSeriesActivity       -> Panismir
+    ChannelsPlaybackActivity     -> Alxolu
+    ChannelsMainActivity         -> Devuka
+    ChannelsBrowserActivity      -> Torisraza
+    ChannelsProActivity          -> Nesveum
+    ChannelsUpgradeActivity      -> Xityenlu
+    ChannelsMediaService         -> Voralgol
+    ChannelsBootReceiver         -> Mirkakel
