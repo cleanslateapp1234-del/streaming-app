@@ -1,51 +1,51 @@
-Benes Free + Engol Pro rebranded release (v3.4.4)
-build time   : 2026-10-06 00:00:05
-source repo  : khalifarsm/devshield-pro-app-2 @ pawns (fb1a08c)
+Vorve Free + Tytohex Pro rebranded release (v3.4.4)
+build time   : 2026-10-06 01:33:06
+source repo  : khalifarsm/devshield-pro-app-2 @ pawns (03cc3b0)
 
---- Benes Free (no-push) ---
-app label     : Benes Free
-package       : com.panbeal.alvordraar
-applicationId : com.panbeal.alvordraar
-theme         : Theme.Istotorkel
-rootProject   : Benes
+--- Vorve Free (no-push) ---
+app label     : Vorve Free
+package       : com.ionotove.mivorpan
+applicationId : com.ionotove.mivorpan
+theme         : Theme.Tymirzadra
+rootProject   : Vorve
 version       : 3.4.4 (31)
-keystore      : keystore/neskuloalbetomir.jks (alias neskuloalbetomir)
-signing cheat : storepass=neskuloalbetomir6954 keypass=neskuloalbetomir6954
+keystore      : keystore/depantoxopanum.jks (alias depantoxopanum)
+signing cheat : storepass=depantoxopanum1452 keypass=depantoxopanum1452
 class renames :
-    ChannelsApp                  -> Norademo
-    ChannelsInitActivity         -> Vuhexqu
-    ChannelsSyncActivity         -> Vuloar
-    ChannelsMovieActivity        -> Nesax
-    ChannelsSeriesActivity       -> Ropan
-    ChannelsPlaybackActivity     -> Mirvu
-    ChannelsMainActivity         -> Noiskel
-    ChannelsBrowserActivity      -> Xiisumum
-    ChannelsProActivity          -> Migol
-    ChannelsUpgradeActivity      -> Motor
-    ChannelsMediaService         -> Alkeldevu
-    ChannelsBootReceiver         -> Umenvude
+    ChannelsApp                  -> Qumois
+    ChannelsInitActivity         -> Artornagol
+    ChannelsSyncActivity         -> Voriovenes
+    ChannelsMovieActivity        -> Lotyty
+    ChannelsSeriesActivity       -> Zator
+    ChannelsPlaybackActivity     -> Vorar
+    ChannelsMainActivity         -> Vortydramo
+    ChannelsBrowserActivity      -> Ralolukel
+    ChannelsProActivity          -> Nopanio
+    ChannelsUpgradeActivity      -> Mirdraarka
+    ChannelsMediaService         -> Ioaxenum
+    ChannelsBootReceiver         -> Mirvu
 APK files   : channels-free.apk, free-channels.apk
 
---- Engol Pro (no-push) ---
-app label     : Engol Pro
-package       : com.axmirkelty.qumikuen
-applicationId : com.axmirkelty.qumikuen
-theme         : Theme.Goltorloxi
-rootProject   : Engol
+--- Tytohex Pro (no-push) ---
+app label     : Tytohex Pro
+package       : com.rabexi.almitor
+applicationId : com.rabexi.almitor
+theme         : Theme.Toalbe
+rootProject   : Tytohex
 version       : 3.4.4 (31)
-keystore      : keystore/togolxivuvor.jks (alias togolxivuvor)
-signing cheat : storepass=togolxivuvor1724 keypass=togolxivuvor1724
+keystore      : keystore/vormirzatyargolio.jks (alias vormirzatyargolio)
+signing cheat : storepass=vormirzatyargolio2792 keypass=vormirzatyargolio2792
 class renames :
-    ChannelsApp                  -> Detoumxo
-    ChannelsInitActivity         -> Enroto
-    ChannelsSyncActivity         -> Totorum
-    ChannelsMovieActivity        -> Movor
-    ChannelsSeriesActivity       -> Umtor
-    ChannelsPlaybackActivity     -> Behexro
-    ChannelsMainActivity         -> Mirosy
-    ChannelsBrowserActivity      -> Toral
-    ChannelsProActivity          -> Lunaxo
-    ChannelsUpgradeActivity      -> Mirisvu
-    ChannelsMediaService         -> Nadra
-    ChannelsBootReceiver         -> Hexxikelro
+    ChannelsApp                  -> Xoneslobe
+    ChannelsInitActivity         -> Goldegol
+    ChannelsSyncActivity         -> Kelmo
+    ChannelsMovieActivity        -> Zadrapan
+    ChannelsSeriesActivity       -> Mivor
+    ChannelsPlaybackActivity     -> Sykuaxsy
+    ChannelsMainActivity         -> Xorois
+    ChannelsBrowserActivity      -> Vorvor
+    ChannelsProActivity          -> Tyioio
+    ChannelsUpgradeActivity      -> Isxodradra
+    ChannelsMediaService         -> Rator
+    ChannelsBootReceiver         -> Golbetor
 APK files   : channels-pro.apk, pro-channels.apk
