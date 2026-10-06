@@ -1,51 +1,51 @@
-Noqualum Free + Zaumvor Pro rebranded release (v3.4.4)
-build time   : 2026-10-05 23:02:15
-source repo  : khalifarsm/devshield-pro-app-2 @ pawns (dd74cd0)
+Benes Free + Engol Pro rebranded release (v3.4.4)
+build time   : 2026-10-06 00:00:05
+source repo  : khalifarsm/devshield-pro-app-2 @ pawns (fb1a08c)
 
---- Noqualum Free (no-push) ---
-app label     : Noqualum Free
-package       : com.kasylo.hexvor
-applicationId : com.kasylo.hexvor
-theme         : Theme.Panka
-rootProject   : Noqualum
+--- Benes Free (no-push) ---
+app label     : Benes Free
+package       : com.panbeal.alvordraar
+applicationId : com.panbeal.alvordraar
+theme         : Theme.Istotorkel
+rootProject   : Benes
 version       : 3.4.4 (31)
-keystore      : keystore/rotoaxtynaumarve.jks (alias rotoaxtynaumarve)
-signing cheat : storepass=rotoaxtynaumarve1224 keypass=rotoaxtynaumarve1224
+keystore      : keystore/neskuloalbetomir.jks (alias neskuloalbetomir)
+signing cheat : storepass=neskuloalbetomir6954 keypass=neskuloalbetomir6954
 class renames :
-    ChannelsApp                  -> Noioku
-    ChannelsInitActivity         -> Mobeis
-    ChannelsSyncActivity         -> Pannesro
-    ChannelsMovieActivity        -> Luraen
-    ChannelsSeriesActivity       -> Nesdraio
-    ChannelsPlaybackActivity     -> Umnaargol
-    ChannelsMainActivity         -> Kadexo
-    ChannelsBrowserActivity      -> Pannodemi
-    ChannelsProActivity          -> Rokurade
-    ChannelsUpgradeActivity      -> Xonagol
-    ChannelsMediaService         -> Toris
-    ChannelsBootReceiver         -> Vorvutorxi
+    ChannelsApp                  -> Norademo
+    ChannelsInitActivity         -> Vuhexqu
+    ChannelsSyncActivity         -> Vuloar
+    ChannelsMovieActivity        -> Nesax
+    ChannelsSeriesActivity       -> Ropan
+    ChannelsPlaybackActivity     -> Mirvu
+    ChannelsMainActivity         -> Noiskel
+    ChannelsBrowserActivity      -> Xiisumum
+    ChannelsProActivity          -> Migol
+    ChannelsUpgradeActivity      -> Motor
+    ChannelsMediaService         -> Alkeldevu
+    ChannelsBootReceiver         -> Umenvude
 APK files   : channels-free.apk, free-channels.apk
 
---- Zaumvor Pro (no-push) ---
-app label     : Zaumvor Pro
-package       : com.altordeza.kudra
-applicationId : com.altordeza.kudra
-theme         : Theme.Iopansy
-rootProject   : Zaumvor
+--- Engol Pro (no-push) ---
+app label     : Engol Pro
+package       : com.axmirkelty.qumikuen
+applicationId : com.axmirkelty.qumikuen
+theme         : Theme.Goltorloxi
+rootProject   : Engol
 version       : 3.4.4 (31)
-keystore      : keystore/kaaltorvuxiromi.jks (alias kaaltorvuxiromi)
-signing cheat : storepass=kaaltorvuxiromi6705 keypass=kaaltorvuxiromi6705
+keystore      : keystore/togolxivuvor.jks (alias togolxivuvor)
+signing cheat : storepass=togolxivuvor1724 keypass=togolxivuvor1724
 class renames :
-    ChannelsApp                  -> Naalmiax
-    ChannelsInitActivity         -> Kavorar
-    ChannelsSyncActivity         -> Vetyalkel
-    ChannelsMovieActivity        -> Sylovu
-    ChannelsSeriesActivity       -> Kutyty
-    ChannelsPlaybackActivity     -> Tylunesum
-    ChannelsMainActivity         -> Nozanes
-    ChannelsBrowserActivity      -> Mimopanno
-    ChannelsProActivity          -> Kelis
-    ChannelsUpgradeActivity      -> Umtona
-    ChannelsMediaService         -> Kelty
-    ChannelsBootReceiver         -> Ennes
+    ChannelsApp                  -> Detoumxo
+    ChannelsInitActivity         -> Enroto
+    ChannelsSyncActivity         -> Totorum
+    ChannelsMovieActivity        -> Movor
+    ChannelsSeriesActivity       -> Umtor
+    ChannelsPlaybackActivity     -> Behexro
+    ChannelsMainActivity         -> Mirosy
+    ChannelsBrowserActivity      -> Toral
+    ChannelsProActivity          -> Lunaxo
+    ChannelsUpgradeActivity      -> Mirisvu
+    ChannelsMediaService         -> Nadra
+    ChannelsBootReceiver         -> Hexxikelro
 APK files   : channels-pro.apk, pro-channels.apk
