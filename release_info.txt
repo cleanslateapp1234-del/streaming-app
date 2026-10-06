@@ -1,4 +1,4 @@
---- Nones Free (no-push) ---
+--- Nones Free (release) ---
 app label     : Nones Free
 package       : com.kelnaaxku.enkel
 applicationId : com.kelnaaxku.enkel
@@ -26,7 +26,7 @@ class renames :
     ChannelsMediaService         -> Bekel
     ChannelsBootReceiver         -> Quvuxo
 
---- Verobeal Pro (no-push) ---
+--- Verobeal Pro (release) ---
 app label     : Verobeal Pro
 package       : com.vevuna.kalomiza
 applicationId : com.vevuna.kalomiza
