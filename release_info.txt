@@ -1,55 +1,55 @@
---- Alrokel Free (release) ---
-app label     : Alrokel Free
-package       : com.veioio.qubenagol
-applicationId : com.veioio.qubenagol
-theme         : Theme.Istor
-rootProject   : Alrokel
-version       : 3.4.8 (648)
-signing       : alias kaarvorkelvuzaramo (passwords withheld)
-buildConfig   : DB_NAME=rovuen.db PREFS_NAME=qunestove_prefs LOG_TAG=Alhexxoza
-payment url   : https://alrokel-pay.pages.dev/pay
-contact email : support@alrokel.com
-clarity id    : altylutybekel
-obf dictionary: tools/obf-alrokel.txt
-palette       : accent=38 deg bg=265 deg
+--- Vusyal Free (release) ---
+app label     : Vusyal Free
+package       : com.enqunoqu.vuiogollo
+applicationId : com.enqunoqu.vuiogollo
+theme         : Theme.Migolty
+rootProject   : Vusyal
+version       : 3.4.10 (1028)
+signing       : alias qukunohexalqude (passwords withheld)
+buildConfig   : DB_NAME=rolosyax.db PREFS_NAME=axxipan_prefs LOG_TAG=Syhexmi
+payment url   : https://vusyal-pay.pages.dev/pay
+contact email : support@vusyal.com
+clarity id    : roqumirxi
+obf dictionary: tools/obf-vusyal.txt
+palette       : accent=38 deg bg=240 deg
 class renames :
-    ChannelsApp                  -> Tytylu
-    ChannelsInitActivity         -> Mirzaen
-    ChannelsSyncActivity         -> Drave
-    ChannelsMovieActivity        -> Dralo
-    ChannelsSeriesActivity       -> Zagol
-    ChannelsPlaybackActivity     -> Alhexxo
-    ChannelsMainActivity         -> Kazapan
-    ChannelsBrowserActivity      -> Nesku
-    ChannelsProActivity          -> Umhex
-    ChannelsUpgradeActivity      -> Golal
-    ChannelsMediaService         -> Xoximora
-    ChannelsBootReceiver         -> Miisnopan
+    ChannelsApp                  -> Isisro
+    ChannelsInitActivity         -> Neskaromi
+    ChannelsSyncActivity         -> Vorku
+    ChannelsMovieActivity        -> Raroluax
+    ChannelsSeriesActivity       -> Tygol
+    ChannelsPlaybackActivity     -> Artordraza
+    ChannelsMainActivity         -> Kakaquku
+    ChannelsBrowserActivity      -> Golsy
+    ChannelsProActivity          -> Sykagol
+    ChannelsUpgradeActivity      -> Nespanroro
+    ChannelsMediaService         -> Alhex
+    ChannelsBootReceiver         -> Drabekelax
 
---- Nogolum Pro (release) ---
-app label     : Nogolum Pro
-package       : com.vezaisza.kuvorluza
-applicationId : com.vezaisza.kuvorluza
-theme         : Theme.Mixitymo
-rootProject   : Nogolum
-version       : 3.4.26 (811)
-signing       : alias bepankelveum (passwords withheld)
-buildConfig   : DB_NAME=katy.db PREFS_NAME=mirismolu_prefs LOG_TAG=Toxiis
-payment url   : https://nogolum-pay.pages.dev/pay
-contact email : support@nogolum.com
-clarity id    : tyaxrapanvumi
-obf dictionary: tools/obf-nogolum.txt
-palette       : accent=12 deg bg=228 deg
+--- Vortormi Pro (release) ---
+app label     : Vortormi Pro
+package       : com.zatorio.syisiohex
+applicationId : com.zatorio.syisiohex
+theme         : Theme.Draxinesxo
+rootProject   : Vortormi
+version       : 3.4.8 (1050)
+signing       : alias naxovuartoraral (passwords withheld)
+buildConfig   : DB_NAME=axka.db PREFS_NAME=tygolna_prefs LOG_TAG=Axnamikel
+payment url   : https://vortormi-pay.pages.dev/pay
+contact email : support@vortormi.com
+clarity id    : kelxinadraenal
+obf dictionary: tools/obf-vortormi.txt
+palette       : accent=262 deg bg=228 deg
 class renames :
-    ChannelsApp                  -> Kudra
-    ChannelsInitActivity         -> Nogol
-    ChannelsSyncActivity         -> Vukelhexro
-    ChannelsMovieActivity        -> Sykelnabe
-    ChannelsSeriesActivity       -> Panismir
-    ChannelsPlaybackActivity     -> Alxolu
-    ChannelsMainActivity         -> Devuka
-    ChannelsBrowserActivity      -> Torisraza
-    ChannelsProActivity          -> Nesveum
-    ChannelsUpgradeActivity      -> Xityenlu
-    ChannelsMediaService         -> Voralgol
-    ChannelsBootReceiver         -> Mirkakel
+    ChannelsApp                  -> Dezamo
+    ChannelsInitActivity         -> Deraen
+    ChannelsSyncActivity         -> Mirvorra
+    ChannelsMovieActivity        -> Ludra
+    ChannelsSeriesActivity       -> Kuaxxiio
+    ChannelsPlaybackActivity     -> Rakunestor
+    ChannelsMainActivity         -> Draroty
+    ChannelsBrowserActivity      -> Lubedra
+    ChannelsProActivity          -> Rokaende
+    ChannelsUpgradeActivity      -> Umisdra
+    ChannelsMediaService         -> Golvor
+    ChannelsBootReceiver         -> Voris
