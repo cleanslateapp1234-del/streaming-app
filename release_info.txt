@@ -1,51 +1,55 @@
-Vorve Free + Tytohex Pro rebranded release (v3.4.4)
-build time   : 2026-10-06 01:33:06
-source repo  : khalifarsm/devshield-pro-app-2 @ pawns (03cc3b0)
-
---- Vorve Free (no-push) ---
-app label     : Vorve Free
-package       : com.ionotove.mivorpan
-applicationId : com.ionotove.mivorpan
-theme         : Theme.Tymirzadra
-rootProject   : Vorve
-version       : 3.4.4 (31)
-keystore      : keystore/depantoxopanum.jks (alias depantoxopanum)
-signing cheat : storepass=depantoxopanum1452 keypass=depantoxopanum1452
+--- Nones Free (no-push) ---
+app label     : Nones Free
+package       : com.kelnaaxku.enkel
+applicationId : com.kelnaaxku.enkel
+theme         : Theme.Vordraqu
+rootProject   : Nones
+version       : 3.4.13 (180)
+signing       : alias araxpansyiona (passwords withheld)
+buildConfig   : DB_NAME=lurokelal.db PREFS_NAME=hexty_prefs LOG_TAG=Vorbesyhex
+payment url   : https://nones-pay.pages.dev/pay
+contact email : support@nones.com
+clarity id    : axnoiosykelve
+obf dictionary: tools/obf-nones.txt
+palette       : accent=330 deg bg=252 deg
 class renames :
-    ChannelsApp                  -> Qumois
-    ChannelsInitActivity         -> Artornagol
-    ChannelsSyncActivity         -> Voriovenes
-    ChannelsMovieActivity        -> Lotyty
-    ChannelsSeriesActivity       -> Zator
-    ChannelsPlaybackActivity     -> Vorar
-    ChannelsMainActivity         -> Vortydramo
-    ChannelsBrowserActivity      -> Ralolukel
-    ChannelsProActivity          -> Nopanio
-    ChannelsUpgradeActivity      -> Mirdraarka
-    ChannelsMediaService         -> Ioaxenum
-    ChannelsBootReceiver         -> Mirvu
-APK files   : channels-free.apk, free-channels.apk
+    ChannelsApp                  -> Toralopan
+    ChannelsInitActivity         -> Panisnoku
+    ChannelsSyncActivity         -> Luvorar
+    ChannelsMovieActivity        -> Ispan
+    ChannelsSeriesActivity       -> Nomonomir
+    ChannelsPlaybackActivity     -> Umdraza
+    ChannelsMainActivity         -> Vunotor
+    ChannelsBrowserActivity      -> Vorty
+    ChannelsProActivity          -> Tynes
+    ChannelsUpgradeActivity      -> Kelve
+    ChannelsMediaService         -> Bekel
+    ChannelsBootReceiver         -> Quvuxo
 
---- Tytohex Pro (no-push) ---
-app label     : Tytohex Pro
-package       : com.rabexi.almitor
-applicationId : com.rabexi.almitor
-theme         : Theme.Toalbe
-rootProject   : Tytohex
-version       : 3.4.4 (31)
-keystore      : keystore/vormirzatyargolio.jks (alias vormirzatyargolio)
-signing cheat : storepass=vormirzatyargolio2792 keypass=vormirzatyargolio2792
+--- Verobeal Pro (no-push) ---
+app label     : Verobeal Pro
+package       : com.vevuna.kalomiza
+applicationId : com.vevuna.kalomiza
+theme         : Theme.Torbeveto
+rootProject   : Verobeal
+version       : 3.4.32 (229)
+signing       : alias veumkubexokeldraio (passwords withheld)
+buildConfig   : DB_NAME=ismoty.db PREFS_NAME=rora_prefs LOG_TAG=Ioisto
+payment url   : https://verobeal-pay.pages.dev/pay
+contact email : support@verobeal.com
+clarity id    : velogolalkumito
+obf dictionary: tools/obf-verobeal.txt
+palette       : accent=285 deg bg=222 deg
 class renames :
-    ChannelsApp                  -> Xoneslobe
-    ChannelsInitActivity         -> Goldegol
-    ChannelsSyncActivity         -> Kelmo
-    ChannelsMovieActivity        -> Zadrapan
-    ChannelsSeriesActivity       -> Mivor
-    ChannelsPlaybackActivity     -> Sykuaxsy
-    ChannelsMainActivity         -> Xorois
-    ChannelsBrowserActivity      -> Vorvor
-    ChannelsProActivity          -> Tyioio
-    ChannelsUpgradeActivity      -> Isxodradra
-    ChannelsMediaService         -> Rator
-    ChannelsBootReceiver         -> Golbetor
-APK files   : channels-pro.apk, pro-channels.apk
+    ChannelsApp                  -> Qukelkunes
+    ChannelsInitActivity         -> Kahexxidra
+    ChannelsSyncActivity         -> Vevorar
+    ChannelsMovieActivity        -> Kutymi
+    ChannelsSeriesActivity       -> Axnaio
+    ChannelsPlaybackActivity     -> Vumir
+    ChannelsMainActivity         -> Entokanes
+    ChannelsBrowserActivity      -> Dekuisbe
+    ChannelsProActivity          -> Hexbeiovu
+    ChannelsUpgradeActivity      -> Lopansy
+    ChannelsMediaService         -> Qumirraen
+    ChannelsBootReceiver         -> Panno
