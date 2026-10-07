@@ -1,63 +1,63 @@
---- Hexax Free (release) ---
-app label     : Hexax Free
-package       : com.tykuis.tymiax
-applicationId : com.tykuis.tymiax
-theme         : Theme.Nobetor
-rootProject   : Hexax
-version       : 3.4.8 (733)
-signing       : alias qugolroropantymi (passwords withheld)
-buildConfig   : DB_NAME=tyioto.db PREFS_NAME=kami_prefs LOG_TAG=Zadraty
-payment url   : https://hexax-pay.pages.dev/pay
-contact email : support@hexax.com
-clarity id    : isqudemirragolgol
-obf dictionary: tools/obf-hexax.txt
-palette       : accent=285 deg bg=222 deg
+--- Nokuenvor Free (release) ---
+app label     : Nokuenvor Free
+package       : com.keltor.mirkais
+applicationId : com.keltor.mirkais
+theme         : Theme.Xiralora
+rootProject   : Nokuenvor
+version       : 3.4.7 (666)
+signing       : alias bevurokuzamimo (passwords withheld)
+buildConfig   : DB_NAME=rosyka.db PREFS_NAME=dexino_prefs LOG_TAG=Hexkelen
+payment url   : https://nokuenvor-pay.pages.dev/pay
+contact email : support@nokuenvor.com
+clarity id    : moallumiququ
+obf dictionary: tools/obf-nokuenvor.txt
+palette       : accent=205 deg bg=252 deg
 class renames :
-    ChannelsApp -> Ramimiren
-    ChannelsInitActivity -> Hexisxo
-    ChannelsSyncActivity -> Noarlura
-    ChannelsMovieActivity -> Draka
-    ChannelsSeriesActivity -> Tylukel
-    ChannelsPlaybackActivity -> Syzanesro
-    ChannelsMainActivity -> Moloty
-    ChannelsBrowserActivity -> Tomixones
-    ChannelsProActivity -> Mirisnobe
-    ChannelsUpgradeActivity -> Iomir
-    ChannelsMediaService -> Moioen
-    ChannelsBootReceiver -> Totorumty
+    ChannelsApp -> Hexio
+    ChannelsInitActivity -> Kelku
+    ChannelsSyncActivity -> Tyaxkelgol
+    ChannelsMovieActivity -> Mirbebetor
+    ChannelsSeriesActivity -> Draishex
+    ChannelsPlaybackActivity -> Panbe
+    ChannelsMainActivity -> Mipanar
+    ChannelsBrowserActivity -> Enmirvu
+    ChannelsProActivity -> Devorna
+    ChannelsUpgradeActivity -> Quxototy
+    ChannelsMediaService -> Qukeldra
+    ChannelsBootReceiver -> Ioloxo
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.tykuis.tymiax.service.Tyxoumis
-    tech.channels.pro.service.BackgroundShareService -> com.tykuis.tymiax.service.Xitytyde
-    tech.channels.pro.service.ConsentGateActivity -> com.tykuis.tymiax.service.Roumza
+    tech.channels.pro.service.ForegroundShareService -> com.keltor.mirkais.service.Alenty
+    tech.channels.pro.service.BackgroundShareService -> com.keltor.mirkais.service.Mirvera
+    tech.channels.pro.service.ConsentGateActivity -> com.keltor.mirkais.service.Naroqu
 
---- Todrakais Pro (release) ---
-app label     : Todrakais Pro
-package       : com.qumir.lusyhexka
-applicationId : com.qumir.lusyhexka
-theme         : Theme.Venesza
-rootProject   : Todrakais
-version       : 3.4.26 (658)
-signing       : alias romirpannoxohexnes (passwords withheld)
-buildConfig   : DB_NAME=alneskura.db PREFS_NAME=depan_prefs LOG_TAG=Golku
-payment url   : https://todrakais-pay.pages.dev/pay
-contact email : support@todrakais.com
-clarity id    : golbeisnesbe
-obf dictionary: tools/obf-todrakais.txt
-palette       : accent=262 deg bg=222 deg
+--- Kadraisve Pro (release) ---
+app label     : Kadraisve Pro
+package       : com.bekelen.lorakulu
+applicationId : com.bekelen.lorakulu
+theme         : Theme.Raxokato
+rootProject   : Kadraisve
+version       : 3.4.39 (534)
+signing       : alias pantortokukelxoio (passwords withheld)
+buildConfig   : DB_NAME=xomi.db PREFS_NAME=deio_prefs LOG_TAG=Dravupanra
+payment url   : https://kadraisve-pay.pages.dev/pay
+contact email : support@kadraisve.com
+clarity id    : tyumtorbetypanlu
+obf dictionary: tools/obf-kadraisve.txt
+palette       : accent=330 deg bg=210 deg
 class renames :
-    ChannelsApp -> Zamoku
-    ChannelsInitActivity -> Kelluar
-    ChannelsSyncActivity -> Tolokumo
-    ChannelsMovieActivity -> Golmirgol
-    ChannelsSeriesActivity -> Tygolno
-    ChannelsPlaybackActivity -> Torvebe
-    ChannelsMainActivity -> Nomoka
-    ChannelsBrowserActivity -> Ravelode
-    ChannelsProActivity -> Qutyioty
-    ChannelsUpgradeActivity -> Beroza
-    ChannelsMediaService -> Quhexka
-    ChannelsBootReceiver -> Kamimi
+    ChannelsApp -> Iovorroty
+    ChannelsInitActivity -> Syumde
+    ChannelsSyncActivity -> Torioax
+    ChannelsMovieActivity -> Kelislo
+    ChannelsSeriesActivity -> Syiomo
+    ChannelsPlaybackActivity -> Isxiarza
+    ChannelsMainActivity -> Kelhexioxo
+    ChannelsBrowserActivity -> Eniones
+    ChannelsProActivity -> Panmokaal
+    ChannelsUpgradeActivity -> Sytormoqu
+    ChannelsMediaService -> Motodeen
+    ChannelsBootReceiver -> Xisyqukel
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.qumir.lusyhexka.service.Mirlo
-    tech.channels.pro.service.BackgroundShareService -> com.qumir.lusyhexka.service.Umlutoris
-    tech.channels.pro.service.ConsentGateActivity -> com.qumir.lusyhexka.service.Kaioxoto
+    tech.channels.pro.service.ForegroundShareService -> com.bekelen.lorakulu.service.Armir
+    tech.channels.pro.service.BackgroundShareService -> com.bekelen.lorakulu.service.Tylual
+    tech.channels.pro.service.ConsentGateActivity -> com.bekelen.lorakulu.service.Enqumi
