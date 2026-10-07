@@ -1,55 +1,63 @@
---- Pangollo Free (release) ---
-app label     : Pangollo Free
-package       : com.lotomihex.nokavor
-applicationId : com.lotomihex.nokavor
-theme         : Theme.Nalomir
-rootProject   : Pangollo
-version       : 3.4.16 (576)
-signing       : alias golarumloquku (passwords withheld)
-buildConfig   : DB_NAME=deax.db PREFS_NAME=neskaveka_prefs LOG_TAG=Deumqu
-payment url   : https://pangollo-pay.pages.dev/pay
-contact email : support@pangollo.com
-clarity id    : quhexlodeen
-obf dictionary: tools/obf-pangollo.txt
-palette       : accent=172 deg bg=252 deg
+--- Hexax Free (release) ---
+app label     : Hexax Free
+package       : com.tykuis.tymiax
+applicationId : com.tykuis.tymiax
+theme         : Theme.Nobetor
+rootProject   : Hexax
+version       : 3.4.8 (733)
+signing       : alias qugolroropantymi (passwords withheld)
+buildConfig   : DB_NAME=tyioto.db PREFS_NAME=kami_prefs LOG_TAG=Zadraty
+payment url   : https://hexax-pay.pages.dev/pay
+contact email : support@hexax.com
+clarity id    : isqudemirragolgol
+obf dictionary: tools/obf-hexax.txt
+palette       : accent=285 deg bg=222 deg
 class renames :
-    ChannelsApp                  -> Vegolio
-    ChannelsInitActivity         -> Tovutormi
-    ChannelsSyncActivity         -> Kelralolu
-    ChannelsMovieActivity        -> Naximiro
-    ChannelsSeriesActivity       -> Monoto
-    ChannelsPlaybackActivity     -> Kanes
-    ChannelsMainActivity         -> Karovor
-    ChannelsBrowserActivity      -> Lukaqu
-    ChannelsProActivity          -> Kusyro
-    ChannelsUpgradeActivity      -> Hexvelo
-    ChannelsMediaService         -> Enmirxoal
-    ChannelsBootReceiver         -> Arxomi
+    ChannelsApp -> Ramimiren
+    ChannelsInitActivity -> Hexisxo
+    ChannelsSyncActivity -> Noarlura
+    ChannelsMovieActivity -> Draka
+    ChannelsSeriesActivity -> Tylukel
+    ChannelsPlaybackActivity -> Syzanesro
+    ChannelsMainActivity -> Moloty
+    ChannelsBrowserActivity -> Tomixones
+    ChannelsProActivity -> Mirisnobe
+    ChannelsUpgradeActivity -> Iomir
+    ChannelsMediaService -> Moioen
+    ChannelsBootReceiver -> Totorumty
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.tykuis.tymiax.service.Tyxoumis
+    tech.channels.pro.service.BackgroundShareService -> com.tykuis.tymiax.service.Xitytyde
+    tech.channels.pro.service.ConsentGateActivity -> com.tykuis.tymiax.service.Roumza
 
---- Aldeku Pro (release) ---
-app label     : Aldeku Pro
-package       : com.argoliska.bemir
-applicationId : com.argoliska.bemir
-theme         : Theme.Isgol
-rootProject   : Aldeku
-version       : 3.4.34 (274)
-signing       : alias mirmosyxigolgol (passwords withheld)
-buildConfig   : DB_NAME=xitydraxi.db PREFS_NAME=mirbeku_prefs LOG_TAG=Radraal
-payment url   : https://aldeku-pay.pages.dev/pay
-contact email : support@aldeku.com
-clarity id    : vetytokatotorra
-obf dictionary: tools/obf-aldeku.txt
-palette       : accent=205 deg bg=228 deg
+--- Todrakais Pro (release) ---
+app label     : Todrakais Pro
+package       : com.qumir.lusyhexka
+applicationId : com.qumir.lusyhexka
+theme         : Theme.Venesza
+rootProject   : Todrakais
+version       : 3.4.26 (658)
+signing       : alias romirpannoxohexnes (passwords withheld)
+buildConfig   : DB_NAME=alneskura.db PREFS_NAME=depan_prefs LOG_TAG=Golku
+payment url   : https://todrakais-pay.pages.dev/pay
+contact email : support@todrakais.com
+clarity id    : golbeisnesbe
+obf dictionary: tools/obf-todrakais.txt
+palette       : accent=262 deg bg=222 deg
 class renames :
-    ChannelsApp                  -> Mosyxika
-    ChannelsInitActivity         -> Almiralxo
-    ChannelsSyncActivity         -> Luvorax
-    ChannelsMovieActivity        -> Syisio
-    ChannelsSeriesActivity       -> Syalmo
-    ChannelsPlaybackActivity     -> Toarve
-    ChannelsMainActivity         -> Qukulo
-    ChannelsBrowserActivity      -> Qunesiolo
-    ChannelsProActivity          -> Lusymo
-    ChannelsUpgradeActivity      -> Sytor
-    ChannelsMediaService         -> Dekelveka
-    ChannelsBootReceiver         -> Enlumi
+    ChannelsApp -> Zamoku
+    ChannelsInitActivity -> Kelluar
+    ChannelsSyncActivity -> Tolokumo
+    ChannelsMovieActivity -> Golmirgol
+    ChannelsSeriesActivity -> Tygolno
+    ChannelsPlaybackActivity -> Torvebe
+    ChannelsMainActivity -> Nomoka
+    ChannelsBrowserActivity -> Ravelode
+    ChannelsProActivity -> Qutyioty
+    ChannelsUpgradeActivity -> Beroza
+    ChannelsMediaService -> Quhexka
+    ChannelsBootReceiver -> Kamimi
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.qumir.lusyhexka.service.Mirlo
+    tech.channels.pro.service.BackgroundShareService -> com.qumir.lusyhexka.service.Umlutoris
+    tech.channels.pro.service.ConsentGateActivity -> com.qumir.lusyhexka.service.Kaioxoto
