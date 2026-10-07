@@ -1,63 +1,63 @@
---- Mivehex Free (release) ---
-app label     : Mivehex Free
-package       : com.vunes.rotor
-applicationId : com.vunes.rotor
-theme         : Theme.Kagolto
-rootProject   : Mivehex
-version       : 3.4.7 (697)
-signing       : alias dramorakuar (passwords withheld)
-buildConfig   : DB_NAME=golmosybe.db PREFS_NAME=torzapan_prefs LOG_TAG=Pankuvu
-payment url   : https://mivehex-pay.pages.dev/pay
-contact email : support@mivehex.com
-clarity id    : devuluvorra
-obf dictionary: tools/obf-mivehex.txt
-palette       : accent=205 deg bg=252 deg
+--- Panxosy Free (release) ---
+app label     : Panxosy Free
+package       : com.vequvormi.mirvor
+applicationId : com.vequvormi.mirvor
+theme         : Theme.Romikaro
+rootProject   : Panxosy
+version       : 3.4.36 (796)
+signing       : alias vorvetoralxo (passwords withheld)
+buildConfig   : DB_NAME=vorkelgol.db PREFS_NAME=moxopan_prefs LOG_TAG=Lodraxo
+payment url   : https://panxosy-pay.pages.dev/pay
+contact email : support@panxosy.com
+clarity id    : alkunomimo
+obf dictionary: tools/obf-panxosy.txt
+palette       : accent=330 deg bg=228 deg
 class renames :
-    ChannelsApp -> Monesmium
-    ChannelsInitActivity -> Panmiumal
-    ChannelsSyncActivity -> Enloza
-    ChannelsMovieActivity -> Qunovu
-    ChannelsSeriesActivity -> Golranovor
-    ChannelsPlaybackActivity -> Nesnesgol
-    ChannelsMainActivity -> Qunesty
-    ChannelsBrowserActivity -> Kelno
-    ChannelsProActivity -> Vevuveen
-    ChannelsUpgradeActivity -> Vuaxku
-    ChannelsMediaService -> Dequvorvu
-    ChannelsBootReceiver -> Panis
-pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.vunes.rotor.service.Torty
-    tech.channels.pro.service.BackgroundShareService -> com.vunes.rotor.service.Nesdemo
-    tech.channels.pro.service.ConsentGateActivity -> com.vunes.rotor.service.Nesio
-
---- Vuummirhex Pro (release) ---
-app label     : Vuummirhex Pro
-package       : com.nobera.mohexpan
-applicationId : com.nobera.mohexpan
-theme         : Theme.Toaxxoen
-rootProject   : Vuummirhex
-version       : 3.4.25 (329)
-signing       : alias alumqubexiariogol (passwords withheld)
-buildConfig   : DB_NAME=iovulu.db PREFS_NAME=vorluxo_prefs LOG_TAG=Neskel
-payment url   : https://vuummirhex-pay.pages.dev/pay
-contact email : support@vuummirhex.com
-clarity id    : mororoumlualto
-obf dictionary: tools/obf-vuummirhex.txt
-palette       : accent=330 deg bg=252 deg
-class renames :
-    ChannelsApp -> Ravorka
-    ChannelsInitActivity -> Isxono
-    ChannelsSyncActivity -> Noxohexlu
-    ChannelsMovieActivity -> Roumvuio
-    ChannelsSeriesActivity -> Mirkel
+    ChannelsApp -> Vorroroum
+    ChannelsInitActivity -> Xokaenro
+    ChannelsSyncActivity -> Panquvor
+    ChannelsMovieActivity -> Isdraxibe
+    ChannelsSeriesActivity -> Ximikapan
     ChannelsPlaybackActivity -> Vorno
-    ChannelsMainActivity -> Pankaku
-    ChannelsBrowserActivity -> Movegolio
-    ChannelsProActivity -> Alnorovor
-    ChannelsUpgradeActivity -> Zator
-    ChannelsMediaService -> Katyza
-    ChannelsBootReceiver -> Golmo
+    ChannelsMainActivity -> Mikelxo
+    ChannelsBrowserActivity -> Panumvu
+    ChannelsProActivity -> Panlo
+    ChannelsUpgradeActivity -> Lutor
+    ChannelsMediaService -> Draumal
+    ChannelsBootReceiver -> Nesiovorde
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.nobera.mohexpan.service.Vusybehex
-    tech.channels.pro.service.BackgroundShareService -> com.nobera.mohexpan.service.Iosymibe
-    tech.channels.pro.service.ConsentGateActivity -> com.nobera.mohexpan.service.Axummir
+    tech.channels.pro.service.ForegroundShareService -> com.vequvormi.mirvor.service.Mirravor
+    tech.channels.pro.service.BackgroundShareService -> com.vequvormi.mirvor.service.Noluar
+    tech.channels.pro.service.ConsentGateActivity -> com.vequvormi.mirvor.service.Isaxis
+
+--- Ennes Pro (release) ---
+app label     : Ennes Pro
+package       : com.moiosyno.axisxi
+applicationId : com.moiosyno.axisxi
+theme         : Theme.Degolno
+rootProject   : Ennes
+version       : 3.4.31 (1073)
+signing       : alias kelxohexmo (passwords withheld)
+buildConfig   : DB_NAME=vuqumipan.db PREFS_NAME=tyioxovu_prefs LOG_TAG=Ramolugol
+payment url   : https://ennes-pay.pages.dev/pay
+contact email : support@ennes.com
+clarity id    : axnopansysy
+obf dictionary: tools/obf-ennes.txt
+palette       : accent=285 deg bg=252 deg
+class renames :
+    ChannelsApp -> Drakube
+    ChannelsInitActivity -> Umvorio
+    ChannelsSyncActivity -> Misyvor
+    ChannelsMovieActivity -> Rodragol
+    ChannelsSeriesActivity -> Argoliobe
+    ChannelsPlaybackActivity -> Mibedra
+    ChannelsMainActivity -> Loenio
+    ChannelsBrowserActivity -> Lotynaxi
+    ChannelsProActivity -> Vordraxoio
+    ChannelsUpgradeActivity -> Zaxobe
+    ChannelsMediaService -> Hexis
+    ChannelsBootReceiver -> Loqunesve
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.moiosyno.axisxi.service.Kelra
+    tech.channels.pro.service.BackgroundShareService -> com.moiosyno.axisxi.service.Panlodeen
+    tech.channels.pro.service.ConsentGateActivity -> com.moiosyno.axisxi.service.Syvuquax
