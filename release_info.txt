@@ -1,55 +1,55 @@
---- Torar Free (release) ---
-app label     : Torar Free
-package       : com.isnoax.mirminara
-applicationId : com.isnoax.mirminara
-theme         : Theme.Sydeve
-rootProject   : Torar
-version       : 3.4.11 (322)
-signing       : alias iskuhexroqukano (passwords withheld)
-buildConfig   : DB_NAME=debeal.db PREFS_NAME=tortonove_prefs LOG_TAG=Alismirmi
-payment url   : https://torar-pay.pages.dev/pay
-contact email : support@torar.com
-clarity id    : nomimovuxi
-obf dictionary: tools/obf-torar.txt
-palette       : accent=262 deg bg=228 deg
+--- Pangollo Free (release) ---
+app label     : Pangollo Free
+package       : com.lotomihex.nokavor
+applicationId : com.lotomihex.nokavor
+theme         : Theme.Nalomir
+rootProject   : Pangollo
+version       : 3.4.16 (576)
+signing       : alias golarumloquku (passwords withheld)
+buildConfig   : DB_NAME=deax.db PREFS_NAME=neskaveka_prefs LOG_TAG=Deumqu
+payment url   : https://pangollo-pay.pages.dev/pay
+contact email : support@pangollo.com
+clarity id    : quhexlodeen
+obf dictionary: tools/obf-pangollo.txt
+palette       : accent=172 deg bg=252 deg
 class renames :
-    ChannelsApp                  -> Zaalioal
-    ChannelsInitActivity         -> Nesis
-    ChannelsSyncActivity         -> Xopanqumo
-    ChannelsMovieActivity        -> Dravulo
-    ChannelsSeriesActivity       -> Vuhexralu
-    ChannelsPlaybackActivity     -> Pannanaax
-    ChannelsMainActivity         -> Iodelu
-    ChannelsBrowserActivity      -> Zaaxna
-    ChannelsProActivity          -> Rokelkel
-    ChannelsUpgradeActivity      -> Xirakumir
-    ChannelsMediaService         -> Moaxar
-    ChannelsBootReceiver         -> Nabeiobe
+    ChannelsApp                  -> Vegolio
+    ChannelsInitActivity         -> Tovutormi
+    ChannelsSyncActivity         -> Kelralolu
+    ChannelsMovieActivity        -> Naximiro
+    ChannelsSeriesActivity       -> Monoto
+    ChannelsPlaybackActivity     -> Kanes
+    ChannelsMainActivity         -> Karovor
+    ChannelsBrowserActivity      -> Lukaqu
+    ChannelsProActivity          -> Kusyro
+    ChannelsUpgradeActivity      -> Hexvelo
+    ChannelsMediaService         -> Enmirxoal
+    ChannelsBootReceiver         -> Arxomi
 
---- Nesdraisal Pro (release) ---
-app label     : Nesdraisal Pro
-package       : com.umtorisbe.dramo
-applicationId : com.umtorisbe.dramo
-theme         : Theme.Vorisraxi
-rootProject   : Nesdraisal
-version       : 3.4.36 (812)
-signing       : alias iomirkaumgol (passwords withheld)
-buildConfig   : DB_NAME=arvuvu.db PREFS_NAME=kutybexo_prefs LOG_TAG=Arhexxi
-payment url   : https://nesdraisal-pay.pages.dev/pay
-contact email : support@nesdraisal.com
-clarity id    : rozaumzanes
-obf dictionary: tools/obf-nesdraisal.txt
-palette       : accent=96 deg bg=252 deg
+--- Aldeku Pro (release) ---
+app label     : Aldeku Pro
+package       : com.argoliska.bemir
+applicationId : com.argoliska.bemir
+theme         : Theme.Isgol
+rootProject   : Aldeku
+version       : 3.4.34 (274)
+signing       : alias mirmosyxigolgol (passwords withheld)
+buildConfig   : DB_NAME=xitydraxi.db PREFS_NAME=mirbeku_prefs LOG_TAG=Radraal
+payment url   : https://aldeku-pay.pages.dev/pay
+contact email : support@aldeku.com
+clarity id    : vetytokatotorra
+obf dictionary: tools/obf-aldeku.txt
+palette       : accent=205 deg bg=228 deg
 class renames :
-    ChannelsApp                  -> Golax
-    ChannelsInitActivity         -> Mienxo
-    ChannelsSyncActivity         -> Kelenen
-    ChannelsMovieActivity        -> Syionaku
-    ChannelsSeriesActivity       -> Lualmitor
-    ChannelsPlaybackActivity     -> Xovebehex
-    ChannelsMainActivity         -> Tones
-    ChannelsBrowserActivity      -> Qurolu
-    ChannelsProActivity          -> Alenvetor
-    ChannelsUpgradeActivity      -> Sytyiolu
-    ChannelsMediaService         -> Vunokelpan
-    ChannelsBootReceiver         -> Hexvuradra
+    ChannelsApp                  -> Mosyxika
+    ChannelsInitActivity         -> Almiralxo
+    ChannelsSyncActivity         -> Luvorax
+    ChannelsMovieActivity        -> Syisio
+    ChannelsSeriesActivity       -> Syalmo
+    ChannelsPlaybackActivity     -> Toarve
+    ChannelsMainActivity         -> Qukulo
+    ChannelsBrowserActivity      -> Qunesiolo
+    ChannelsProActivity          -> Lusymo
+    ChannelsUpgradeActivity      -> Sytor
+    ChannelsMediaService         -> Dekelveka
+    ChannelsBootReceiver         -> Enlumi
