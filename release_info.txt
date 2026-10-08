@@ -1,63 +1,63 @@
---- Hexhexqu Free (release) ---
-app label     : Hexhexqu Free
-package       : com.tyaxro.almilovu
-applicationId : com.tyaxro.almilovu
-theme         : Theme.Moumde
-rootProject   : Hexhexqu
-version       : 3.4.16 (256)
-signing       : alias qurosynahex (passwords withheld)
-buildConfig   : DB_NAME=vuen.db PREFS_NAME=ensydeax_prefs LOG_TAG=Xikel
-payment url   : https://hexhexqu-pay.pages.dev/pay
-contact email : support@hexhexqu.com
-clarity id    : panaxnanamoxo
-obf dictionary: tools/obf-hexhexqu.txt
-palette       : accent=262 deg bg=222 deg
+--- Panzagolbe Free (release) ---
+app label     : Panzagolbe Free
+package       : com.loalhexve.tyluquto
+applicationId : com.loalhexve.tyluquto
+theme         : Theme.Xodra
+rootProject   : Panzagolbe
+version       : 3.4.21 (468)
+signing       : alias xohexkeldra (passwords withheld)
+buildConfig   : DB_NAME=kaiszadra.db PREFS_NAME=nahex_prefs LOG_TAG=Migol
+payment url   : https://panzagolbe-pay.pages.dev/pay
+contact email : support@panzagolbe.com
+clarity id    : kukelargolmi
+obf dictionary: tools/obf-panzagolbe.txt
+palette       : accent=285 deg bg=222 deg
 class renames :
-    ChannelsApp -> Mokel
-    ChannelsInitActivity -> Vorquvelu
-    ChannelsSyncActivity -> Ioralusy
-    ChannelsMovieActivity -> Lumirnalu
-    ChannelsSeriesActivity -> Tyumtoar
-    ChannelsPlaybackActivity -> Lovor
-    ChannelsMainActivity -> Mirdegol
-    ChannelsBrowserActivity -> Miraxnes
-    ChannelsProActivity -> Kurolo
-    ChannelsUpgradeActivity -> Tototo
-    ChannelsMediaService -> Vuvormohex
-    ChannelsBootReceiver -> Torqu
+    ChannelsApp -> Qualumgol
+    ChannelsInitActivity -> Artyraxi
+    ChannelsSyncActivity -> Iokurolu
+    ChannelsMovieActivity -> Golty
+    ChannelsSeriesActivity -> Mirnesro
+    ChannelsPlaybackActivity -> Ranes
+    ChannelsMainActivity -> Miaxmira
+    ChannelsBrowserActivity -> Behex
+    ChannelsProActivity -> Xikuvuqu
+    ChannelsUpgradeActivity -> Xosytor
+    ChannelsMediaService -> Umpanbe
+    ChannelsBootReceiver -> Hexlo
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.tyaxro.almilovu.service.Qunaza
-    tech.channels.pro.service.BackgroundShareService -> com.tyaxro.almilovu.service.Vortygol
-    tech.channels.pro.service.ConsentGateActivity -> com.tyaxro.almilovu.service.Neslovuno
+    tech.channels.pro.service.ForegroundShareService -> com.loalhexve.tyluquto.service.Entorku
+    tech.channels.pro.service.BackgroundShareService -> com.loalhexve.tyluquto.service.Hexmi
+    tech.channels.pro.service.ConsentGateActivity -> com.loalhexve.tyluquto.service.Tortyar
 
---- Dexora Pro (release) ---
-app label     : Dexora Pro
-package       : com.neszavu.xobemolo
-applicationId : com.neszavu.xobemolo
-theme         : Theme.Mirar
-rootProject   : Dexora
-version       : 3.4.34 (558)
-signing       : alias lunomirkupannesal (passwords withheld)
-buildConfig   : DB_NAME=totoqu.db PREFS_NAME=axarlu_prefs LOG_TAG=Modrabe
-payment url   : https://dexora-pay.pages.dev/pay
-contact email : support@dexora.com
-clarity id    : vorioxodear
-obf dictionary: tools/obf-dexora.txt
-palette       : accent=205 deg bg=265 deg
+--- Golqumiqu Pro (release) ---
+app label     : Golqumiqu Pro
+package       : com.kello.mirkel
+applicationId : com.kello.mirkel
+theme         : Theme.Nakuxikel
+rootProject   : Golqumiqu
+version       : 3.4.40 (278)
+signing       : alias vorpanromiio (passwords withheld)
+buildConfig   : DB_NAME=ispan.db PREFS_NAME=vumipan_prefs LOG_TAG=Luenbe
+payment url   : https://golqumiqu-pay.pages.dev/pay
+contact email : support@golqumiqu.com
+clarity id    : sykelbetyarrotor
+obf dictionary: tools/obf-golqumiqu.txt
+palette       : accent=172 deg bg=252 deg
 class renames :
-    ChannelsApp -> Altor
-    ChannelsInitActivity -> Drahexro
-    ChannelsSyncActivity -> Neskapanno
-    ChannelsMovieActivity -> Vetoio
-    ChannelsSeriesActivity -> Synes
-    ChannelsPlaybackActivity -> Kelvutor
-    ChannelsMainActivity -> Miris
-    ChannelsBrowserActivity -> Modramo
-    ChannelsProActivity -> Xiarumal
-    ChannelsUpgradeActivity -> Xoluiones
-    ChannelsMediaService -> Axkel
-    ChannelsBootReceiver -> Vedralu
+    ChannelsApp -> Raiohex
+    ChannelsInitActivity -> Detono
+    ChannelsSyncActivity -> Vorio
+    ChannelsMovieActivity -> Notovor
+    ChannelsSeriesActivity -> Panpanis
+    ChannelsPlaybackActivity -> Tovor
+    ChannelsMainActivity -> Ennes
+    ChannelsBrowserActivity -> Isqusyto
+    ChannelsProActivity -> Lolutor
+    ChannelsUpgradeActivity -> Zakator
+    ChannelsMediaService -> Sydra
+    ChannelsBootReceiver -> Luxohexal
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.neszavu.xobemolo.service.Alaldesy
-    tech.channels.pro.service.BackgroundShareService -> com.neszavu.xobemolo.service.Miral
-    tech.channels.pro.service.ConsentGateActivity -> com.neszavu.xobemolo.service.Zazanesku
+    tech.channels.pro.service.ForegroundShareService -> com.kello.mirkel.service.Tykumo
+    tech.channels.pro.service.BackgroundShareService -> com.kello.mirkel.service.Vutoza
+    tech.channels.pro.service.ConsentGateActivity -> com.kello.mirkel.service.Issybe
