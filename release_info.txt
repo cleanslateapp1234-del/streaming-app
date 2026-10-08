@@ -1,63 +1,63 @@
---- Kelvu Free (release) ---
-app label     : Kelvu Free
-package       : com.dekaxi.loalalna
-applicationId : com.dekaxi.loalalna
-theme         : Theme.Vetyloqu
-rootProject   : Kelvu
-version       : 3.4.33 (469)
-signing       : alias sypanpanenbety (passwords withheld)
-buildConfig   : DB_NAME=tydranes.db PREFS_NAME=hexumis_prefs LOG_TAG=Qumiqunes
-payment url   : https://kelvu-pay.pages.dev/pay
-contact email : support@kelvu.com
-clarity id    : vumoluenluty
-obf dictionary: tools/obf-kelvu.txt
-palette       : accent=12 deg bg=265 deg
+--- Noxihex Free (release) ---
+app label     : Noxihex Free
+package       : com.umtoum.kelnesdena
+applicationId : com.umtoum.kelnesdena
+theme         : Theme.Alvor
+rootProject   : Noxihex
+version       : 3.4.34 (567)
+signing       : alias loqukuquvorromir (passwords withheld)
+buildConfig   : DB_NAME=draal.db PREFS_NAME=lutysy_prefs LOG_TAG=Dravevuhex
+payment url   : https://noxihex-pay.pages.dev/pay
+contact email : support@noxihex.com
+clarity id    : qudraxoxilokaku
+obf dictionary: tools/obf-noxihex.txt
+palette       : accent=285 deg bg=210 deg
 class renames :
-    ChannelsApp -> Roisaxhex
-    ChannelsInitActivity -> Mikato
-    ChannelsSyncActivity -> Istorkumi
-    ChannelsMovieActivity -> Nomivelu
-    ChannelsSeriesActivity -> Kelar
-    ChannelsPlaybackActivity -> Xiisku
-    ChannelsMainActivity -> Synoty
-    ChannelsBrowserActivity -> Vorrona
-    ChannelsProActivity -> Zatorkel
-    ChannelsUpgradeActivity -> Iokaloty
-    ChannelsMediaService -> Engolpan
-    ChannelsBootReceiver -> Axdedra
+    ChannelsApp -> Vorsy
+    ChannelsInitActivity -> Luxoaxxo
+    ChannelsSyncActivity -> Vuiolu
+    ChannelsMovieActivity -> Kunano
+    ChannelsSeriesActivity -> Deloxi
+    ChannelsPlaybackActivity -> Naalvor
+    ChannelsMainActivity -> Zavor
+    ChannelsBrowserActivity -> Miumvu
+    ChannelsProActivity -> Xilohex
+    ChannelsUpgradeActivity -> Enmiisna
+    ChannelsMediaService -> Keldra
+    ChannelsBootReceiver -> Goldra
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.dekaxi.loalalna.service.Detor
-    tech.channels.pro.service.BackgroundShareService -> com.dekaxi.loalalna.service.Isaxnade
-    tech.channels.pro.service.ConsentGateActivity -> com.dekaxi.loalalna.service.Mialna
+    tech.channels.pro.service.ForegroundShareService -> com.umtoum.kelnesdena.service.Luzavekel
+    tech.channels.pro.service.BackgroundShareService -> com.umtoum.kelnesdena.service.Panno
+    tech.channels.pro.service.ConsentGateActivity -> com.umtoum.kelnesdena.service.Mopan
 
---- Golnes Pro (release) ---
-app label     : Golnes Pro
-package       : com.axtormoxi.vutorvude
-applicationId : com.axtormoxi.vutorvude
-theme         : Theme.Mirrapan
-rootProject   : Golnes
-version       : 3.4.20 (456)
-signing       : alias neslukakelalxipan (passwords withheld)
-buildConfig   : DB_NAME=zazaiogol.db PREFS_NAME=drade_prefs LOG_TAG=Axxivu
-payment url   : https://golnes-pay.pages.dev/pay
-contact email : support@golnes.com
-clarity id    : tygolxitono
-obf dictionary: tools/obf-golnes.txt
-palette       : accent=12 deg bg=222 deg
+--- Dradraax Pro (release) ---
+app label     : Dradraax Pro
+package       : com.goltormir.bepan
+applicationId : com.goltormir.bepan
+theme         : Theme.Loradeka
+rootProject   : Dradraax
+version       : 3.4.12 (747)
+signing       : alias torvusyvorisluxi (passwords withheld)
+buildConfig   : DB_NAME=panmo.db PREFS_NAME=axroumka_prefs LOG_TAG=Vorxi
+payment url   : https://dradraax-pay.pages.dev/pay
+contact email : support@dradraax.com
+clarity id    : golnodeloal
+obf dictionary: tools/obf-dradraax.txt
+palette       : accent=96 deg bg=222 deg
 class renames :
-    ChannelsApp -> Tohexveku
-    ChannelsInitActivity -> Vorlu
-    ChannelsSyncActivity -> Mirvorkel
-    ChannelsMovieActivity -> Miralxoio
-    ChannelsSeriesActivity -> Namixo
-    ChannelsPlaybackActivity -> Syistorsy
-    ChannelsMainActivity -> Novor
-    ChannelsBrowserActivity -> Quxiis
-    ChannelsProActivity -> Umarmir
-    ChannelsUpgradeActivity -> Golve
-    ChannelsMediaService -> Artyqude
-    ChannelsBootReceiver -> Quisdra
+    ChannelsApp -> Enluar
+    ChannelsInitActivity -> Karoka
+    ChannelsSyncActivity -> Denes
+    ChannelsMovieActivity -> Vorlupan
+    ChannelsSeriesActivity -> Kadraro
+    ChannelsPlaybackActivity -> Typangolis
+    ChannelsMainActivity -> Tozaxi
+    ChannelsBrowserActivity -> Xodraxien
+    ChannelsProActivity -> Axdramirmi
+    ChannelsUpgradeActivity -> Lunes
+    ChannelsMediaService -> Tyenxito
+    ChannelsBootReceiver -> Mirza
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.axtormoxi.vutorvude.service.Panaxtoum
-    tech.channels.pro.service.BackgroundShareService -> com.axtormoxi.vutorvude.service.Kudeno
-    tech.channels.pro.service.ConsentGateActivity -> com.axtormoxi.vutorvude.service.Panxode
+    tech.channels.pro.service.ForegroundShareService -> com.goltormir.bepan.service.Vexiraty
+    tech.channels.pro.service.BackgroundShareService -> com.goltormir.bepan.service.Dravu
+    tech.channels.pro.service.ConsentGateActivity -> com.goltormir.bepan.service.Ioloromir
