@@ -1,63 +1,63 @@
---- Kelve Free (release) ---
-app label     : Kelve Free
-package       : com.kelmir.tykuzalu
-applicationId : com.kelmir.tykuzalu
-theme         : Theme.Mikamimo
-rootProject   : Kelve
-version       : 3.4.12 (927)
-signing       : alias noranesdedrakuluza (passwords withheld)
-buildConfig   : DB_NAME=vuxoarxi.db PREFS_NAME=torrora_prefs LOG_TAG=Zahexdravu
-payment url   : https://kelve-pay.pages.dev/pay
-contact email : support@kelve.com
-clarity id    : toaxmirzalobe
-obf dictionary: tools/obf-kelve.txt
-palette       : accent=330 deg bg=240 deg
+--- Velosy Free (release) ---
+app label     : Velosy Free
+package       : com.tolumirqu.ronestorra
+applicationId : com.tolumirqu.ronestorra
+theme         : Theme.Pantyku
+rootProject   : Velosy
+version       : 3.4.27 (266)
+signing       : alias toluveiokusylu (passwords withheld)
+buildConfig   : DB_NAME=axis.db PREFS_NAME=aris_prefs LOG_TAG=Movuto
+payment url   : https://velosy-pay.pages.dev/pay
+contact email : support@velosy.com
+clarity id    : tormibeaxkanesar
+obf dictionary: tools/obf-velosy.txt
+palette       : accent=96 deg bg=222 deg
 class renames :
-    ChannelsApp -> Tornamial
-    ChannelsInitActivity -> Vornaar
-    ChannelsSyncActivity -> Vehexis
-    ChannelsMovieActivity -> Goldetor
-    ChannelsSeriesActivity -> Axmir
-    ChannelsPlaybackActivity -> Bexikel
-    ChannelsMainActivity -> Umhexty
-    ChannelsBrowserActivity -> Mirio
-    ChannelsProActivity -> Xinaio
-    ChannelsUpgradeActivity -> Xivual
-    ChannelsMediaService -> Dramoxilu
-    ChannelsBootReceiver -> Narolo
+    ChannelsApp -> Bezagol
+    ChannelsInitActivity -> Mirbeximi
+    ChannelsSyncActivity -> Zabetois
+    ChannelsMovieActivity -> Xokelumlo
+    ChannelsSeriesActivity -> Syhexax
+    ChannelsPlaybackActivity -> Axdeallo
+    ChannelsMainActivity -> Raende
+    ChannelsBrowserActivity -> Xohexvorxo
+    ChannelsProActivity -> Todranoto
+    ChannelsUpgradeActivity -> Draalra
+    ChannelsMediaService -> Moalal
+    ChannelsBootReceiver -> Nanapan
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.kelmir.tykuzalu.service.Tornes
-    tech.channels.pro.service.BackgroundShareService -> com.kelmir.tykuzalu.service.Kamotorsy
-    tech.channels.pro.service.ConsentGateActivity -> com.kelmir.tykuzalu.service.Nesiolo
+    tech.channels.pro.service.ForegroundShareService -> com.tolumirqu.ronestorra.service.Tymokelen
+    tech.channels.pro.service.BackgroundShareService -> com.tolumirqu.ronestorra.service.Nanessy
+    tech.channels.pro.service.ConsentGateActivity -> com.tolumirqu.ronestorra.service.Kanessy
 
---- Vukelum Pro (release) ---
-app label     : Vukelum Pro
-package       : com.sylomo.lurakel
-applicationId : com.sylomo.lurakel
-theme         : Theme.Kakelloza
-rootProject   : Vukelum
-version       : 3.4.21 (677)
-signing       : alias drahexkakunaum (passwords withheld)
-buildConfig   : DB_NAME=mokano.db PREFS_NAME=aralxi_prefs LOG_TAG=Vorhexkel
-payment url   : https://vukelum-pay.pages.dev/pay
-contact email : support@vukelum.com
-clarity id    : kelnesromoxi
-obf dictionary: tools/obf-vukelum.txt
+--- Ensylu Pro (release) ---
+app label     : Ensylu Pro
+package       : com.venaluio.pantor
+applicationId : com.venaluio.pantor
+theme         : Theme.Kaiokude
+rootProject   : Ensylu
+version       : 3.4.28 (595)
+signing       : alias raxibemirto (passwords withheld)
+buildConfig   : DB_NAME=axku.db PREFS_NAME=milovorra_prefs LOG_TAG=Rokais
+payment url   : https://ensylu-pay.pages.dev/pay
+contact email : support@ensylu.com
+clarity id    : draaxtoioloumde
+obf dictionary: tools/obf-ensylu.txt
 palette       : accent=172 deg bg=210 deg
 class renames :
-    ChannelsApp -> Xihex
-    ChannelsInitActivity -> Vorio
-    ChannelsSyncActivity -> Issybe
-    ChannelsMovieActivity -> Xinoenqu
-    ChannelsSeriesActivity -> Moveve
-    ChannelsPlaybackActivity -> Dexomirkel
-    ChannelsMainActivity -> Monave
-    ChannelsBrowserActivity -> Miioxi
-    ChannelsProActivity -> Ioioarku
-    ChannelsUpgradeActivity -> Toxode
-    ChannelsMediaService -> Tytonesro
-    ChannelsBootReceiver -> Golumiode
+    ChannelsApp -> Nabede
+    ChannelsInitActivity -> Ximito
+    ChannelsSyncActivity -> Beenioal
+    ChannelsMovieActivity -> Sytyro
+    ChannelsSeriesActivity -> Kelzakusy
+    ChannelsPlaybackActivity -> Golno
+    ChannelsMainActivity -> Endra
+    ChannelsBrowserActivity -> Ioioar
+    ChannelsProActivity -> Vukelxito
+    ChannelsUpgradeActivity -> Xiqudemi
+    ChannelsMediaService -> Axkanesmo
+    ChannelsBootReceiver -> Norami
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.sylomo.lurakel.service.Toqusyum
-    tech.channels.pro.service.BackgroundShareService -> com.sylomo.lurakel.service.Nesmo
-    tech.channels.pro.service.ConsentGateActivity -> com.sylomo.lurakel.service.Bedralo
+    tech.channels.pro.service.ForegroundShareService -> com.venaluio.pantor.service.Umistyno
+    tech.channels.pro.service.BackgroundShareService -> com.venaluio.pantor.service.Axmirtoum
+    tech.channels.pro.service.ConsentGateActivity -> com.venaluio.pantor.service.Betorqutor
