@@ -1,63 +1,63 @@
---- Vumizapan Free (release) ---
-app label     : Vumizapan Free
-package       : com.mirdramibe.umxoxo
-applicationId : com.mirdramibe.umxoxo
-theme         : Theme.Kelpanno
-rootProject   : Vumizapan
-version       : 3.4.37 (221)
-signing       : alias kuloraumxoneslo (passwords withheld)
-buildConfig   : DB_NAME=kelto.db PREFS_NAME=noal_prefs LOG_TAG=Moaxnes
-payment url   : https://vumizapan-pay.pages.dev/pay
-contact email : support@vumizapan.com
-clarity id    : arloisis
-obf dictionary: tools/obf-vumizapan.txt
-palette       : accent=172 deg bg=252 deg
+--- Pandrara Free (release) ---
+app label     : Pandrara Free
+package       : com.sygolto.arvorqusy
+applicationId : com.sygolto.arvorqusy
+theme         : Theme.Katoto
+rootProject   : Pandrara
+version       : 3.4.19 (944)
+signing       : alias natoluqunes (passwords withheld)
+buildConfig   : DB_NAME=naqu.db PREFS_NAME=quka_prefs LOG_TAG=Rotor
+payment url   : https://pandrara-pay.pages.dev/pay
+contact email : support@pandrara.com
+clarity id    : xipangolioxi
+obf dictionary: tools/obf-pandrara.txt
+palette       : accent=96 deg bg=228 deg
 class renames :
-    ChannelsApp -> Torkanes
-    ChannelsInitActivity -> Lonesvormo
-    ChannelsSyncActivity -> Moxoal
-    ChannelsMovieActivity -> Toennakel
-    ChannelsSeriesActivity -> Roloto
-    ChannelsPlaybackActivity -> Drahex
-    ChannelsMainActivity -> Kagolro
-    ChannelsBrowserActivity -> Sykatoal
-    ChannelsProActivity -> Tyzaxove
-    ChannelsUpgradeActivity -> Xovor
-    ChannelsMediaService -> Ardra
-    ChannelsBootReceiver -> Mokaza
+    ChannelsApp -> Panaxty
+    ChannelsInitActivity -> Kuenaxen
+    ChannelsSyncActivity -> Mirkaza
+    ChannelsMovieActivity -> Sykelaxlu
+    ChannelsSeriesActivity -> Vortomo
+    ChannelsPlaybackActivity -> Vorde
+    ChannelsMainActivity -> Rohexkelna
+    ChannelsBrowserActivity -> Neshexmi
+    ChannelsProActivity -> Topanmirar
+    ChannelsUpgradeActivity -> Engolal
+    ChannelsMediaService -> Luzaka
+    ChannelsBootReceiver -> Iszagol
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.mirdramibe.umxoxo.service.Veenka
-    tech.channels.pro.service.BackgroundShareService -> com.mirdramibe.umxoxo.service.Vornavor
-    tech.channels.pro.service.ConsentGateActivity -> com.mirdramibe.umxoxo.service.Enaris
+    tech.channels.pro.service.ForegroundShareService -> com.sygolto.arvorqusy.service.Zaaxkumi
+    tech.channels.pro.service.BackgroundShareService -> com.sygolto.arvorqusy.service.Hexxika
+    tech.channels.pro.service.ConsentGateActivity -> com.sygolto.arvorqusy.service.Bexogol
 
---- Namovor Pro (release) ---
-app label     : Namovor Pro
-package       : com.mobesyza.nosybeen
-applicationId : com.mobesyza.nosybeen
-theme         : Theme.Ronokel
-rootProject   : Namovor
-version       : 3.4.11 (397)
-signing       : alias veumtynoxoto (passwords withheld)
-buildConfig   : DB_NAME=quzaroax.db PREFS_NAME=nesvu_prefs LOG_TAG=Mirvexiza
-payment url   : https://namovor-pay.pages.dev/pay
-contact email : support@namovor.com
-clarity id    : enxozanazaar
-obf dictionary: tools/obf-namovor.txt
-palette       : accent=205 deg bg=265 deg
+--- Vequen Pro (release) ---
+app label     : Vequen Pro
+package       : com.ramikade.alquenqu
+applicationId : com.ramikade.alquenqu
+theme         : Theme.Ioiolu
+rootProject   : Vequen
+version       : 3.4.29 (932)
+signing       : alias vorpannagol (passwords withheld)
+buildConfig   : DB_NAME=alnoisum.db PREFS_NAME=panro_prefs LOG_TAG=Algolhexmi
+payment url   : https://vequen-pay.pages.dev/pay
+contact email : support@vequen.com
+clarity id    : vexiverololoxo
+obf dictionary: tools/obf-vequen.txt
+palette       : accent=38 deg bg=240 deg
 class renames :
-    ChannelsApp -> Luqumir
-    ChannelsInitActivity -> Mikelenpan
-    ChannelsSyncActivity -> Kaalna
-    ChannelsMovieActivity -> Golalpan
-    ChannelsSeriesActivity -> Kukelmir
-    ChannelsPlaybackActivity -> Vukel
-    ChannelsMainActivity -> Ionoax
-    ChannelsBrowserActivity -> Alxora
-    ChannelsProActivity -> Vorar
-    ChannelsUpgradeActivity -> Xiionalu
-    ChannelsMediaService -> Draqunesxi
-    ChannelsBootReceiver -> Lokukahex
+    ChannelsApp -> Mirtyvu
+    ChannelsInitActivity -> Monoxode
+    ChannelsSyncActivity -> Kuludeka
+    ChannelsMovieActivity -> Drarahex
+    ChannelsSeriesActivity -> Denesloku
+    ChannelsPlaybackActivity -> Nesbekel
+    ChannelsMainActivity -> Torvu
+    ChannelsBrowserActivity -> Xivormi
+    ChannelsProActivity -> Rabeentor
+    ChannelsUpgradeActivity -> Pandraquen
+    ChannelsMediaService -> Noenmity
+    ChannelsBootReceiver -> Kunatorpan
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.mobesyza.nosybeen.service.Iomimi
-    tech.channels.pro.service.BackgroundShareService -> com.mobesyza.nosybeen.service.Isbemi
-    tech.channels.pro.service.ConsentGateActivity -> com.mobesyza.nosybeen.service.Debeis
+    tech.channels.pro.service.ForegroundShareService -> com.ramikade.alquenqu.service.Syiskelde
+    tech.channels.pro.service.BackgroundShareService -> com.ramikade.alquenqu.service.Xinadeno
+    tech.channels.pro.service.ConsentGateActivity -> com.ramikade.alquenqu.service.Isbexi
