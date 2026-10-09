@@ -1,63 +1,63 @@
---- Velosy Free (release) ---
-app label     : Velosy Free
-package       : com.tolumirqu.ronestorra
-applicationId : com.tolumirqu.ronestorra
-theme         : Theme.Pantyku
-rootProject   : Velosy
-version       : 3.4.27 (266)
-signing       : alias toluveiokusylu (passwords withheld)
-buildConfig   : DB_NAME=axis.db PREFS_NAME=aris_prefs LOG_TAG=Movuto
-payment url   : https://velosy-pay.pages.dev/pay
-contact email : support@velosy.com
-clarity id    : tormibeaxkanesar
-obf dictionary: tools/obf-velosy.txt
-palette       : accent=96 deg bg=222 deg
+--- Hexis Free (release) ---
+app label     : Hexis Free
+package       : com.tormirto.demiis
+applicationId : com.tormirto.demiis
+theme         : Theme.Kagol
+rootProject   : Hexis
+version       : 3.4.28 (241)
+signing       : alias voriskelarenluve (passwords withheld)
+buildConfig   : DB_NAME=kumobera.db PREFS_NAME=pannes_prefs LOG_TAG=Totyvulu
+payment url   : https://hexis-pay.pages.dev/pay
+contact email : support@hexis.com
+clarity id    : kelzavequzagol
+obf dictionary: tools/obf-hexis.txt
+palette       : accent=285 deg bg=222 deg
 class renames :
-    ChannelsApp -> Bezagol
-    ChannelsInitActivity -> Mirbeximi
-    ChannelsSyncActivity -> Zabetois
-    ChannelsMovieActivity -> Xokelumlo
-    ChannelsSeriesActivity -> Syhexax
-    ChannelsPlaybackActivity -> Axdeallo
-    ChannelsMainActivity -> Raende
-    ChannelsBrowserActivity -> Xohexvorxo
-    ChannelsProActivity -> Todranoto
-    ChannelsUpgradeActivity -> Draalra
-    ChannelsMediaService -> Moalal
-    ChannelsBootReceiver -> Nanapan
+    ChannelsApp -> Quxois
+    ChannelsInitActivity -> Draxokel
+    ChannelsSyncActivity -> Axrapanmo
+    ChannelsMovieActivity -> Nesde
+    ChannelsSeriesActivity -> Alhexalum
+    ChannelsPlaybackActivity -> Ionovequ
+    ChannelsMainActivity -> Depan
+    ChannelsBrowserActivity -> Dradenes
+    ChannelsProActivity -> Syalmi
+    ChannelsUpgradeActivity -> Luenxilo
+    ChannelsMediaService -> Mirravukel
+    ChannelsBootReceiver -> Axsyiois
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.tolumirqu.ronestorra.service.Tymokelen
-    tech.channels.pro.service.BackgroundShareService -> com.tolumirqu.ronestorra.service.Nanessy
-    tech.channels.pro.service.ConsentGateActivity -> com.tolumirqu.ronestorra.service.Kanessy
+    tech.channels.pro.service.ForegroundShareService -> com.tormirto.demiis.service.Arpannator
+    tech.channels.pro.service.BackgroundShareService -> com.tormirto.demiis.service.Qunaal
+    tech.channels.pro.service.ConsentGateActivity -> com.tormirto.demiis.service.Vupan
 
---- Ensylu Pro (release) ---
-app label     : Ensylu Pro
-package       : com.venaluio.pantor
-applicationId : com.venaluio.pantor
-theme         : Theme.Kaiokude
-rootProject   : Ensylu
-version       : 3.4.28 (595)
-signing       : alias raxibemirto (passwords withheld)
-buildConfig   : DB_NAME=axku.db PREFS_NAME=milovorra_prefs LOG_TAG=Rokais
-payment url   : https://ensylu-pay.pages.dev/pay
-contact email : support@ensylu.com
-clarity id    : draaxtoioloumde
-obf dictionary: tools/obf-ensylu.txt
-palette       : accent=172 deg bg=210 deg
+--- Panxidralu Pro (release) ---
+app label     : Panxidralu Pro
+package       : com.vorro.detybemir
+applicationId : com.vorro.detybemir
+theme         : Theme.Qunosyum
+rootProject   : Panxidralu
+version       : 3.4.27 (439)
+signing       : alias draalluvorloumdraen (passwords withheld)
+buildConfig   : DB_NAME=ququ.db PREFS_NAME=bemir_prefs LOG_TAG=Hexalde
+payment url   : https://panxidralu-pay.pages.dev/pay
+contact email : support@panxidralu.com
+clarity id    : roraquvorraty
+obf dictionary: tools/obf-panxidralu.txt
+palette       : accent=38 deg bg=265 deg
 class renames :
-    ChannelsApp -> Nabede
-    ChannelsInitActivity -> Ximito
-    ChannelsSyncActivity -> Beenioal
-    ChannelsMovieActivity -> Sytyro
-    ChannelsSeriesActivity -> Kelzakusy
-    ChannelsPlaybackActivity -> Golno
-    ChannelsMainActivity -> Endra
-    ChannelsBrowserActivity -> Ioioar
-    ChannelsProActivity -> Vukelxito
-    ChannelsUpgradeActivity -> Xiqudemi
-    ChannelsMediaService -> Axkanesmo
-    ChannelsBootReceiver -> Norami
+    ChannelsApp -> Kaarza
+    ChannelsInitActivity -> Denano
+    ChannelsSyncActivity -> Iotordravu
+    ChannelsMovieActivity -> Umneslo
+    ChannelsSeriesActivity -> Vutorpan
+    ChannelsPlaybackActivity -> Aldrade
+    ChannelsMainActivity -> Mirtybelu
+    ChannelsBrowserActivity -> Isentorsy
+    ChannelsProActivity -> Ennagolmo
+    ChannelsUpgradeActivity -> Nosymona
+    ChannelsMediaService -> Artyqu
+    ChannelsBootReceiver -> Axraum
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.venaluio.pantor.service.Umistyno
-    tech.channels.pro.service.BackgroundShareService -> com.venaluio.pantor.service.Axmirtoum
-    tech.channels.pro.service.ConsentGateActivity -> com.venaluio.pantor.service.Betorqutor
+    tech.channels.pro.service.ForegroundShareService -> com.vorro.detybemir.service.Nobena
+    tech.channels.pro.service.BackgroundShareService -> com.vorro.detybemir.service.Miumkaxi
+    tech.channels.pro.service.ConsentGateActivity -> com.vorro.detybemir.service.Zatosy
