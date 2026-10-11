@@ -1,63 +1,63 @@
---- Lonoxo Free (release) ---
-app label     : Lonoxo Free
-package       : com.lovor.tokel
-applicationId : com.lovor.tokel
-theme         : Theme.Panmozaal
-rootProject   : Lonoxo
-version       : 3.4.36 (579)
-signing       : alias rotorloalnaka (passwords withheld)
-buildConfig   : DB_NAME=mirhex.db PREFS_NAME=pannomoen_prefs LOG_TAG=Dramoisar
-payment url   : https://lonoxo-pay.pages.dev/pay
-contact email : support@lonoxo.com
-clarity id    : quiotoronabe
-obf dictionary: tools/obf-lonoxo.txt
-palette       : accent=330 deg bg=240 deg
+--- Nomono Free (release) ---
+app label     : Nomono Free
+package       : com.rovor.toqupan
+applicationId : com.rovor.toqupan
+theme         : Theme.Vorqu
+rootProject   : Nomono
+version       : 3.4.26 (682)
+signing       : alias vesyaxdexomir (passwords withheld)
+buildConfig   : DB_NAME=moro.db PREFS_NAME=vetorxoto_prefs LOG_TAG=Kelvornes
+payment url   : https://nomono-pay.pages.dev/pay
+contact email : support@nomono.com
+clarity id    : vuentorbear
+obf dictionary: tools/obf-nomono.txt
+palette       : accent=96 deg bg=252 deg
 class renames :
-    ChannelsApp -> Golumar
-    ChannelsInitActivity -> Zatois
-    ChannelsSyncActivity -> Umgolmo
-    ChannelsMovieActivity -> Nodenaax
-    ChannelsSeriesActivity -> Armirnoar
-    ChannelsPlaybackActivity -> Axalbeve
-    ChannelsMainActivity -> Notornesty
-    ChannelsBrowserActivity -> Torza
-    ChannelsProActivity -> Enrones
-    ChannelsUpgradeActivity -> Neslu
-    ChannelsMediaService -> Kelvuhex
-    ChannelsBootReceiver -> Rolono
+    ChannelsApp -> Mitotyis
+    ChannelsInitActivity -> Alneskuum
+    ChannelsSyncActivity -> Mikelbeum
+    ChannelsMovieActivity -> Rarovexi
+    ChannelsSeriesActivity -> Ispanza
+    ChannelsPlaybackActivity -> Mityku
+    ChannelsMainActivity -> Mirbebeum
+    ChannelsBrowserActivity -> Dealtyqu
+    ChannelsProActivity -> Debehexgol
+    ChannelsUpgradeActivity -> Zaaxzahex
+    ChannelsMediaService -> Xovelusy
+    ChannelsBootReceiver -> Umtornono
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.lovor.tokel.service.Bedeax
-    tech.channels.pro.service.BackgroundShareService -> com.lovor.tokel.service.Envor
-    tech.channels.pro.service.ConsentGateActivity -> com.lovor.tokel.service.Raxonohex
+    tech.channels.pro.service.ForegroundShareService -> com.rovor.toqupan.service.Toralkavor
+    tech.channels.pro.service.BackgroundShareService -> com.rovor.toqupan.service.Nokelalqu
+    tech.channels.pro.service.ConsentGateActivity -> com.rovor.toqupan.service.Qutoal
 
---- Raqual Pro (release) ---
-app label     : Raqual Pro
-package       : com.miriodeve.morora
-applicationId : com.miriodeve.morora
-theme         : Theme.Isroxina
-rootProject   : Raqual
-version       : 3.4.34 (473)
-signing       : alias mizasymiarumkelra (passwords withheld)
-buildConfig   : DB_NAME=quro.db PREFS_NAME=mirovorlu_prefs LOG_TAG=Nesen
-payment url   : https://raqual-pay.pages.dev/pay
-contact email : support@raqual.com
-clarity id    : xinamiqukutyvu
-obf dictionary: tools/obf-raqual.txt
-palette       : accent=172 deg bg=222 deg
+--- Losyquku Pro (release) ---
+app label     : Losyquku Pro
+package       : com.paniotomo.tosyio
+applicationId : com.paniotomo.tosyio
+theme         : Theme.Xivuxohex
+rootProject   : Losyquku
+version       : 3.4.19 (370)
+signing       : alias vutorkelqu (passwords withheld)
+buildConfig   : DB_NAME=benesensy.db PREFS_NAME=arve_prefs LOG_TAG=Belotyde
+payment url   : https://losyquku-pay.pages.dev/pay
+contact email : support@losyquku.com
+clarity id    : vudrarararokanona
+obf dictionary: tools/obf-losyquku.txt
+palette       : accent=285 deg bg=210 deg
 class renames :
-    ChannelsApp -> Kanovor
-    ChannelsInitActivity -> Mirvordeku
-    ChannelsSyncActivity -> Zamones
-    ChannelsMovieActivity -> Xoumve
-    ChannelsSeriesActivity -> Nakukara
-    ChannelsPlaybackActivity -> Kelar
-    ChannelsMainActivity -> Axvorna
-    ChannelsBrowserActivity -> Benoar
-    ChannelsProActivity -> Kelku
-    ChannelsUpgradeActivity -> Vornesal
-    ChannelsMediaService -> Hexka
-    ChannelsBootReceiver -> Gollomirra
+    ChannelsApp -> Iovorgolvu
+    ChannelsInitActivity -> Umentorax
+    ChannelsSyncActivity -> Iotoka
+    ChannelsMovieActivity -> Zapanalvu
+    ChannelsSeriesActivity -> Qulovede
+    ChannelsPlaybackActivity -> Torsy
+    ChannelsMainActivity -> Enisqu
+    ChannelsBrowserActivity -> Kukelumis
+    ChannelsProActivity -> Qutyve
+    ChannelsUpgradeActivity -> Vornohexqu
+    ChannelsMediaService -> Xidra
+    ChannelsBootReceiver -> Kapanve
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.miriodeve.morora.service.Vorminahex
-    tech.channels.pro.service.BackgroundShareService -> com.miriodeve.morora.service.Isnavor
-    tech.channels.pro.service.ConsentGateActivity -> com.miriodeve.morora.service.Nahex
+    tech.channels.pro.service.ForegroundShareService -> com.paniotomo.tosyio.service.Kusyvorlo
+    tech.channels.pro.service.BackgroundShareService -> com.paniotomo.tosyio.service.Vorquioza
+    tech.channels.pro.service.ConsentGateActivity -> com.paniotomo.tosyio.service.Neshex
