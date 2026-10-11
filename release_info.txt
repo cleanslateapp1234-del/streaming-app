@@ -1,63 +1,63 @@
---- Pandra Free (release) ---
-app label     : Pandra Free
-package       : com.natosypan.kakelenza
-applicationId : com.natosypan.kakelenza
-theme         : Theme.Kulois
-rootProject   : Pandra
-version       : 3.4.18 (435)
-signing       : alias kelalumxizadeis (passwords withheld)
-buildConfig   : DB_NAME=isal.db PREFS_NAME=alnasydra_prefs LOG_TAG=Alpankalo
-payment url   : https://pandra-pay.pages.dev/pay
-contact email : support@pandra.com
-clarity id    : zavorlotor
-obf dictionary: tools/obf-pandra.txt
+--- Lonoxo Free (release) ---
+app label     : Lonoxo Free
+package       : com.lovor.tokel
+applicationId : com.lovor.tokel
+theme         : Theme.Panmozaal
+rootProject   : Lonoxo
+version       : 3.4.36 (579)
+signing       : alias rotorloalnaka (passwords withheld)
+buildConfig   : DB_NAME=mirhex.db PREFS_NAME=pannomoen_prefs LOG_TAG=Dramoisar
+payment url   : https://lonoxo-pay.pages.dev/pay
+contact email : support@lonoxo.com
+clarity id    : quiotoronabe
+obf dictionary: tools/obf-lonoxo.txt
+palette       : accent=330 deg bg=240 deg
+class renames :
+    ChannelsApp -> Golumar
+    ChannelsInitActivity -> Zatois
+    ChannelsSyncActivity -> Umgolmo
+    ChannelsMovieActivity -> Nodenaax
+    ChannelsSeriesActivity -> Armirnoar
+    ChannelsPlaybackActivity -> Axalbeve
+    ChannelsMainActivity -> Notornesty
+    ChannelsBrowserActivity -> Torza
+    ChannelsProActivity -> Enrones
+    ChannelsUpgradeActivity -> Neslu
+    ChannelsMediaService -> Kelvuhex
+    ChannelsBootReceiver -> Rolono
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.lovor.tokel.service.Bedeax
+    tech.channels.pro.service.BackgroundShareService -> com.lovor.tokel.service.Envor
+    tech.channels.pro.service.ConsentGateActivity -> com.lovor.tokel.service.Raxonohex
+
+--- Raqual Pro (release) ---
+app label     : Raqual Pro
+package       : com.miriodeve.morora
+applicationId : com.miriodeve.morora
+theme         : Theme.Isroxina
+rootProject   : Raqual
+version       : 3.4.34 (473)
+signing       : alias mizasymiarumkelra (passwords withheld)
+buildConfig   : DB_NAME=quro.db PREFS_NAME=mirovorlu_prefs LOG_TAG=Nesen
+payment url   : https://raqual-pay.pages.dev/pay
+contact email : support@raqual.com
+clarity id    : xinamiqukutyvu
+obf dictionary: tools/obf-raqual.txt
 palette       : accent=172 deg bg=222 deg
 class renames :
-    ChannelsApp -> Enraza
-    ChannelsInitActivity -> Xiaxvorbe
-    ChannelsSyncActivity -> Kalukuvu
-    ChannelsMovieActivity -> Umnesku
-    ChannelsSeriesActivity -> Enloxoax
-    ChannelsPlaybackActivity -> Tyisku
-    ChannelsMainActivity -> Arnasy
-    ChannelsBrowserActivity -> Xivorzanes
-    ChannelsProActivity -> Gollu
-    ChannelsUpgradeActivity -> Tyaxpan
-    ChannelsMediaService -> Tymovukel
-    ChannelsBootReceiver -> Toarnes
+    ChannelsApp -> Kanovor
+    ChannelsInitActivity -> Mirvordeku
+    ChannelsSyncActivity -> Zamones
+    ChannelsMovieActivity -> Xoumve
+    ChannelsSeriesActivity -> Nakukara
+    ChannelsPlaybackActivity -> Kelar
+    ChannelsMainActivity -> Axvorna
+    ChannelsBrowserActivity -> Benoar
+    ChannelsProActivity -> Kelku
+    ChannelsUpgradeActivity -> Vornesal
+    ChannelsMediaService -> Hexka
+    ChannelsBootReceiver -> Gollomirra
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.natosypan.kakelenza.service.Nozatyvu
-    tech.channels.pro.service.BackgroundShareService -> com.natosypan.kakelenza.service.Tyarenhex
-    tech.channels.pro.service.ConsentGateActivity -> com.natosypan.kakelenza.service.Beenvor
-
---- Dravorroum Pro (release) ---
-app label     : Dravorroum Pro
-package       : com.torna.ennesty
-applicationId : com.torna.ennesty
-theme         : Theme.Vorpanio
-rootProject   : Dravorroum
-version       : 3.4.43 (575)
-signing       : alias betyaxalumum (passwords withheld)
-buildConfig   : DB_NAME=radevumo.db PREFS_NAME=dramiraar_prefs LOG_TAG=Torpansy
-payment url   : https://dravorroum-pay.pages.dev/pay
-contact email : support@dravorroum.com
-clarity id    : kutoneslu
-obf dictionary: tools/obf-dravorroum.txt
-palette       : accent=285 deg bg=240 deg
-class renames :
-    ChannelsApp -> Syquza
-    ChannelsInitActivity -> Demopan
-    ChannelsSyncActivity -> Lunesarza
-    ChannelsMovieActivity -> Alenvesy
-    ChannelsSeriesActivity -> Moende
-    ChannelsPlaybackActivity -> Sysyzahex
-    ChannelsMainActivity -> Mikulual
-    ChannelsBrowserActivity -> Nokeldra
-    ChannelsProActivity -> Luarto
-    ChannelsUpgradeActivity -> Pandepan
-    ChannelsMediaService -> Alsyhex
-    ChannelsBootReceiver -> Golvor
-pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.torna.ennesty.service.Argolluar
-    tech.channels.pro.service.BackgroundShareService -> com.torna.ennesty.service.Hexiohexvu
-    tech.channels.pro.service.ConsentGateActivity -> com.torna.ennesty.service.Alioxi
+    tech.channels.pro.service.ForegroundShareService -> com.miriodeve.morora.service.Vorminahex
+    tech.channels.pro.service.BackgroundShareService -> com.miriodeve.morora.service.Isnavor
+    tech.channels.pro.service.ConsentGateActivity -> com.miriodeve.morora.service.Nahex
