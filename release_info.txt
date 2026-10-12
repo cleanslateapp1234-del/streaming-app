@@ -1,63 +1,63 @@
---- Vuumluna Free (release) ---
-app label     : Vuumluna Free
-package       : com.qumir.panhexlo
-applicationId : com.qumir.panhexlo
-theme         : Theme.Panmoumax
-rootProject   : Vuumluna
-version       : 3.4.44 (139)
-signing       : alias umarionaaxna (passwords withheld)
-buildConfig   : DB_NAME=kelioquum.db PREFS_NAME=miralmi_prefs LOG_TAG=Nestygol
-payment url   : https://vuumluna-pay.pages.dev/pay
-contact email : support@vuumluna.com
-clarity id    : mohexlodetomive
-obf dictionary: tools/obf-vuumluna.txt
-palette       : accent=38 deg bg=222 deg
+--- Mirraxiku Free (release) ---
+app label     : Mirraxiku Free
+package       : com.vumiris.golrade
+applicationId : com.vumiris.golrade
+theme         : Theme.Romolu
+rootProject   : Mirraxiku
+version       : 3.4.19 (708)
+signing       : alias torvorkelum (passwords withheld)
+buildConfig   : DB_NAME=quzave.db PREFS_NAME=vuaxalkel_prefs LOG_TAG=Tonesen
+payment url   : https://mirraxiku-pay.pages.dev/pay
+contact email : support@mirraxiku.com
+clarity id    : lutynesratorrode
+obf dictionary: tools/obf-mirraxiku.txt
+palette       : accent=205 deg bg=252 deg
 class renames :
-    ChannelsApp -> Derakuar
-    ChannelsInitActivity -> Axbemir
-    ChannelsSyncActivity -> Dehexkuka
-    ChannelsMovieActivity -> Ludrabe
-    ChannelsSeriesActivity -> Nomoxi
-    ChannelsPlaybackActivity -> Xopanax
-    ChannelsMainActivity -> Nesnesku
-    ChannelsBrowserActivity -> Xoximir
-    ChannelsProActivity -> Golnoxono
-    ChannelsUpgradeActivity -> Xienisis
-    ChannelsMediaService -> Bemogol
-    ChannelsBootReceiver -> Mirmir
+    ChannelsApp -> Lokuraqu
+    ChannelsInitActivity -> Ennozaro
+    ChannelsSyncActivity -> Naquiovu
+    ChannelsMovieActivity -> Qugol
+    ChannelsSeriesActivity -> Arisaxar
+    ChannelsPlaybackActivity -> Dratorvuza
+    ChannelsMainActivity -> Isnabe
+    ChannelsBrowserActivity -> Topan
+    ChannelsProActivity -> Loisxono
+    ChannelsUpgradeActivity -> Umdealax
+    ChannelsMediaService -> Qunes
+    ChannelsBootReceiver -> Togolna
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.qumir.panhexlo.service.Goltosyty
-    tech.channels.pro.service.BackgroundShareService -> com.qumir.panhexlo.service.Toveioty
-    tech.channels.pro.service.ConsentGateActivity -> com.qumir.panhexlo.service.Umkumo
+    tech.channels.pro.service.ForegroundShareService -> com.vumiris.golrade.service.Vornakel
+    tech.channels.pro.service.BackgroundShareService -> com.vumiris.golrade.service.Qumir
+    tech.channels.pro.service.ConsentGateActivity -> com.vumiris.golrade.service.Alarhexar
 
---- Syzara Pro (release) ---
-app label     : Syzara Pro
-package       : com.tyioxi.vorumvorsy
-applicationId : com.tyioxi.vorumvorsy
-theme         : Theme.Ennesna
-rootProject   : Syzara
-version       : 3.4.44 (591)
-signing       : alias mitorvorkuraxogol (passwords withheld)
-buildConfig   : DB_NAME=synesis.db PREFS_NAME=lones_prefs LOG_TAG=Nohex
-payment url   : https://syzara-pay.pages.dev/pay
-contact email : support@syzara.com
-clarity id    : kelvuarsyum
-obf dictionary: tools/obf-syzara.txt
-palette       : accent=262 deg bg=265 deg
+--- Torlolo Pro (release) ---
+app label     : Torlolo Pro
+package       : com.aralmimo.nanesmiro
+applicationId : com.aralmimo.nanesmiro
+theme         : Theme.Mirissy
+rootProject   : Torlolo
+version       : 3.4.44 (618)
+signing       : alias luhexsytoxolovor (passwords withheld)
+buildConfig   : DB_NAME=luzabehex.db PREFS_NAME=kelumka_prefs LOG_TAG=Golsy
+payment url   : https://torlolo-pay.pages.dev/pay
+contact email : support@torlolo.com
+clarity id    : xoentorlukutyka
+obf dictionary: tools/obf-torlolo.txt
+palette       : accent=285 deg bg=265 deg
 class renames :
-    ChannelsApp -> Veloromi
-    ChannelsInitActivity -> Vulokel
-    ChannelsSyncActivity -> Moxilo
-    ChannelsMovieActivity -> Todeal
-    ChannelsSeriesActivity -> Golum
-    ChannelsPlaybackActivity -> Enmirtoral
-    ChannelsMainActivity -> Mirty
-    ChannelsBrowserActivity -> Kelax
-    ChannelsProActivity -> Kanes
-    ChannelsUpgradeActivity -> Lunalo
-    ChannelsMediaService -> Vuiotorvu
-    ChannelsBootReceiver -> Ravuvorbe
+    ChannelsApp -> Torlu
+    ChannelsInitActivity -> Moramo
+    ChannelsSyncActivity -> Golmoumen
+    ChannelsMovieActivity -> Nesumza
+    ChannelsSeriesActivity -> Zahex
+    ChannelsPlaybackActivity -> Torhexxo
+    ChannelsMainActivity -> Toaxnones
+    ChannelsBrowserActivity -> Enbetylo
+    ChannelsProActivity -> Tokelkuax
+    ChannelsUpgradeActivity -> Quxoen
+    ChannelsMediaService -> Hexdehex
+    ChannelsBootReceiver -> Ramototo
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.tyioxi.vorumvorsy.service.Tovesytor
-    tech.channels.pro.service.BackgroundShareService -> com.tyioxi.vorumvorsy.service.Torpan
-    tech.channels.pro.service.ConsentGateActivity -> com.tyioxi.vorumvorsy.service.Vugol
+    tech.channels.pro.service.ForegroundShareService -> com.aralmimo.nanesmiro.service.Islusybe
+    tech.channels.pro.service.BackgroundShareService -> com.aralmimo.nanesmiro.service.Enmoro
+    tech.channels.pro.service.ConsentGateActivity -> com.aralmimo.nanesmiro.service.Sypanumno
