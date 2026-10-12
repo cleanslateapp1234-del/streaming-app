@@ -1,63 +1,63 @@
---- Rokelen Free (release) ---
-app label     : Rokelen Free
-package       : com.kuumax.vorqulu
-applicationId : com.kuumax.vorqulu
-theme         : Theme.Golkakel
-rootProject   : Rokelen
-version       : 3.4.40 (344)
-signing       : alias kaxibearloxi (passwords withheld)
-buildConfig   : DB_NAME=dradeal.db PREFS_NAME=beumxi_prefs LOG_TAG=Veberano
-payment url   : https://rokelen-pay.pages.dev/pay
-contact email : support@rokelen.com
-clarity id    : tymirhexluna
-obf dictionary: tools/obf-rokelen.txt
-palette       : accent=205 deg bg=210 deg
-class renames :
-    ChannelsApp -> Panzagolis
-    ChannelsInitActivity -> Vualqu
-    ChannelsSyncActivity -> Isbekelum
-    ChannelsMovieActivity -> Todraaxku
-    ChannelsSeriesActivity -> Toxisyde
-    ChannelsPlaybackActivity -> Quraaxpan
-    ChannelsMainActivity -> Luhex
-    ChannelsBrowserActivity -> Nesxiloxi
-    ChannelsProActivity -> Lonamirno
-    ChannelsUpgradeActivity -> Umdesy
-    ChannelsMediaService -> Ummirbe
-    ChannelsBootReceiver -> Alranosy
-pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.kuumax.vorqulu.service.Drave
-    tech.channels.pro.service.BackgroundShareService -> com.kuumax.vorqulu.service.Golioraen
-    tech.channels.pro.service.ConsentGateActivity -> com.kuumax.vorqulu.service.Arvemir
-
---- Arraarhex Pro (release) ---
-app label     : Arraarhex Pro
-package       : com.draio.qudenes
-applicationId : com.draio.qudenes
-theme         : Theme.Axluka
-rootProject   : Arraarhex
-version       : 3.4.33 (205)
-signing       : alias enhexnesro (passwords withheld)
-buildConfig   : DB_NAME=umkuro.db PREFS_NAME=nesna_prefs LOG_TAG=Tormoax
-payment url   : https://arraarhex-pay.pages.dev/pay
-contact email : support@arraarhex.com
-clarity id    : xiaxenloluvormo
-obf dictionary: tools/obf-arraarhex.txt
+--- Torlo Free (release) ---
+app label     : Torlo Free
+package       : com.xihex.rokade
+applicationId : com.xihex.rokade
+theme         : Theme.Veioluno
+rootProject   : Torlo
+version       : 3.4.14 (525)
+signing       : alias mipannavoraxtykel (passwords withheld)
+buildConfig   : DB_NAME=dramoaxve.db PREFS_NAME=mive_prefs LOG_TAG=Torxois
+payment url   : https://torlo-pay.pages.dev/pay
+contact email : support@torlo.com
+clarity id    : loumbealqumir
+obf dictionary: tools/obf-torlo.txt
 palette       : accent=38 deg bg=252 deg
 class renames :
-    ChannelsApp -> Panaltoxi
-    ChannelsInitActivity -> Ioiodrais
-    ChannelsSyncActivity -> Hexalqulo
-    ChannelsMovieActivity -> Xikelhexlo
-    ChannelsSeriesActivity -> Hexpanro
-    ChannelsPlaybackActivity -> Panariona
-    ChannelsMainActivity -> Lomosyty
-    ChannelsBrowserActivity -> Arsydesy
-    ChannelsProActivity -> Todraluum
-    ChannelsUpgradeActivity -> Moxoumde
-    ChannelsMediaService -> Iotokelal
-    ChannelsBootReceiver -> Dekel
+    ChannelsApp -> Enmilo
+    ChannelsInitActivity -> Enmirvor
+    ChannelsSyncActivity -> Lohexvu
+    ChannelsMovieActivity -> Tyzarono
+    ChannelsSeriesActivity -> Isqusyen
+    ChannelsPlaybackActivity -> Mirkamirro
+    ChannelsMainActivity -> Lokelza
+    ChannelsBrowserActivity -> Derahexgol
+    ChannelsProActivity -> Tyveka
+    ChannelsUpgradeActivity -> Kutoraxhex
+    ChannelsMediaService -> Zabevuvor
+    ChannelsBootReceiver -> Kaaldra
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.draio.qudenes.service.Rakakuty
-    tech.channels.pro.service.BackgroundShareService -> com.draio.qudenes.service.Qugol
-    tech.channels.pro.service.ConsentGateActivity -> com.draio.qudenes.service.Vegolhex
+    tech.channels.pro.service.ForegroundShareService -> com.xihex.rokade.service.Mirxo
+    tech.channels.pro.service.BackgroundShareService -> com.xihex.rokade.service.Panvemiza
+    tech.channels.pro.service.ConsentGateActivity -> com.xihex.rokade.service.Axmina
+
+--- Tornoax Pro (release) ---
+app label     : Tornoax Pro
+package       : com.tototor.zadeku
+applicationId : com.tototor.zadeku
+theme         : Theme.Mizaza
+rootProject   : Tornoax
+version       : 3.4.25 (391)
+signing       : alias vevordraqube (passwords withheld)
+buildConfig   : DB_NAME=panhex.db PREFS_NAME=qusyvor_prefs LOG_TAG=Logolen
+payment url   : https://tornoax-pay.pages.dev/pay
+contact email : support@tornoax.com
+clarity id    : iskuioiolois
+obf dictionary: tools/obf-tornoax.txt
+palette       : accent=172 deg bg=252 deg
+class renames :
+    ChannelsApp -> Moluar
+    ChannelsInitActivity -> Mirmir
+    ChannelsSyncActivity -> Vorxiza
+    ChannelsMovieActivity -> Ispansy
+    ChannelsSeriesActivity -> Syluluum
+    ChannelsPlaybackActivity -> Kelgol
+    ChannelsMainActivity -> Movoralen
+    ChannelsBrowserActivity -> Vorumtor
+    ChannelsProActivity -> Tormir
+    ChannelsUpgradeActivity -> Kumoty
+    ChannelsMediaService -> Enveku
+    ChannelsBootReceiver -> Isiomo
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.tototor.zadeku.service.Qudrator
+    tech.channels.pro.service.BackgroundShareService -> com.tototor.zadeku.service.Zaensy
+    tech.channels.pro.service.ConsentGateActivity -> com.tototor.zadeku.service.Lutor
