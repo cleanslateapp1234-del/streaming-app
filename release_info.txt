@@ -1,63 +1,63 @@
---- Alvorxity Free (release) ---
-app label     : Alvorxity Free
-package       : com.enhextogol.enalhexsy
-applicationId : com.enhextogol.enalhexsy
-theme         : Theme.Xonomi
-rootProject   : Alvorxity
-version       : 3.4.27 (189)
-signing       : alias lomiquvorna (passwords withheld)
-buildConfig   : DB_NAME=ioveum.db PREFS_NAME=kuquxi_prefs LOG_TAG=Kelvorqu
-payment url   : https://alvorxity-pay.pages.dev/pay
-contact email : support@alvorxity.com
-clarity id    : golarnohex
-obf dictionary: tools/obf-alvorxity.txt
-palette       : accent=96 deg bg=240 deg
+--- Draqu Free (release) ---
+app label     : Draqu Free
+package       : com.zatotoka.nesneslumi
+applicationId : com.zatotoka.nesneslumi
+theme         : Theme.Misyno
+rootProject   : Draqu
+version       : 3.4.37 (143)
+signing       : alias ioratortomomiisro (passwords withheld)
+buildConfig   : DB_NAME=armivor.db PREFS_NAME=mirioqube_prefs LOG_TAG=Tormoenen
+payment url   : https://draqu-pay.pages.dev/pay
+contact email : support@draqu.com
+clarity id    : nonoroku
+obf dictionary: tools/obf-draqu.txt
+palette       : accent=330 deg bg=210 deg
 class renames :
-    ChannelsApp -> Tormoka
-    ChannelsInitActivity -> Enmoquis
-    ChannelsSyncActivity -> Nesto
-    ChannelsMovieActivity -> Naumtor
-    ChannelsSeriesActivity -> Qulotodra
-    ChannelsPlaybackActivity -> Kumoxiar
-    ChannelsMainActivity -> Mozato
-    ChannelsBrowserActivity -> Natona
-    ChannelsProActivity -> Lotomi
-    ChannelsUpgradeActivity -> Besyvor
-    ChannelsMediaService -> Nokana
-    ChannelsBootReceiver -> Tyvor
+    ChannelsApp -> Dranesluza
+    ChannelsInitActivity -> Iopankuza
+    ChannelsSyncActivity -> Neshexsyvu
+    ChannelsMovieActivity -> Romobegol
+    ChannelsSeriesActivity -> Panumgolno
+    ChannelsPlaybackActivity -> Mirto
+    ChannelsMainActivity -> Kelum
+    ChannelsBrowserActivity -> Kukuaxar
+    ChannelsProActivity -> Mirmove
+    ChannelsUpgradeActivity -> Lonesdexo
+    ChannelsMediaService -> Bevebety
+    ChannelsBootReceiver -> Mirka
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.enhextogol.enalhexsy.service.Enquhexdra
-    tech.channels.pro.service.BackgroundShareService -> com.enhextogol.enalhexsy.service.Ionaenve
-    tech.channels.pro.service.ConsentGateActivity -> com.enhextogol.enalhexsy.service.Arumrona
+    tech.channels.pro.service.ForegroundShareService -> com.zatotoka.nesneslumi.service.Lodragol
+    tech.channels.pro.service.BackgroundShareService -> com.zatotoka.nesneslumi.service.Zazave
+    tech.channels.pro.service.ConsentGateActivity -> com.zatotoka.nesneslumi.service.Vexisysy
 
---- Ararro Pro (release) ---
-app label     : Ararro Pro
-package       : com.alrokel.mirkunes
-applicationId : com.alrokel.mirkunes
-theme         : Theme.Sypanqu
-rootProject   : Ararro
-version       : 3.4.15 (807)
-signing       : alias lovealluvorvor (passwords withheld)
-buildConfig   : DB_NAME=veioalar.db PREFS_NAME=noalpanax_prefs LOG_TAG=Mirgolqu
-payment url   : https://ararro-pay.pages.dev/pay
-contact email : support@ararro.com
-clarity id    : miarsynais
-obf dictionary: tools/obf-ararro.txt
-palette       : accent=172 deg bg=265 deg
+--- Isdra Pro (release) ---
+app label     : Isdra Pro
+package       : com.raxikelgol.veennato
+applicationId : com.raxikelgol.veennato
+theme         : Theme.Draxi
+rootProject   : Isdra
+version       : 3.4.16 (948)
+signing       : alias tortydralovuraisto (passwords withheld)
+buildConfig   : DB_NAME=kelgolku.db PREFS_NAME=vusyra_prefs LOG_TAG=Mirzavu
+payment url   : https://isdra-pay.pages.dev/pay
+contact email : support@isdra.com
+clarity id    : neslovorromidrato
+obf dictionary: tools/obf-isdra.txt
+palette       : accent=12 deg bg=240 deg
 class renames :
-    ChannelsApp -> Roravede
-    ChannelsInitActivity -> Isislo
-    ChannelsSyncActivity -> Artymirmo
-    ChannelsMovieActivity -> Golronahex
-    ChannelsSeriesActivity -> Sykavunes
-    ChannelsPlaybackActivity -> Xigolio
-    ChannelsMainActivity -> Vugol
-    ChannelsBrowserActivity -> Dekuvorku
-    ChannelsProActivity -> Zabepan
-    ChannelsUpgradeActivity -> Quvormirza
-    ChannelsMediaService -> Hexario
-    ChannelsBootReceiver -> Nesloar
+    ChannelsApp -> Velumo
+    ChannelsInitActivity -> Nesvoris
+    ChannelsSyncActivity -> Veroza
+    ChannelsMovieActivity -> Draxoka
+    ChannelsSeriesActivity -> Axmogolno
+    ChannelsPlaybackActivity -> Vuarvulu
+    ChannelsMainActivity -> Verove
+    ChannelsBrowserActivity -> Kapan
+    ChannelsProActivity -> Syarluvor
+    ChannelsUpgradeActivity -> Nespande
+    ChannelsMediaService -> Ariogol
+    ChannelsBootReceiver -> Tomira
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.alrokel.mirkunes.service.Besymi
-    tech.channels.pro.service.BackgroundShareService -> com.alrokel.mirkunes.service.Moxokual
-    tech.channels.pro.service.ConsentGateActivity -> com.alrokel.mirkunes.service.Golxixolu
+    tech.channels.pro.service.ForegroundShareService -> com.raxikelgol.veennato.service.Golvukel
+    tech.channels.pro.service.BackgroundShareService -> com.raxikelgol.veennato.service.Xikuumen
+    tech.channels.pro.service.ConsentGateActivity -> com.raxikelgol.veennato.service.Naisgolxi
