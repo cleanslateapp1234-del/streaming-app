@@ -1,63 +1,63 @@
---- Devuno Free (release) ---
-app label     : Devuno Free
-package       : com.lomir.kuquvegol
-applicationId : com.lomir.kuquvegol
-theme         : Theme.Axzaxo
-rootProject   : Devuno
-version       : 3.4.33 (1028)
-signing       : alias draaxnoenisvorro (passwords withheld)
-buildConfig   : DB_NAME=axlumir.db PREFS_NAME=degol_prefs LOG_TAG=Vorde
-payment url   : https://devuno-pay.pages.dev/pay
-contact email : support@devuno.com
-clarity id    : mirvemirraaral
-obf dictionary: tools/obf-devuno.txt
-palette       : accent=96 deg bg=210 deg
+--- Luluralu Free (release) ---
+app label     : Luluralu Free
+package       : com.kakudeis.ximiraxde
+applicationId : com.kakudeis.ximiraxde
+theme         : Theme.Iogolna
+rootProject   : Luluralu
+version       : 3.4.14 (937)
+signing       : alias mirdrasytovu (passwords withheld)
+buildConfig   : DB_NAME=kelaxra.db PREFS_NAME=vumirromi_prefs LOG_TAG=Qudelu
+payment url   : https://luluralu-pay.pages.dev/pay
+contact email : support@luluralu.com
+clarity id    : kelrovexivor
+obf dictionary: tools/obf-luluralu.txt
+palette       : accent=285 deg bg=210 deg
 class renames :
-    ChannelsApp -> Nokaaxnes
-    ChannelsInitActivity -> Lutovor
-    ChannelsSyncActivity -> Pannesenar
-    ChannelsMovieActivity -> Ummivorvu
-    ChannelsSeriesActivity -> Goldra
-    ChannelsPlaybackActivity -> Zaximirhex
-    ChannelsMainActivity -> Golgolmi
-    ChannelsBrowserActivity -> Totorvorku
-    ChannelsProActivity -> Torkel
-    ChannelsUpgradeActivity -> Mosynamo
-    ChannelsMediaService -> Katoaxsy
-    ChannelsBootReceiver -> Alrapankel
+    ChannelsApp -> Tykaen
+    ChannelsInitActivity -> Quvor
+    ChannelsSyncActivity -> Miarar
+    ChannelsMovieActivity -> Raiona
+    ChannelsSeriesActivity -> Nahexlo
+    ChannelsPlaybackActivity -> Axtytyza
+    ChannelsMainActivity -> Alarde
+    ChannelsBrowserActivity -> Hexloum
+    ChannelsProActivity -> Torvor
+    ChannelsUpgradeActivity -> Nesxiumax
+    ChannelsMediaService -> Isnesbeax
+    ChannelsBootReceiver -> Togolbe
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.lomir.kuquvegol.service.Quiono
-    tech.channels.pro.service.BackgroundShareService -> com.lomir.kuquvegol.service.Nesal
-    tech.channels.pro.service.ConsentGateActivity -> com.lomir.kuquvegol.service.Torenna
+    tech.channels.pro.service.ForegroundShareService -> com.kakudeis.ximiraxde.service.Xokuio
+    tech.channels.pro.service.BackgroundShareService -> com.kakudeis.ximiraxde.service.Draumdraax
+    tech.channels.pro.service.ConsentGateActivity -> com.kakudeis.ximiraxde.service.Lonomi
 
---- Isvukel Pro (release) ---
-app label     : Isvukel Pro
-package       : com.raxixi.moisdeen
-applicationId : com.raxixi.moisdeen
-theme         : Theme.Enmirpan
-rootProject   : Isvukel
-version       : 3.4.45 (970)
-signing       : alias delukuumismoisto (passwords withheld)
-buildConfig   : DB_NAME=hexve.db PREFS_NAME=namoqual_prefs LOG_TAG=Belodra
-payment url   : https://isvukel-pay.pages.dev/pay
-contact email : support@isvukel.com
-clarity id    : vukakuioenlobe
-obf dictionary: tools/obf-isvukel.txt
-palette       : accent=330 deg bg=240 deg
+--- Raluvu Pro (release) ---
+app label     : Raluvu Pro
+package       : com.moenloen.roalarmo
+applicationId : com.moenloen.roalarmo
+theme         : Theme.Draqu
+rootProject   : Raluvu
+version       : 3.4.34 (1064)
+signing       : alias vorvulupanka (passwords withheld)
+buildConfig   : DB_NAME=nesqu.db PREFS_NAME=xonesve_prefs LOG_TAG=Qumimirdra
+payment url   : https://raluvu-pay.pages.dev/pay
+contact email : support@raluvu.com
+clarity id    : noaxluax
+obf dictionary: tools/obf-raluvu.txt
+palette       : accent=330 deg bg=222 deg
 class renames :
-    ChannelsApp -> Vuxoxo
-    ChannelsInitActivity -> Zakave
-    ChannelsSyncActivity -> Lonoty
-    ChannelsMovieActivity -> Torna
-    ChannelsSeriesActivity -> Keltor
-    ChannelsPlaybackActivity -> Dralu
-    ChannelsMainActivity -> Luaris
-    ChannelsBrowserActivity -> Zanotoax
-    ChannelsProActivity -> Dealkaax
-    ChannelsUpgradeActivity -> Lovugol
-    ChannelsMediaService -> Mirdekumir
-    ChannelsBootReceiver -> Ioaxmomo
+    ChannelsApp -> Loroto
+    ChannelsInitActivity -> Panku
+    ChannelsSyncActivity -> Zakukaxo
+    ChannelsMovieActivity -> Arhexlu
+    ChannelsSeriesActivity -> Vormiumbe
+    ChannelsPlaybackActivity -> Motorvor
+    ChannelsMainActivity -> Xodra
+    ChannelsBrowserActivity -> Iotorxi
+    ChannelsProActivity -> Kelvorio
+    ChannelsUpgradeActivity -> Ioxitor
+    ChannelsMediaService -> Monavor
+    ChannelsBootReceiver -> Mirlu
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.raxixi.moisdeen.service.Umxoku
-    tech.channels.pro.service.BackgroundShareService -> com.raxixi.moisdeen.service.Arximo
-    tech.channels.pro.service.ConsentGateActivity -> com.raxixi.moisdeen.service.Hexka
+    tech.channels.pro.service.ForegroundShareService -> com.moenloen.roalarmo.service.Draal
+    tech.channels.pro.service.BackgroundShareService -> com.moenloen.roalarmo.service.Kelkuzalo
+    tech.channels.pro.service.ConsentGateActivity -> com.moenloen.roalarmo.service.Vutorgol
