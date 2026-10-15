@@ -1,63 +1,63 @@
---- Mivor Free (release) ---
-app label     : Mivor Free
-package       : com.nesdra.loximoto
-applicationId : com.nesdra.loximoto
-theme         : Theme.Golsykulu
-rootProject   : Mivor
-version       : 3.4.39 (873)
-signing       : alias tokatoaxkeltonois (passwords withheld)
-buildConfig   : DB_NAME=sypan.db PREFS_NAME=zavorvuto_prefs LOG_TAG=Lotoax
-payment url   : https://mivor-pay.pages.dev/pay
-contact email : support@mivor.com
-clarity id    : moaxnanamiqu
-obf dictionary: tools/obf-mivor.txt
-palette       : accent=205 deg bg=240 deg
+--- Ramogolxi Free (release) ---
+app label     : Ramogolxi Free
+package       : com.dragoldra.vugolrahex
+applicationId : com.dragoldra.vugolrahex
+theme         : Theme.Lukaio
+rootProject   : Ramogolxi
+version       : 3.4.31 (899)
+signing       : alias xokeltorana (passwords withheld)
+buildConfig   : DB_NAME=nazapan.db PREFS_NAME=miramo_prefs LOG_TAG=Enarde
+payment url   : https://ramogolxi-pay.pages.dev/pay
+contact email : support@ramogolxi.com
+clarity id    : golnorolutoqudeum
+obf dictionary: tools/obf-ramogolxi.txt
+palette       : accent=96 deg bg=240 deg
 class renames :
-    ChannelsApp -> Raquve
-    ChannelsInitActivity -> Roxiio
-    ChannelsSyncActivity -> Kator
-    ChannelsMovieActivity -> Kelsyenmo
-    ChannelsSeriesActivity -> Lonadedra
-    ChannelsPlaybackActivity -> Ragol
-    ChannelsMainActivity -> Moalalka
-    ChannelsBrowserActivity -> Kelal
-    ChannelsProActivity -> Luaxro
-    ChannelsUpgradeActivity -> Dehex
-    ChannelsMediaService -> Bedexo
-    ChannelsBootReceiver -> Hexsy
+    ChannelsApp -> Tonoxi
+    ChannelsInitActivity -> Axiobe
+    ChannelsSyncActivity -> Ratorra
+    ChannelsMovieActivity -> Panluum
+    ChannelsSeriesActivity -> Dekukuty
+    ChannelsPlaybackActivity -> Toaxarra
+    ChannelsMainActivity -> Bekelveax
+    ChannelsBrowserActivity -> Delomilo
+    ChannelsProActivity -> Golku
+    ChannelsUpgradeActivity -> Karade
+    ChannelsMediaService -> Umnogol
+    ChannelsBootReceiver -> Moiovormir
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.nesdra.loximoto.service.Isioty
-    tech.channels.pro.service.BackgroundShareService -> com.nesdra.loximoto.service.Zaroisvor
-    tech.channels.pro.service.ConsentGateActivity -> com.nesdra.loximoto.service.Zananaza
+    tech.channels.pro.service.ForegroundShareService -> com.dragoldra.vugolrahex.service.Panmiququ
+    tech.channels.pro.service.BackgroundShareService -> com.dragoldra.vugolrahex.service.Mitordra
+    tech.channels.pro.service.ConsentGateActivity -> com.dragoldra.vugolrahex.service.Zanaaxna
 
---- Rovortolo Pro (release) ---
-app label     : Rovortolo Pro
-package       : com.luzaarbe.hexzapan
-applicationId : com.luzaarbe.hexzapan
-theme         : Theme.Mogoliono
-rootProject   : Rovortolo
-version       : 3.4.41 (797)
-signing       : alias tonapanxipannes (passwords withheld)
-buildConfig   : DB_NAME=depanarna.db PREFS_NAME=hexxo_prefs LOG_TAG=Drasyxoal
-payment url   : https://rovortolo-pay.pages.dev/pay
-contact email : support@rovortolo.com
-clarity id    : loxilunotorloty
-obf dictionary: tools/obf-rovortolo.txt
-palette       : accent=330 deg bg=265 deg
+--- Mirramoen Pro (release) ---
+app label     : Mirramoen Pro
+package       : com.milugolnes.katypan
+applicationId : com.milugolnes.katypan
+theme         : Theme.Symidena
+rootProject   : Mirramoen
+version       : 3.4.41 (863)
+signing       : alias mogolrazanovor (passwords withheld)
+buildConfig   : DB_NAME=alio.db PREFS_NAME=isve_prefs LOG_TAG=Kelrasy
+payment url   : https://mirramoen-pay.pages.dev/pay
+contact email : support@mirramoen.com
+clarity id    : syveisioraxi
+obf dictionary: tools/obf-mirramoen.txt
+palette       : accent=96 deg bg=222 deg
 class renames :
-    ChannelsApp -> Zaqudraio
-    ChannelsInitActivity -> Bemikuro
-    ChannelsSyncActivity -> Zaarlogol
-    ChannelsMovieActivity -> Kaarbe
-    ChannelsSeriesActivity -> Nesvorum
-    ChannelsPlaybackActivity -> Mivutorbe
-    ChannelsMainActivity -> Nodradelu
-    ChannelsBrowserActivity -> Voris
-    ChannelsProActivity -> Mizavumi
-    ChannelsUpgradeActivity -> Kelkatoxi
-    ChannelsMediaService -> Vuioax
-    ChannelsBootReceiver -> Luaxza
+    ChannelsApp -> Umsyal
+    ChannelsInitActivity -> Umtor
+    ChannelsSyncActivity -> Noalvu
+    ChannelsMovieActivity -> Tozaneska
+    ChannelsSeriesActivity -> Xivulu
+    ChannelsPlaybackActivity -> Topanqu
+    ChannelsMainActivity -> Keltoaldra
+    ChannelsBrowserActivity -> Qubemir
+    ChannelsProActivity -> Hexty
+    ChannelsUpgradeActivity -> Syzagolmi
+    ChannelsMediaService -> Lumoku
+    ChannelsBootReceiver -> Dezaal
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.luzaarbe.hexzapan.service.Iogol
-    tech.channels.pro.service.BackgroundShareService -> com.luzaarbe.hexzapan.service.Monesde
-    tech.channels.pro.service.ConsentGateActivity -> com.luzaarbe.hexzapan.service.Axzamines
+    tech.channels.pro.service.ForegroundShareService -> com.milugolnes.katypan.service.Axumvuio
+    tech.channels.pro.service.BackgroundShareService -> com.milugolnes.katypan.service.Axtoiokel
+    tech.channels.pro.service.ConsentGateActivity -> com.milugolnes.katypan.service.Nagoltoum
