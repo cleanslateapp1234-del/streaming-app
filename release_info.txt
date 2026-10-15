@@ -1,63 +1,63 @@
---- Quvexi Free (release) ---
-app label     : Quvexi Free
-package       : com.rotyve.kudequvu
-applicationId : com.rotyve.kudequvu
-theme         : Theme.Kelveiohex
-rootProject   : Quvexi
-version       : 3.4.45 (715)
-signing       : alias vuvormirisvu (passwords withheld)
-buildConfig   : DB_NAME=bera.db PREFS_NAME=kuiovetor_prefs LOG_TAG=Ioalnalu
-payment url   : https://quvexi-pay.pages.dev/pay
-contact email : support@quvexi.com
-clarity id    : belueniobexi
-obf dictionary: tools/obf-quvexi.txt
-palette       : accent=96 deg bg=210 deg
+--- Ropanneska Free (release) ---
+app label     : Ropanneska Free
+package       : com.artykelio.miumdeka
+applicationId : com.artykelio.miumdeka
+theme         : Theme.Qubeax
+rootProject   : Ropanneska
+version       : 3.4.20 (744)
+signing       : alias xitorgolkunolu (passwords withheld)
+buildConfig   : DB_NAME=enrosy.db PREFS_NAME=migolka_prefs LOG_TAG=Lodezapan
+payment url   : https://ropanneska-pay.pages.dev/pay
+contact email : support@ropanneska.com
+clarity id    : tyneskadexiio
+obf dictionary: tools/obf-ropanneska.txt
+palette       : accent=172 deg bg=210 deg
 class renames :
-    ChannelsApp -> Quxoargol
-    ChannelsInitActivity -> Delukelro
-    ChannelsSyncActivity -> Zakuvugol
-    ChannelsMovieActivity -> Naumnanes
-    ChannelsSeriesActivity -> Ardranara
-    ChannelsPlaybackActivity -> Draalbe
-    ChannelsMainActivity -> Dratotorsy
-    ChannelsBrowserActivity -> Xoistor
-    ChannelsProActivity -> Kelpande
-    ChannelsUpgradeActivity -> Axqusy
-    ChannelsMediaService -> Mokalu
-    ChannelsBootReceiver -> Venolove
+    ChannelsApp -> Kadradeka
+    ChannelsInitActivity -> Hexgolvuro
+    ChannelsSyncActivity -> Motona
+    ChannelsMovieActivity -> Nesxivuxi
+    ChannelsSeriesActivity -> Mirzamirza
+    ChannelsPlaybackActivity -> Vunade
+    ChannelsMainActivity -> Nodramilo
+    ChannelsBrowserActivity -> Panvedra
+    ChannelsProActivity -> Kukelumgol
+    ChannelsUpgradeActivity -> Qulutyhex
+    ChannelsMediaService -> Kelro
+    ChannelsBootReceiver -> Movudra
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.rotyve.kudequvu.service.Tyhexnesis
-    tech.channels.pro.service.BackgroundShareService -> com.rotyve.kudequvu.service.Xokaumqu
-    tech.channels.pro.service.ConsentGateActivity -> com.rotyve.kudequvu.service.Panen
+    tech.channels.pro.service.ForegroundShareService -> com.artykelio.miumdeka.service.Detoaxvu
+    tech.channels.pro.service.BackgroundShareService -> com.artykelio.miumdeka.service.Xixiloar
+    tech.channels.pro.service.ConsentGateActivity -> com.artykelio.miumdeka.service.Golar
 
---- Hexnoza Pro (release) ---
-app label     : Hexnoza Pro
-package       : com.axrodraka.luiskelkel
-applicationId : com.axrodraka.luiskelkel
-theme         : Theme.Xomiku
-rootProject   : Hexnoza
-version       : 3.4.24 (1021)
-signing       : alias vexiumgolnakaar (passwords withheld)
-buildConfig   : DB_NAME=axberapan.db PREFS_NAME=vepannano_prefs LOG_TAG=Bedelu
-payment url   : https://hexnoza-pay.pages.dev/pay
-contact email : support@hexnoza.com
-clarity id    : tyiovehexvelusy
-obf dictionary: tools/obf-hexnoza.txt
-palette       : accent=330 deg bg=222 deg
+--- Draludraax Pro (release) ---
+app label     : Draludraax Pro
+package       : com.hexve.enkupan
+applicationId : com.hexve.enkupan
+theme         : Theme.Totolo
+rootProject   : Draludraax
+version       : 3.4.8 (838)
+signing       : alias mivutorvudraisto (passwords withheld)
+buildConfig   : DB_NAME=vorloza.db PREFS_NAME=qulo_prefs LOG_TAG=Xizalolu
+payment url   : https://draludraax-pay.pages.dev/pay
+contact email : support@draludraax.com
+clarity id    : nanavornaqudeum
+obf dictionary: tools/obf-draludraax.txt
+palette       : accent=38 deg bg=240 deg
 class renames :
-    ChannelsApp -> Develo
-    ChannelsInitActivity -> Midranoax
-    ChannelsSyncActivity -> Mirvuis
-    ChannelsMovieActivity -> Xotor
-    ChannelsSeriesActivity -> Vuarno
-    ChannelsPlaybackActivity -> Syvorgolax
-    ChannelsMainActivity -> Nahex
-    ChannelsBrowserActivity -> Hexmilu
-    ChannelsProActivity -> Modraenhex
-    ChannelsUpgradeActivity -> Tormode
-    ChannelsMediaService -> Israaxhex
-    ChannelsBootReceiver -> Kaxoalro
+    ChannelsApp -> Bedrakaax
+    ChannelsInitActivity -> Motogolra
+    ChannelsSyncActivity -> Drave
+    ChannelsMovieActivity -> Kator
+    ChannelsSeriesActivity -> Keldebe
+    ChannelsPlaybackActivity -> Nespan
+    ChannelsMainActivity -> Bemirdraxo
+    ChannelsBrowserActivity -> Xivorsy
+    ChannelsProActivity -> Kelsy
+    ChannelsUpgradeActivity -> Axkelarar
+    ChannelsMediaService -> Kuarmi
+    ChannelsBootReceiver -> Enmiradra
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.axrodraka.luiskelkel.service.Panku
-    tech.channels.pro.service.BackgroundShareService -> com.axrodraka.luiskelkel.service.Xonovor
-    tech.channels.pro.service.ConsentGateActivity -> com.axrodraka.luiskelkel.service.Axquar
+    tech.channels.pro.service.ForegroundShareService -> com.hexve.enkupan.service.Draro
+    tech.channels.pro.service.BackgroundShareService -> com.hexve.enkupan.service.Draluna
+    tech.channels.pro.service.ConsentGateActivity -> com.hexve.enkupan.service.Hexxonalu
