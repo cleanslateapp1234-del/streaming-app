@@ -1,63 +1,63 @@
---- Kakulo Free (release) ---
-app label     : Kakulo Free
-package       : com.zavedra.mirsymo
-applicationId : com.zavedra.mirsymo
-theme         : Theme.Noquxiar
-rootProject   : Kakulo
-version       : 3.4.8 (186)
-signing       : alias isdramirdrabe (passwords withheld)
-buildConfig   : DB_NAME=axrapan.db PREFS_NAME=vuquzaal_prefs LOG_TAG=Entymina
-payment url   : https://kakulo-pay.pages.dev/pay
-contact email : support@kakulo.com
-clarity id    : loalderahexgol
-obf dictionary: tools/obf-kakulo.txt
-palette       : accent=262 deg bg=210 deg
+--- Arxoen Free (release) ---
+app label     : Arxoen Free
+package       : com.natoto.umdezave
+applicationId : com.natoto.umdezave
+theme         : Theme.Alneska
+rootProject   : Arxoen
+version       : 3.4.44 (368)
+signing       : alias kuhexumtortorve (passwords withheld)
+buildConfig   : DB_NAME=artytyvu.db PREFS_NAME=umde_prefs LOG_TAG=Ismir
+payment url   : https://arxoen-pay.pages.dev/pay
+contact email : support@arxoen.com
+clarity id    : romienna
+obf dictionary: tools/obf-arxoen.txt
+palette       : accent=330 deg bg=228 deg
 class renames :
-    ChannelsApp -> Miisis
-    ChannelsInitActivity -> Drahexve
-    ChannelsSyncActivity -> Panumhexen
-    ChannelsMovieActivity -> Dradrami
-    ChannelsSeriesActivity -> Ensyvu
-    ChannelsPlaybackActivity -> Roisbe
-    ChannelsMainActivity -> Tymirnes
-    ChannelsBrowserActivity -> Umarbe
-    ChannelsProActivity -> Totoro
-    ChannelsUpgradeActivity -> Tortordra
-    ChannelsMediaService -> Alalty
-    ChannelsBootReceiver -> Torsy
+    ChannelsApp -> Kadraku
+    ChannelsInitActivity -> Bedevuza
+    ChannelsSyncActivity -> Tortokuku
+    ChannelsMovieActivity -> Vukelmo
+    ChannelsSeriesActivity -> Dravuxones
+    ChannelsPlaybackActivity -> Dranois
+    ChannelsMainActivity -> Axalhex
+    ChannelsBrowserActivity -> Loveax
+    ChannelsProActivity -> Bebehex
+    ChannelsUpgradeActivity -> Romotydra
+    ChannelsMediaService -> Qukanoum
+    ChannelsBootReceiver -> Tyraal
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.zavedra.mirsymo.service.Noxilobe
-    tech.channels.pro.service.BackgroundShareService -> com.zavedra.mirsymo.service.Zadede
-    tech.channels.pro.service.ConsentGateActivity -> com.zavedra.mirsymo.service.Mipankade
+    tech.channels.pro.service.ForegroundShareService -> com.natoto.umdezave.service.Qudevorty
+    tech.channels.pro.service.BackgroundShareService -> com.natoto.umdezave.service.Panxo
+    tech.channels.pro.service.ConsentGateActivity -> com.natoto.umdezave.service.Roarmial
 
---- Lutor Pro (release) ---
-app label     : Lutor Pro
-package       : com.ioenhex.vetyqu
-applicationId : com.ioenhex.vetyqu
-theme         : Theme.Iomial
-rootProject   : Lutor
-version       : 3.4.10 (750)
-signing       : alias tornesenumnaxorahex (passwords withheld)
-buildConfig   : DB_NAME=nohexkube.db PREFS_NAME=kelalvemo_prefs LOG_TAG=Kazais
-payment url   : https://lutor-pay.pages.dev/pay
-contact email : support@lutor.com
-clarity id    : romoisxi
-obf dictionary: tools/obf-lutor.txt
-palette       : accent=285 deg bg=252 deg
+--- Mienlu Pro (release) ---
+app label     : Mienlu Pro
+package       : com.panmo.kutorlo
+applicationId : com.panmo.kutorlo
+theme         : Theme.Kelgol
+rootProject   : Mienlu
+version       : 3.4.17 (893)
+signing       : alias nesnakuenzavortovu (passwords withheld)
+buildConfig   : DB_NAME=luno.db PREFS_NAME=hexlo_prefs LOG_TAG=Hexdraku
+payment url   : https://mienlu-pay.pages.dev/pay
+contact email : support@mienlu.com
+clarity id    : toxokukelpanza
+obf dictionary: tools/obf-mienlu.txt
+palette       : accent=12 deg bg=228 deg
 class renames :
-    ChannelsApp -> Tymoisum
-    ChannelsInitActivity -> Mirdraqu
-    ChannelsSyncActivity -> Xoaltor
-    ChannelsMovieActivity -> Dexovorum
-    ChannelsSeriesActivity -> Hexkuaris
-    ChannelsPlaybackActivity -> Vuvorludra
-    ChannelsMainActivity -> Loenty
-    ChannelsBrowserActivity -> Beminesar
-    ChannelsProActivity -> Kaloxo
-    ChannelsUpgradeActivity -> Syvunes
-    ChannelsMediaService -> Enpan
-    ChannelsBootReceiver -> Vorhex
+    ChannelsApp -> Mivupan
+    ChannelsInitActivity -> Dramo
+    ChannelsSyncActivity -> Veluenve
+    ChannelsMovieActivity -> Bevor
+    ChannelsSeriesActivity -> Vuzamir
+    ChannelsPlaybackActivity -> Axdra
+    ChannelsMainActivity -> Kahexza
+    ChannelsBrowserActivity -> Umluen
+    ChannelsProActivity -> Roveralo
+    ChannelsUpgradeActivity -> Kunesrove
+    ChannelsMediaService -> Ioiogolza
+    ChannelsBootReceiver -> Mirarvu
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.ioenhex.vetyqu.service.Rabehexax
-    tech.channels.pro.service.BackgroundShareService -> com.ioenhex.vetyqu.service.Axmive
-    tech.channels.pro.service.ConsentGateActivity -> com.ioenhex.vetyqu.service.Kelluiona
+    tech.channels.pro.service.ForegroundShareService -> com.panmo.kutorlo.service.Loishexhex
+    tech.channels.pro.service.BackgroundShareService -> com.panmo.kutorlo.service.Hexbequ
+    tech.channels.pro.service.ConsentGateActivity -> com.panmo.kutorlo.service.Vexoaxku
