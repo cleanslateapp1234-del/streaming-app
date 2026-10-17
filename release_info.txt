@@ -1,63 +1,63 @@
---- Xiluro Free (release) ---
-app label     : Xiluro Free
-package       : com.dradezaxo.isarty
-applicationId : com.dradezaxo.isarty
-theme         : Theme.Dratovemi
-rootProject   : Xiluro
-version       : 3.4.33 (639)
-signing       : alias zagolendraiomirve (passwords withheld)
-buildConfig   : DB_NAME=mobeio.db PREFS_NAME=golarmir_prefs LOG_TAG=Ummonesdra
-payment url   : https://xiluro-pay.pages.dev/pay
-contact email : support@xiluro.com
-clarity id    : dramirtoumargol
-obf dictionary: tools/obf-xiluro.txt
-palette       : accent=205 deg bg=222 deg
-class renames :
-    ChannelsApp -> Loaxvu
-    ChannelsInitActivity -> Istygol
-    ChannelsSyncActivity -> Lodeumra
-    ChannelsMovieActivity -> Golal
-    ChannelsSeriesActivity -> Naloarku
-    ChannelsPlaybackActivity -> Zazaax
-    ChannelsMainActivity -> Mizalo
-    ChannelsBrowserActivity -> Vuenquum
-    ChannelsProActivity -> Mirtyloxi
-    ChannelsUpgradeActivity -> Neskator
-    ChannelsMediaService -> Torarbe
-    ChannelsBootReceiver -> Ramir
-pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.dradezaxo.isarty.service.Vuaxvorra
-    tech.channels.pro.service.BackgroundShareService -> com.dradezaxo.isarty.service.Xidevu
-    tech.channels.pro.service.ConsentGateActivity -> com.dradezaxo.isarty.service.Natydra
-
---- Nesum Pro (release) ---
-app label     : Nesum Pro
-package       : com.loioro.axkugolmo
-applicationId : com.loioro.axkugolmo
-theme         : Theme.Isgol
-rootProject   : Nesum
-version       : 3.4.36 (958)
-signing       : alias alloisramokuku (passwords withheld)
-buildConfig   : DB_NAME=kabe.db PREFS_NAME=ramir_prefs LOG_TAG=Zamomirsy
-payment url   : https://nesum-pay.pages.dev/pay
-contact email : support@nesum.com
-clarity id    : xoarlovekuka
-obf dictionary: tools/obf-nesum.txt
+--- Nesmiraio Free (release) ---
+app label     : Nesmiraio Free
+package       : com.venomimir.totylura
+applicationId : com.venomimir.totylura
+theme         : Theme.Naaxvu
+rootProject   : Nesmiraio
+version       : 3.4.24 (909)
+signing       : alias kunovoraxkelar (passwords withheld)
+buildConfig   : DB_NAME=voraxlo.db PREFS_NAME=moxotoar_prefs LOG_TAG=Drarono
+payment url   : https://nesmiraio-pay.pages.dev/pay
+contact email : support@nesmiraio.com
+clarity id    : zagolloraaxum
+obf dictionary: tools/obf-nesmiraio.txt
 palette       : accent=96 deg bg=252 deg
 class renames :
-    ChannelsApp -> Panmirax
-    ChannelsInitActivity -> Belorovor
-    ChannelsSyncActivity -> Veisgol
-    ChannelsMovieActivity -> Lopanhex
-    ChannelsSeriesActivity -> Entyumqu
-    ChannelsPlaybackActivity -> Ropan
-    ChannelsMainActivity -> Vuxirabe
-    ChannelsBrowserActivity -> Arnoqudra
-    ChannelsProActivity -> Xivorveku
-    ChannelsUpgradeActivity -> Enqunahex
-    ChannelsMediaService -> Mihexto
-    ChannelsBootReceiver -> Katoraxra
+    ChannelsApp -> Rakuve
+    ChannelsInitActivity -> Movor
+    ChannelsSyncActivity -> Sykumity
+    ChannelsMovieActivity -> Kaaxneska
+    ChannelsSeriesActivity -> Lulosy
+    ChannelsPlaybackActivity -> Kelka
+    ChannelsMainActivity -> Mirzamirku
+    ChannelsBrowserActivity -> Kaiozaxo
+    ChannelsProActivity -> Mivor
+    ChannelsUpgradeActivity -> Draax
+    ChannelsMediaService -> Hextysy
+    ChannelsBootReceiver -> Xitohex
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.loioro.axkugolmo.service.Hexraka
-    tech.channels.pro.service.BackgroundShareService -> com.loioro.axkugolmo.service.Drahex
-    tech.channels.pro.service.ConsentGateActivity -> com.loioro.axkugolmo.service.Vekelmoal
+    tech.channels.pro.service.ForegroundShareService -> com.venomimir.totylura.service.Tyumro
+    tech.channels.pro.service.BackgroundShareService -> com.venomimir.totylura.service.Almines
+    tech.channels.pro.service.ConsentGateActivity -> com.venomimir.totylura.service.Umentyar
+
+--- Mozalu Pro (release) ---
+app label     : Mozalu Pro
+package       : com.zahex.axmirvukel
+applicationId : com.zahex.axmirvukel
+theme         : Theme.Mihexmir
+rootProject   : Mozalu
+version       : 3.4.12 (951)
+signing       : alias lotyumgolnokel (passwords withheld)
+buildConfig   : DB_NAME=mirxomo.db PREFS_NAME=xopanarno_prefs LOG_TAG=Engolmir
+payment url   : https://mozalu-pay.pages.dev/pay
+contact email : support@mozalu.com
+clarity id    : umdraluarkel
+obf dictionary: tools/obf-mozalu.txt
+palette       : accent=38 deg bg=228 deg
+class renames :
+    ChannelsApp -> Mironolo
+    ChannelsInitActivity -> Panmomir
+    ChannelsSyncActivity -> Vunesxo
+    ChannelsMovieActivity -> Bequnesen
+    ChannelsSeriesActivity -> Axkuum
+    ChannelsPlaybackActivity -> Radrapanno
+    ChannelsMainActivity -> Romirqu
+    ChannelsBrowserActivity -> Togolkupan
+    ChannelsProActivity -> Xivuty
+    ChannelsUpgradeActivity -> Mikamir
+    ChannelsMediaService -> Rotorax
+    ChannelsBootReceiver -> Axmomi
+pawns names   :
+    tech.channels.pro.service.ForegroundShareService -> com.zahex.axmirvukel.service.Enluislo
+    tech.channels.pro.service.BackgroundShareService -> com.zahex.axmirvukel.service.Qusyarxo
+    tech.channels.pro.service.ConsentGateActivity -> com.zahex.axmirvukel.service.Tyhex
