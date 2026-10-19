@@ -1,63 +1,63 @@
---- Umenlolu Free (release) ---
-app label     : Umenlolu Free
-package       : com.xiisza.symibe
-applicationId : com.xiisza.symibe
-theme         : Theme.Syaxnes
-rootProject   : Umenlolu
-version       : 3.4.42 (333)
-signing       : alias enkaluluaxmir (passwords withheld)
-buildConfig   : DB_NAME=vualum.db PREFS_NAME=kelnamo_prefs LOG_TAG=Axalmi
-payment url   : https://umenlolu-pay.pages.dev/pay
-contact email : support@umenlolu.com
-clarity id    : momoummidesy
-obf dictionary: tools/obf-umenlolu.txt
-palette       : accent=12 deg bg=210 deg
+--- Torka Free (release) ---
+app label     : Torka Free
+package       : com.vearlu.arhex
+applicationId : com.vearlu.arhex
+theme         : Theme.Syisxoto
+rootProject   : Torka
+version       : 3.4.10 (261)
+signing       : alias golaltoquarno (passwords withheld)
+buildConfig   : DB_NAME=vorbe.db PREFS_NAME=iovorar_prefs LOG_TAG=Loarloza
+payment url   : https://torka-pay.pages.dev/pay
+contact email : support@torka.com
+clarity id    : torkupanumlo
+obf dictionary: tools/obf-torka.txt
+palette       : accent=38 deg bg=240 deg
 class renames :
-    ChannelsApp -> Panisquen
-    ChannelsInitActivity -> Alloiohex
-    ChannelsSyncActivity -> Ratomir
-    ChannelsMovieActivity -> Axlovusy
-    ChannelsSeriesActivity -> Zabepanio
-    ChannelsPlaybackActivity -> Istor
-    ChannelsMainActivity -> Enioar
-    ChannelsBrowserActivity -> Xotorvequ
-    ChannelsProActivity -> Ronoar
-    ChannelsUpgradeActivity -> Synade
-    ChannelsMediaService -> Axenbe
-    ChannelsBootReceiver -> Iomoio
+    ChannelsApp -> Ravor
+    ChannelsInitActivity -> Tyisza
+    ChannelsSyncActivity -> Lubenesxi
+    ChannelsMovieActivity -> Vehexra
+    ChannelsSeriesActivity -> Ximirar
+    ChannelsPlaybackActivity -> Hextormo
+    ChannelsMainActivity -> Tomopan
+    ChannelsBrowserActivity -> Panmo
+    ChannelsProActivity -> Naalvor
+    ChannelsUpgradeActivity -> Mirsy
+    ChannelsMediaService -> Robenadra
+    ChannelsBootReceiver -> Vorsyty
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.xiisza.symibe.service.Kugolmois
-    tech.channels.pro.service.BackgroundShareService -> com.xiisza.symibe.service.Almirmoen
-    tech.channels.pro.service.ConsentGateActivity -> com.xiisza.symibe.service.Ennoarvu
+    tech.channels.pro.service.ForegroundShareService -> com.vearlu.arhex.service.Roxitor
+    tech.channels.pro.service.BackgroundShareService -> com.vearlu.arhex.service.Denakugol
+    tech.channels.pro.service.ConsentGateActivity -> com.vearlu.arhex.service.Kelmo
 
---- Iobeka Pro (release) ---
-app label     : Iobeka Pro
-package       : com.deararvor.movumovor
-applicationId : com.deararvor.movumovor
-theme         : Theme.Qubeto
-rootProject   : Iobeka
-version       : 3.4.39 (246)
-signing       : alias kellusyiovebe (passwords withheld)
-buildConfig   : DB_NAME=kaummirka.db PREFS_NAME=mirvor_prefs LOG_TAG=Panisnesqu
-payment url   : https://iobeka-pay.pages.dev/pay
-contact email : support@iobeka.com
-clarity id    : nadravealkel
-obf dictionary: tools/obf-iobeka.txt
-palette       : accent=12 deg bg=228 deg
+--- Kuaxtyty Pro (release) ---
+app label     : Kuaxtyty Pro
+package       : com.mivorsyio.umbeka
+applicationId : com.mivorsyio.umbeka
+theme         : Theme.Mitobe
+rootProject   : Kuaxtyty
+version       : 3.4.38 (703)
+signing       : alias lutokahextyku (passwords withheld)
+buildConfig   : DB_NAME=alza.db PREFS_NAME=alnona_prefs LOG_TAG=Noraty
+payment url   : https://kuaxtyty-pay.pages.dev/pay
+contact email : support@kuaxtyty.com
+clarity id    : xovupanvukukuxi
+obf dictionary: tools/obf-kuaxtyty.txt
+palette       : accent=38 deg bg=265 deg
 class renames :
-    ChannelsApp -> Venes
-    ChannelsInitActivity -> Drade
-    ChannelsSyncActivity -> Lorara
-    ChannelsMovieActivity -> Noarmive
-    ChannelsSeriesActivity -> Nodebe
-    ChannelsPlaybackActivity -> Neskuveal
-    ChannelsMainActivity -> Ummilo
-    ChannelsBrowserActivity -> Vuvortor
-    ChannelsProActivity -> Vepanra
-    ChannelsUpgradeActivity -> Toumdralu
-    ChannelsMediaService -> Lovorgolza
-    ChannelsBootReceiver -> Benora
+    ChannelsApp -> Motor
+    ChannelsInitActivity -> Umvordrais
+    ChannelsSyncActivity -> Tyioloku
+    ChannelsMovieActivity -> Quvorvorka
+    ChannelsSeriesActivity -> Tyarrade
+    ChannelsPlaybackActivity -> Mirtor
+    ChannelsMainActivity -> Tortoris
+    ChannelsBrowserActivity -> Kelioza
+    ChannelsProActivity -> Vudrana
+    ChannelsUpgradeActivity -> Mirkugol
+    ChannelsMediaService -> Tortorto
+    ChannelsBootReceiver -> Zaumtynes
 pawns names   :
-    tech.channels.pro.service.ForegroundShareService -> com.deararvor.movumovor.service.Envesykel
-    tech.channels.pro.service.BackgroundShareService -> com.deararvor.movumovor.service.Vetorvorlu
-    tech.channels.pro.service.ConsentGateActivity -> com.deararvor.movumovor.service.Umbetoka
+    tech.channels.pro.service.ForegroundShareService -> com.mivorsyio.umbeka.service.Drami
+    tech.channels.pro.service.BackgroundShareService -> com.mivorsyio.umbeka.service.Vuhex
+    tech.channels.pro.service.ConsentGateActivity -> com.mivorsyio.umbeka.service.Kusynohex
