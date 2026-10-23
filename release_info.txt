@@ -1,55 +1,55 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.vorquhex.tyvutor
-applicationId : com.vorquhex.tyvutor
-theme         : Theme.Tyrator
+package       : com.vuvuvu.lukelnoum
+applicationId : com.vuvuvu.lukelnoum
+theme         : Theme.Nesku
 rootProject   : Channels
-version       : 3.4.36 (231)
-signing       : alias luumlupandequbena (passwords withheld)
-buildConfig   : DB_NAME=nesty.db PREFS_NAME=sytyaxto_prefs LOG_TAG=Moxoumxi
-payment url   : https://kanes-pay.pages.dev/pay
-contact email : support@kanes.com
-clarity id    : ratorsynavuloen
-obf dictionary: tools/obf-kanes.txt
-palette       : accent=96 deg bg=252 deg
+version       : 3.4.35 (988)
+signing       : alias isxiumnesaxar (passwords withheld)
+buildConfig   : DB_NAME=tonaty.db PREFS_NAME=alis_prefs LOG_TAG=Veiokelvu
+payment url   : https://mivorxo-pay.pages.dev/pay
+contact email : support@mivorxo.com
+clarity id    : noraioty
+obf dictionary: tools/obf-mivorxo.txt
+palette       : accent=330 deg bg=252 deg
 class renames :
-    ChannelsApp -> Behex
-    ChannelsInitActivity -> Roardexo
-    ChannelsSyncActivity -> Panvor
-    ChannelsMovieActivity -> Tyalvor
-    ChannelsSeriesActivity -> Xikelve
-    ChannelsPlaybackActivity -> Nozaumal
-    ChannelsMainActivity -> Vorxiroxi
-    ChannelsBrowserActivity -> Isalmina
-    ChannelsProActivity -> Umhexaxen
-    ChannelsUpgradeActivity -> Toralxo
-    ChannelsMediaService -> Mirhexvuro
-    ChannelsBootReceiver -> Xirana
+    ChannelsApp -> Tovorkudra
+    ChannelsInitActivity -> Rahexumvor
+    ChannelsSyncActivity -> Mokaum
+    ChannelsMovieActivity -> Arkaty
+    ChannelsSeriesActivity -> Lotoax
+    ChannelsPlaybackActivity -> Vortorro
+    ChannelsMainActivity -> Golvuluza
+    ChannelsBrowserActivity -> Vekahex
+    ChannelsProActivity -> Veromir
+    ChannelsUpgradeActivity -> Tyaxhexde
+    ChannelsMediaService -> Beumxi
+    ChannelsBootReceiver -> Radraumgol
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.mitormo.tokahex
-applicationId : com.mitormo.tokahex
-theme         : Theme.Zaarnohex
+package       : com.quisisvor.mogol
+applicationId : com.quisisvor.mogol
+theme         : Theme.Kuhex
 rootProject   : Channels
-version       : 3.4.26 (392)
-signing       : alias enzaaxisrasy (passwords withheld)
-buildConfig   : DB_NAME=arlu.db PREFS_NAME=bekukelvu_prefs LOG_TAG=Nozaen
-payment url   : https://roarto-pay.pages.dev/pay
-contact email : support@roarto.com
-clarity id    : torkukaximial
-obf dictionary: tools/obf-roarto.txt
-palette       : accent=205 deg bg=265 deg
+version       : 3.4.43 (565)
+signing       : alias hexaxgolvetoiovelu (passwords withheld)
+buildConfig   : DB_NAME=luar.db PREFS_NAME=arkel_prefs LOG_TAG=Kahex
+payment url   : https://enar-pay.pages.dev/pay
+contact email : support@enar.com
+clarity id    : rapanxoumvuxoromi
+obf dictionary: tools/obf-enar.txt
+palette       : accent=262 deg bg=240 deg
 class renames :
-    ChannelsApp -> Tymimirro
-    ChannelsInitActivity -> Kelxovual
-    ChannelsSyncActivity -> Axvorromo
-    ChannelsMovieActivity -> Lopankakel
-    ChannelsSeriesActivity -> Tymiiogol
-    ChannelsPlaybackActivity -> Nessy
-    ChannelsMainActivity -> Xoxoaxxi
-    ChannelsBrowserActivity -> Lukasyto
-    ChannelsProActivity -> Vorlukuax
-    ChannelsUpgradeActivity -> Lotor
-    ChannelsMediaService -> Xoqumimi
-    ChannelsBootReceiver -> Luxiroka
+    ChannelsApp -> Notor
+    ChannelsInitActivity -> Dradety
+    ChannelsSyncActivity -> Kelbero
+    ChannelsMovieActivity -> Navorroar
+    ChannelsSeriesActivity -> Bekaaxno
+    ChannelsPlaybackActivity -> Raario
+    ChannelsMainActivity -> Lodra
+    ChannelsBrowserActivity -> Algolpan
+    ChannelsProActivity -> Alisneshex
+    ChannelsUpgradeActivity -> Noisalvu
+    ChannelsMediaService -> Torarenmi
+    ChannelsBootReceiver -> Rokakukel
