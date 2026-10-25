@@ -1,55 +1,55 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.momirar.nahexmir
-applicationId : com.momirar.nahexmir
-theme         : Theme.Syhexxoxi
+package       : com.alummolo.vorrana
+applicationId : com.alummolo.vorrana
+theme         : Theme.Axaxxo
 rootProject   : Channels
-version       : 3.4.44 (828)
-signing       : alias novemirnaxiiohex (passwords withheld)
-buildConfig   : DB_NAME=xomirxito.db PREFS_NAME=nesgolxi_prefs LOG_TAG=Dranesza
-payment url   : https://tobemo-pay.pages.dev/pay
-contact email : support@tobemo.com
-clarity id    : isgolmobebemirenar
-obf dictionary: tools/obf-tobemo.txt
-palette       : accent=96 deg bg=265 deg
+version       : 3.4.31 (196)
+signing       : alias berapanmirqukel (passwords withheld)
+buildConfig   : DB_NAME=kaen.db PREFS_NAME=torxi_prefs LOG_TAG=Kelzaal
+payment url   : https://mirnatoax-pay.pages.dev/pay
+contact email : support@mirnatoax.com
+clarity id    : bemimimi
+obf dictionary: tools/obf-mirnatoax.txt
+palette       : accent=96 deg bg=252 deg
 class renames :
-    ChannelsApp -> Xotyax
-    ChannelsInitActivity -> Nadenahex
-    ChannelsSyncActivity -> Golveio
-    ChannelsMovieActivity -> Zavor
-    ChannelsSeriesActivity -> Zaroxosy
-    ChannelsPlaybackActivity -> Degol
-    ChannelsMainActivity -> Golxo
-    ChannelsBrowserActivity -> Romirdrana
-    ChannelsProActivity -> Enmirnoty
-    ChannelsUpgradeActivity -> Mopanmoum
-    ChannelsMediaService -> Lubedraax
-    ChannelsBootReceiver -> Nesra
+    ChannelsApp -> Nomityqu
+    ChannelsInitActivity -> Tydrator
+    ChannelsSyncActivity -> Umzahex
+    ChannelsMovieActivity -> Torno
+    ChannelsSeriesActivity -> Pandra
+    ChannelsPlaybackActivity -> Vorbe
+    ChannelsMainActivity -> Noumraxi
+    ChannelsBrowserActivity -> Zaxiio
+    ChannelsProActivity -> Hexvuis
+    ChannelsUpgradeActivity -> Vequno
+    ChannelsMediaService -> Romiar
+    ChannelsBootReceiver -> Vuioishex
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.xosymirtor.nagolmo
-applicationId : com.xosymirtor.nagolmo
-theme         : Theme.Syisxo
+package       : com.quvorbexi.vekuxiis
+applicationId : com.quvorbexi.vekuxiis
+theme         : Theme.Islomo
 rootProject   : Channels
-version       : 3.4.19 (219)
-signing       : alias umrokelkunonesdra (passwords withheld)
-buildConfig   : DB_NAME=deen.db PREFS_NAME=umlo_prefs LOG_TAG=Symito
-payment url   : https://qutor-pay.pages.dev/pay
-contact email : support@qutor.com
-clarity id    : hexgolloumtymo
-obf dictionary: tools/obf-qutor.txt
-palette       : accent=172 deg bg=222 deg
+version       : 3.4.41 (578)
+signing       : alias luvorluveumlokuum (passwords withheld)
+buildConfig   : DB_NAME=kualku.db PREFS_NAME=quty_prefs LOG_TAG=Ratorlora
+payment url   : https://lobemir-pay.pages.dev/pay
+contact email : support@lobemir.com
+clarity id    : hexsynokelenen
+obf dictionary: tools/obf-lobemir.txt
+palette       : accent=172 deg bg=240 deg
 class renames :
-    ChannelsApp -> Roisioka
-    ChannelsInitActivity -> Vuhextyno
-    ChannelsSyncActivity -> Mirxoza
-    ChannelsMovieActivity -> Nanoximi
-    ChannelsSeriesActivity -> Radravu
-    ChannelsPlaybackActivity -> Iodra
-    ChannelsMainActivity -> Xinohexlo
-    ChannelsBrowserActivity -> Kellu
-    ChannelsProActivity -> Panisgolto
-    ChannelsUpgradeActivity -> Axmialra
-    ChannelsMediaService -> Golzazaar
-    ChannelsBootReceiver -> Quvuluhex
+    ChannelsApp -> Iovesy
+    ChannelsInitActivity -> Notynaio
+    ChannelsSyncActivity -> Drahexen
+    ChannelsMovieActivity -> Isgolar
+    ChannelsSeriesActivity -> Tolove
+    ChannelsPlaybackActivity -> Sybeka
+    ChannelsMainActivity -> Delualen
+    ChannelsBrowserActivity -> Kaquto
+    ChannelsProActivity -> Kaxosyto
+    ChannelsUpgradeActivity -> Raargolza
+    ChannelsMediaService -> Golkel
+    ChannelsBootReceiver -> Degol
