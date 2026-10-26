@@ -1,55 +1,55 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.vorde.raento
-applicationId : com.vorde.raento
-theme         : Theme.Iogol
+package       : com.mirmiio.kahex
+applicationId : com.mirmiio.kahex
+theme         : Theme.Naisar
 rootProject   : Channels
-version       : 3.4.40 (969)
-signing       : alias kukuaxvuisbena (passwords withheld)
-buildConfig   : DB_NAME=kuaxkuve.db PREFS_NAME=kaar_prefs LOG_TAG=Armonono
-payment url   : https://toxoka-pay.pages.dev/pay
-contact email : support@toxoka.com
-clarity id    : iokelgoltyis
-obf dictionary: tools/obf-toxoka.txt
-palette       : accent=12 deg bg=210 deg
+version       : 3.4.11 (936)
+signing       : alias zaxotyxidraxi (passwords withheld)
+buildConfig   : DB_NAME=panvor.db PREFS_NAME=iokapan_prefs LOG_TAG=Nesnoraar
+payment url   : https://noal-pay.pages.dev/pay
+contact email : support@noal.com
+clarity id    : zaumdebetorno
+obf dictionary: tools/obf-noal.txt
+palette       : accent=96 deg bg=252 deg
 class renames :
-    ChannelsApp -> Iszaax
-    ChannelsInitActivity -> Umenka
-    ChannelsSyncActivity -> Vorvorlo
-    ChannelsMovieActivity -> Kelranes
-    ChannelsSeriesActivity -> Mipan
-    ChannelsPlaybackActivity -> Vunes
-    ChannelsMainActivity -> Drabexoxo
-    ChannelsBrowserActivity -> Kavorqu
-    ChannelsProActivity -> Kelsyna
-    ChannelsUpgradeActivity -> Vorqutytor
-    ChannelsMediaService -> Molunobe
-    ChannelsBootReceiver -> Alvutomir
+    ChannelsApp -> Golar
+    ChannelsInitActivity -> Kelnana
+    ChannelsSyncActivity -> Golno
+    ChannelsMovieActivity -> Moisioku
+    ChannelsSeriesActivity -> Hexbevulu
+    ChannelsPlaybackActivity -> Rovekube
+    ChannelsMainActivity -> Xopan
+    ChannelsBrowserActivity -> Isalmo
+    ChannelsProActivity -> Umloax
+    ChannelsUpgradeActivity -> Naloxo
+    ChannelsMediaService -> Isquro
+    ChannelsBootReceiver -> Lurovuax
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.xoalpan.arzaar
-applicationId : com.xoalpan.arzaar
-theme         : Theme.Armoenar
+package       : com.qunes.miioquax
+applicationId : com.qunes.miioquax
+theme         : Theme.Torbero
 rootProject   : Channels
-version       : 3.4.45 (714)
-signing       : alias lurotylunes (passwords withheld)
-buildConfig   : DB_NAME=dranonolo.db PREFS_NAME=tyhexvede_prefs LOG_TAG=Zakupan
-payment url   : https://arax-pay.pages.dev/pay
-contact email : support@arax.com
-clarity id    : mipankelnoto
-obf dictionary: tools/obf-arax.txt
-palette       : accent=12 deg bg=240 deg
+version       : 3.4.21 (976)
+signing       : alias nesluhexiokelkello (passwords withheld)
+buildConfig   : DB_NAME=syvuve.db PREFS_NAME=envorku_prefs LOG_TAG=Tydrano
+payment url   : https://bero-pay.pages.dev/pay
+contact email : support@bero.com
+clarity id    : mikuluistorxo
+obf dictionary: tools/obf-bero.txt
+palette       : accent=205 deg bg=265 deg
 class renames :
-    ChannelsApp -> Pannoio
-    ChannelsInitActivity -> Noaxkelal
-    ChannelsSyncActivity -> Tynanes
-    ChannelsMovieActivity -> Naquaxxi
-    ChannelsSeriesActivity -> Miralbeis
-    ChannelsPlaybackActivity -> Arloen
-    ChannelsMainActivity -> Mirzahex
-    ChannelsBrowserActivity -> Tyzaar
-    ChannelsProActivity -> Betor
-    ChannelsUpgradeActivity -> Hexum
-    ChannelsMediaService -> Quxiquto
-    ChannelsBootReceiver -> Ximoiobe
+    ChannelsApp -> Nobekel
+    ChannelsInitActivity -> Isxiisax
+    ChannelsSyncActivity -> Tyhexxona
+    ChannelsMovieActivity -> Axnopanvu
+    ChannelsSeriesActivity -> Zaalento
+    ChannelsPlaybackActivity -> Luxixi
+    ChannelsMainActivity -> Mirtopan
+    ChannelsBrowserActivity -> Dranes
+    ChannelsProActivity -> Alnalu
+    ChannelsUpgradeActivity -> Kuvemi
+    ChannelsMediaService -> Umtorvor
+    ChannelsBootReceiver -> Alarallo
