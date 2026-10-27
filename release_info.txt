@@ -1,55 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.goldraioax.nazazami
-applicationId : com.goldraioax.nazazami
-theme         : Theme.Kaximirum
+package       : com.motyvor.umkelxoro
+applicationId : com.motyvor.umkelxoro
+theme         : Theme.Ioraaxmo
 rootProject   : Channels
-version       : 3.4.28 (451)
-signing       : alias golraradealxisy (passwords withheld)
-buildConfig   : DB_NAME=gollovu.db PREFS_NAME=vorroloxi_prefs LOG_TAG=Denesal
-payment url   : https://torlo-pay.pages.dev/pay
-contact email : support@torlo.com
-clarity id    : xikudraloax
-obf dictionary: tools/obf-torlo.txt
-palette       : accent=96 deg bg=210 deg
+version       : 3.4.20 (848)
+signing       : alias ummirkelhex (passwords withheld)
+buildConfig   : DB_NAME=kanaty.db PREFS_NAME=roaxto_prefs LOG_TAG=Movormir
+clarity id    : vemoloistoxo
+obf dictionary: tools/obf-veku.txt
+palette       : accent=262 deg bg=265 deg
 class renames :
-    ChannelsApp -> Xovevevu
-    ChannelsInitActivity -> Nesgol
-    ChannelsSyncActivity -> Vortykukel
-    ChannelsMovieActivity -> Xipanmirna
-    ChannelsSeriesActivity -> Hexgolza
-    ChannelsPlaybackActivity -> Axvebe
-    ChannelsMainActivity -> Mirxosy
-    ChannelsBrowserActivity -> Modeququ
-    ChannelsProActivity -> Golbedra
-    ChannelsUpgradeActivity -> Quximi
-    ChannelsMediaService -> Nesaxarza
-    ChannelsBootReceiver -> Kelvor
+    ChannelsApp -> Moishexlo
+    ChannelsInitActivity -> Denohexna
+    ChannelsSyncActivity -> Lovulu
+    ChannelsMovieActivity -> Dratytor
+    ChannelsSeriesActivity -> Golum
+    ChannelsPlaybackActivity -> Ioenxoro
+    ChannelsMainActivity -> Ioranes
+    ChannelsBrowserActivity -> Rovesy
+    ChannelsProActivity -> Xihex
+    ChannelsUpgradeActivity -> Golvegol
+    ChannelsMediaService -> Draxilu
+    ChannelsBootReceiver -> Totordrabe
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.beximora.nesqu
-applicationId : com.beximora.nesqu
-theme         : Theme.Altorna
+package       : com.mirximomo.luaxaltor
+applicationId : com.mirximomo.luaxaltor
+theme         : Theme.Vexira
 rootProject   : Channels
-version       : 3.4.34 (921)
-signing       : alias kelmirxixitorgol (passwords withheld)
-buildConfig   : DB_NAME=axluve.db PREFS_NAME=noisve_prefs LOG_TAG=Vuxoar
-payment url   : https://vorxi-pay.pages.dev/pay
-contact email : support@vorxi.com
-clarity id    : xienmirumal
-obf dictionary: tools/obf-vorxi.txt
-palette       : accent=96 deg bg=222 deg
+version       : 3.4.12 (710)
+signing       : alias kelengolmonabeiora (passwords withheld)
+buildConfig   : DB_NAME=ummolumo.db PREFS_NAME=mikelkel_prefs LOG_TAG=Torxozapan
+clarity id    : xokatortygoldeto
+obf dictionary: tools/obf-loar.txt
+palette       : accent=38 deg bg=210 deg
 class renames :
-    ChannelsApp -> Torzazaty
-    ChannelsInitActivity -> Mirlu
-    ChannelsSyncActivity -> Kuaxvu
-    ChannelsMovieActivity -> Lomirkupan
-    ChannelsSeriesActivity -> Hextyramo
-    ChannelsPlaybackActivity -> Panio
-    ChannelsMainActivity -> Alquen
-    ChannelsBrowserActivity -> Drano
-    ChannelsProActivity -> Vevor
-    ChannelsUpgradeActivity -> Eniskel
-    ChannelsMediaService -> Kellomir
-    ChannelsBootReceiver -> Deiovu
+    ChannelsApp -> Zalobe
+    ChannelsInitActivity -> Golaralhex
+    ChannelsSyncActivity -> Kutyna
+    ChannelsMovieActivity -> Raqugolno
+    ChannelsSeriesActivity -> Axmir
+    ChannelsPlaybackActivity -> Umvuxo
+    ChannelsMainActivity -> Draropan
+    ChannelsBrowserActivity -> Vegolmo
+    ChannelsProActivity -> Xoluhexkel
+    ChannelsUpgradeActivity -> Toxoarpan
+    ChannelsMediaService -> Ensygolku
+    ChannelsBootReceiver -> Lohexlu
