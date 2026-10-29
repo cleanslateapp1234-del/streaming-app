@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.nesro.nesgoltor
-applicationId : com.nesro.nesgoltor
-theme         : Theme.Kavuxolu
+package       : com.napan.keldralu
+applicationId : com.napan.keldralu
+theme         : Theme.Umvuqu
 rootProject   : Channels
-version       : 3.4.33 (408)
-signing       : alias miristyranamir (passwords withheld)
-buildConfig   : DB_NAME=deluza.db PREFS_NAME=enka_prefs LOG_TAG=Syneslo
-clarity id    : islodenesku
-obf dictionary: tools/obf-arum.txt
-palette       : accent=172 deg bg=222 deg
+version       : 3.4.31 (908)
+signing       : alias enzaxoradra (passwords withheld)
+buildConfig   : DB_NAME=toenpan.db PREFS_NAME=nakelto_prefs LOG_TAG=Rohexvu
+clarity id    : draarneskuquhexmo
+obf dictionary: tools/obf-qupan.txt
+palette       : accent=172 deg bg=265 deg
 class renames :
-    ChannelsApp -> Arbenes
-    ChannelsInitActivity -> Xogolkelio
-    ChannelsSyncActivity -> Noumvemi
-    ChannelsMovieActivity -> Kelvudra
-    ChannelsSeriesActivity -> Voralvorvu
-    ChannelsPlaybackActivity -> Kelkuio
-    ChannelsMainActivity -> Zalomo
-    ChannelsBrowserActivity -> Entyrais
-    ChannelsProActivity -> Tydrasyro
-    ChannelsUpgradeActivity -> Isvetorqu
-    ChannelsMediaService -> Syisnes
-    ChannelsBootReceiver -> Zamora
+    ChannelsApp -> Qudraaxdra
+    ChannelsInitActivity -> Isloku
+    ChannelsSyncActivity -> Miioto
+    ChannelsMovieActivity -> Naarisvu
+    ChannelsSeriesActivity -> Arsyqu
+    ChannelsPlaybackActivity -> Panmo
+    ChannelsMainActivity -> Nakeltodra
+    ChannelsBrowserActivity -> Xivuro
+    ChannelsProActivity -> Arkuio
+    ChannelsUpgradeActivity -> Entyty
+    ChannelsMediaService -> Ramiralmir
+    ChannelsBootReceiver -> Nesto
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.enmivor.alramo
-applicationId : com.enmivor.alramo
-theme         : Theme.Vorxilu
+package       : com.ropanvorsy.naxoqu
+applicationId : com.ropanvorsy.naxoqu
+theme         : Theme.Zarolosy
 rootProject   : Channels
-version       : 3.4.42 (687)
-signing       : alias vorumdeioxoum (passwords withheld)
-buildConfig   : DB_NAME=rami.db PREFS_NAME=ludrakuar_prefs LOG_TAG=Kelludra
-clarity id    : detybeiokadra
-obf dictionary: tools/obf-mohex.txt
-palette       : accent=172 deg bg=265 deg
+version       : 3.4.22 (205)
+signing       : alias mimirenzavu (passwords withheld)
+buildConfig   : DB_NAME=rahexis.db PREFS_NAME=rasy_prefs LOG_TAG=Enmomo
+clarity id    : naqunatysydraxo
+obf dictionary: tools/obf-mirnalo.txt
+palette       : accent=38 deg bg=252 deg
 class renames :
-    ChannelsApp -> Vorlu
-    ChannelsInitActivity -> Kelnavuis
-    ChannelsSyncActivity -> Veiolu
-    ChannelsMovieActivity -> Kamial
-    ChannelsSeriesActivity -> Notor
-    ChannelsPlaybackActivity -> Vorramo
-    ChannelsMainActivity -> Umlodrara
-    ChannelsBrowserActivity -> Luzadraxi
-    ChannelsProActivity -> Alkelmokel
-    ChannelsUpgradeActivity -> Enrokel
-    ChannelsMediaService -> Rokelza
-    ChannelsBootReceiver -> Israkelpan
+    ChannelsApp -> Armolomir
+    ChannelsInitActivity -> Isbevuno
+    ChannelsSyncActivity -> Alxiumar
+    ChannelsMovieActivity -> Istoloty
+    ChannelsSeriesActivity -> Nomipan
+    ChannelsPlaybackActivity -> Golnoax
+    ChannelsMainActivity -> Lumivor
+    ChannelsBrowserActivity -> Loxoto
+    ChannelsProActivity -> Torlo
+    ChannelsUpgradeActivity -> Qumilu
+    ChannelsMediaService -> Draendero
+    ChannelsBootReceiver -> Vequpanpan
