@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.misyno.vekelxiis
-applicationId : com.misyno.vekelxiis
-theme         : Theme.Alxonesen
+package       : com.bemirku.xotoal
+applicationId : com.bemirku.xotoal
+theme         : Theme.Enlotomir
 rootProject   : Channels
-version       : 3.4.17 (435)
-signing       : alias bedrarokasyhexummi (passwords withheld)
-buildConfig   : DB_NAME=quminaen.db PREFS_NAME=kelqusy_prefs LOG_TAG=Dravorty
-clarity id    : zaalalal
-obf dictionary: tools/obf-zavu.txt
-palette       : accent=205 deg bg=240 deg
+version       : 3.4.42 (810)
+signing       : alias namimoaxhexnesno (passwords withheld)
+buildConfig   : DB_NAME=modetodra.db PREFS_NAME=israkamir_prefs LOG_TAG=Draenzaio
+clarity id    : xoiodeximo
+obf dictionary: tools/obf-drave.txt
+palette       : accent=12 deg bg=228 deg
 class renames :
-    ChannelsApp -> Draveaxro
-    ChannelsInitActivity -> Mitoralmo
-    ChannelsSyncActivity -> Lubebemo
-    ChannelsMovieActivity -> Xotyal
-    ChannelsSeriesActivity -> Enxosy
-    ChannelsPlaybackActivity -> Midraxono
-    ChannelsMainActivity -> Kavor
-    ChannelsBrowserActivity -> Vupanluve
-    ChannelsProActivity -> Nesaxkuto
-    ChannelsUpgradeActivity -> Alsyzaqu
-    ChannelsMediaService -> Xiioxo
-    ChannelsBootReceiver -> Tyromir
+    ChannelsApp -> Sypanhex
+    ChannelsInitActivity -> Iones
+    ChannelsSyncActivity -> Lomika
+    ChannelsMovieActivity -> Sysyvorna
+    ChannelsSeriesActivity -> Mirumgol
+    ChannelsPlaybackActivity -> Golmoar
+    ChannelsMainActivity -> Namirenra
+    ChannelsBrowserActivity -> Nesis
+    ChannelsProActivity -> Panxokel
+    ChannelsUpgradeActivity -> Nadraal
+    ChannelsMediaService -> Kubegol
+    ChannelsBootReceiver -> Vorenrodra
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.nesioxoro.mikanaku
-applicationId : com.nesioxoro.mikanaku
-theme         : Theme.Tozatyax
+package       : com.torpan.mirqu
+applicationId : com.torpan.mirqu
+theme         : Theme.Hexkuro
 rootProject   : Channels
-version       : 3.4.39 (612)
-signing       : alias beloroaxtor (passwords withheld)
-buildConfig   : DB_NAME=isloqu.db PREFS_NAME=arnolo_prefs LOG_TAG=Isvupanlo
-clarity id    : vetoranesmoxoluio
-obf dictionary: tools/obf-panza.txt
-palette       : accent=330 deg bg=228 deg
+version       : 3.4.12 (427)
+signing       : alias nesismienmona (passwords withheld)
+buildConfig   : DB_NAME=navu.db PREFS_NAME=mirax_prefs LOG_TAG=Mosyza
+clarity id    : altorxiisto
+obf dictionary: tools/obf-syno.txt
+palette       : accent=205 deg bg=265 deg
 class renames :
-    ChannelsApp -> Tytorza
-    ChannelsInitActivity -> Bemirzaum
-    ChannelsSyncActivity -> Toenve
-    ChannelsMovieActivity -> Tornovupan
-    ChannelsSeriesActivity -> Goldra
-    ChannelsPlaybackActivity -> Noxikuvu
-    ChannelsMainActivity -> Draqulovu
-    ChannelsBrowserActivity -> Nesnatoen
-    ChannelsProActivity -> Motoisna
-    ChannelsUpgradeActivity -> Draku
-    ChannelsMediaService -> Kelxove
-    ChannelsBootReceiver -> Ramirvuza
+    ChannelsApp -> Golkeldra
+    ChannelsInitActivity -> Draraxono
+    ChannelsSyncActivity -> Bepanbetor
+    ChannelsMovieActivity -> Sytortorlo
+    ChannelsSeriesActivity -> Enende
+    ChannelsPlaybackActivity -> Syisen
+    ChannelsMainActivity -> Toxinoxi
+    ChannelsBrowserActivity -> Mogolza
+    ChannelsProActivity -> Ismidravu
+    ChannelsUpgradeActivity -> Radraku
+    ChannelsMediaService -> Tovor
+    ChannelsBootReceiver -> Altoxide
