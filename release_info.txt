@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.kelarnaqu.naraxo
-applicationId : com.kelarnaqu.naraxo
-theme         : Theme.Nesto
+package       : com.lones.dedravura
+applicationId : com.lones.dedravura
+theme         : Theme.Sybekade
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias lovorisvekakel (passwords withheld)
-buildConfig   : DB_NAME=alvoral.db PREFS_NAME=lologol_prefs LOG_TAG=Drazara
-clarity id    : keltyluraxo
-obf dictionary: tools/obf-kulu.txt
-palette       : accent=96 deg bg=228 deg
+signing       : alias kakelvuzahexkave (passwords withheld)
+buildConfig   : DB_NAME=nesnoro.db PREFS_NAME=vorisvumi_prefs LOG_TAG=Ensymomir
+clarity id    : monovormitorlu
+obf dictionary: tools/obf-arneskulo.txt
+palette       : accent=12 deg bg=210 deg
 class renames :
-    ChannelsApp -> Nolona
-    ChannelsInitActivity -> Torqu
-    ChannelsSyncActivity -> Kelhexlo
-    ChannelsMovieActivity -> Arsyzami
-    ChannelsSeriesActivity -> Kelsy
-    ChannelsPlaybackActivity -> Tosymir
-    ChannelsMainActivity -> Arqumira
-    ChannelsBrowserActivity -> Lotydra
-    ChannelsProActivity -> Nesrogolro
-    ChannelsUpgradeActivity -> Xoxones
-    ChannelsMediaService -> Nodedeen
-    ChannelsBootReceiver -> Nakaenlu
+    ChannelsApp -> Pansy
+    ChannelsInitActivity -> Ravortoral
+    ChannelsSyncActivity -> Keltor
+    ChannelsMovieActivity -> Torvor
+    ChannelsSeriesActivity -> Torarku
+    ChannelsPlaybackActivity -> Nadexidra
+    ChannelsMainActivity -> Tyalnaen
+    ChannelsBrowserActivity -> Axtornosy
+    ChannelsProActivity -> Kukel
+    ChannelsUpgradeActivity -> Panmoumal
+    ChannelsMediaService -> Iszaumro
+    ChannelsBootReceiver -> Katytor
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.panraio.zavusytor
-applicationId : com.panraio.zavusytor
-theme         : Theme.Tokaum
+package       : com.veisvu.draro
+applicationId : com.veisvu.draro
+theme         : Theme.Arpanmimo
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias qumibetorgolbetyde (passwords withheld)
-buildConfig   : DB_NAME=qumizaxo.db PREFS_NAME=ranakakel_prefs LOG_TAG=Hexsy
-clarity id    : umqukutoarsygol
-obf dictionary: tools/obf-panro.txt
-palette       : accent=330 deg bg=240 deg
+signing       : alias zasyrobedeionois (passwords withheld)
+buildConfig   : DB_NAME=vebetypan.db PREFS_NAME=engol_prefs LOG_TAG=Xikaloza
+clarity id    : denaramovu
+obf dictionary: tools/obf-panen.txt
+palette       : accent=12 deg bg=240 deg
 class renames :
-    ChannelsApp -> Benesdrami
-    ChannelsInitActivity -> Vuvor
-    ChannelsSyncActivity -> Miveka
-    ChannelsMovieActivity -> Pansytovor
-    ChannelsSeriesActivity -> Nesra
-    ChannelsPlaybackActivity -> Pandra
-    ChannelsMainActivity -> Kunaarsy
-    ChannelsBrowserActivity -> Miismodra
-    ChannelsProActivity -> Noumvormir
-    ChannelsUpgradeActivity -> Ramozara
-    ChannelsMediaService -> Vuhex
-    ChannelsBootReceiver -> Arumgolra
+    ChannelsApp -> Rapan
+    ChannelsInitActivity -> Zavor
+    ChannelsSyncActivity -> Alderavor
+    ChannelsMovieActivity -> Toqutybe
+    ChannelsSeriesActivity -> Umhexar
+    ChannelsPlaybackActivity -> Arhex
+    ChannelsMainActivity -> Sytorloku
+    ChannelsBrowserActivity -> Lotynes
+    ChannelsProActivity -> Veumnes
+    ChannelsUpgradeActivity -> Loquar
+    ChannelsMediaService -> Syxoxo
+    ChannelsBootReceiver -> Mirkadrana
