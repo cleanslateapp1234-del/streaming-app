@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.deisgol.axrovu
-applicationId : com.deisgol.axrovu
-theme         : Theme.Tormir
+package       : com.quxiaxku.novekuvu
+applicationId : com.quxiaxku.novekuvu
+theme         : Theme.Draarmirlo
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias panpantyarna (passwords withheld)
-buildConfig   : DB_NAME=vudeximir.db PREFS_NAME=toaxnobe_prefs LOG_TAG=Enraxi
-clarity id    : lovorisxinoxo
-obf dictionary: tools/obf-enxoum.txt
-palette       : accent=38 deg bg=222 deg
+signing       : alias torpanarallu (passwords withheld)
+buildConfig   : DB_NAME=xivor.db PREFS_NAME=kuvor_prefs LOG_TAG=Naluve
+clarity id    : pantomovuxorovu
+obf dictionary: tools/obf-xiquarxo.txt
+palette       : accent=172 deg bg=240 deg
 class renames :
-    ChannelsApp -> Loxiar
-    ChannelsInitActivity -> Vuraxihex
-    ChannelsSyncActivity -> Mirmitor
-    ChannelsMovieActivity -> Tyumna
-    ChannelsSeriesActivity -> Kukukuum
-    ChannelsPlaybackActivity -> Vornesenlu
-    ChannelsMainActivity -> Tysyza
-    ChannelsBrowserActivity -> Isbemoio
-    ChannelsProActivity -> Enrolomi
-    ChannelsUpgradeActivity -> Quismi
-    ChannelsMediaService -> Nesza
-    ChannelsBootReceiver -> Syneslu
+    ChannelsApp -> Xoxoza
+    ChannelsInitActivity -> Isdeenra
+    ChannelsSyncActivity -> Tykugol
+    ChannelsMovieActivity -> Golkeltor
+    ChannelsSeriesActivity -> Envor
+    ChannelsPlaybackActivity -> Xiioxo
+    ChannelsMainActivity -> Iosylohex
+    ChannelsBrowserActivity -> Vulomo
+    ChannelsProActivity -> Ratoty
+    ChannelsUpgradeActivity -> Axloluqu
+    ChannelsMediaService -> Torto
+    ChannelsBootReceiver -> Nadramomir
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.rodeis.golxi
-applicationId : com.rodeis.golxi
-theme         : Theme.Vuluhexxi
+package       : com.nahexmo.panvorza
+applicationId : com.nahexmo.panvorza
+theme         : Theme.Panzamirax
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias nesberaxiarqu (passwords withheld)
-buildConfig   : DB_NAME=arlono.db PREFS_NAME=roxoumis_prefs LOG_TAG=Hexmo
-clarity id    : xonesnaumgolka
-obf dictionary: tools/obf-golxiisde.txt
-palette       : accent=172 deg bg=210 deg
+signing       : alias umneskelnesarsyen (passwords withheld)
+buildConfig   : DB_NAME=panumra.db PREFS_NAME=mirtornes_prefs LOG_TAG=Golum
+clarity id    : lotorumqunaio
+obf dictionary: tools/obf-xodeluxi.txt
+palette       : accent=96 deg bg=252 deg
 class renames :
-    ChannelsApp -> Torazana
-    ChannelsInitActivity -> Mirmiar
-    ChannelsSyncActivity -> Kunovuka
-    ChannelsMovieActivity -> Xinois
-    ChannelsSeriesActivity -> Paniones
-    ChannelsPlaybackActivity -> Venones
-    ChannelsMainActivity -> Vortoxo
-    ChannelsBrowserActivity -> Nomirkator
-    ChannelsProActivity -> Namorora
-    ChannelsUpgradeActivity -> Isnesromo
-    ChannelsMediaService -> Golka
-    ChannelsBootReceiver -> Hextyio
+    ChannelsApp -> Vormir
+    ChannelsInitActivity -> Golalax
+    ChannelsSyncActivity -> Axquro
+    ChannelsMovieActivity -> Vedeve
+    ChannelsSeriesActivity -> Alxitorsy
+    ChannelsPlaybackActivity -> Golaxhexna
+    ChannelsMainActivity -> Nesralo
+    ChannelsBrowserActivity -> Keltor
+    ChannelsProActivity -> Axlovutor
+    ChannelsUpgradeActivity -> Tomoumkel
+    ChannelsMediaService -> Nalunoxo
+    ChannelsBootReceiver -> Tyiode
