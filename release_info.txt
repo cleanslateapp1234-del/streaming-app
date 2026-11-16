@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.kelvorumka.vornabe
-applicationId : com.kelvorumka.vornabe
-theme         : Theme.Panra
+package       : com.kelxo.mimipan
+applicationId : com.kelxo.mimipan
+theme         : Theme.Alvor
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias hextytorvorvuio (passwords withheld)
-buildConfig   : DB_NAME=bezaloum.db PREFS_NAME=toty_prefs LOG_TAG=Mirluto
-clarity id    : tynesumalqupan
-obf dictionary: tools/obf-beaxbeka.txt
-palette       : accent=96 deg bg=252 deg
+signing       : alias rovuaxvuxoty (passwords withheld)
+buildConfig   : DB_NAME=kuqu.db PREFS_NAME=panna_prefs LOG_TAG=Vubelu
+clarity id    : lumialdemirneslu
+obf dictionary: tools/obf-raarzalu.txt
+palette       : accent=172 deg bg=265 deg
 class renames :
-    ChannelsApp -> Hexquty
-    ChannelsInitActivity -> Miaxmirka
-    ChannelsSyncActivity -> Vorlonoen
-    ChannelsMovieActivity -> Armirro
-    ChannelsSeriesActivity -> Istorbena
-    ChannelsPlaybackActivity -> Zamomir
-    ChannelsMainActivity -> Kanesbexi
-    ChannelsBrowserActivity -> Axdraku
-    ChannelsProActivity -> Nesdra
-    ChannelsUpgradeActivity -> Draro
-    ChannelsMediaService -> Tonopanar
-    ChannelsBootReceiver -> Nesna
+    ChannelsApp -> Vubeiode
+    ChannelsInitActivity -> Raumxo
+    ChannelsSyncActivity -> Aralgol
+    ChannelsMovieActivity -> Alarmi
+    ChannelsSeriesActivity -> Vukaax
+    ChannelsPlaybackActivity -> Isvesyna
+    ChannelsMainActivity -> Rasydra
+    ChannelsBrowserActivity -> Torkel
+    ChannelsProActivity -> Lupan
+    ChannelsUpgradeActivity -> Kugol
+    ChannelsMediaService -> Tynakel
+    ChannelsBootReceiver -> Moalmokel
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.enkuvual.nesiohex
-applicationId : com.enkuvual.nesiohex
-theme         : Theme.Alpan
+package       : com.nokara.momikaio
+applicationId : com.nokara.momikaio
+theme         : Theme.Xialpan
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias quveneskugolkunes (passwords withheld)
-buildConfig   : DB_NAME=ioloarna.db PREFS_NAME=golalumro_prefs LOG_TAG=Panto
-clarity id    : sykelkelalqu
-obf dictionary: tools/obf-noisumto.txt
-palette       : accent=12 deg bg=210 deg
+signing       : alias golmodegolsygol (passwords withheld)
+buildConfig   : DB_NAME=rorahexsy.db PREFS_NAME=venoisdra_prefs LOG_TAG=Keldraarxo
+clarity id    : mikaaldemirmir
+obf dictionary: tools/obf-vurovu.txt
+palette       : accent=330 deg bg=222 deg
 class renames :
-    ChannelsApp -> Moenmirkel
-    ChannelsInitActivity -> Navevorgol
-    ChannelsSyncActivity -> Ardramiza
-    ChannelsMovieActivity -> Axdenesbe
-    ChannelsSeriesActivity -> Axmirsyxi
-    ChannelsPlaybackActivity -> Toriolu
-    ChannelsMainActivity -> Mirmoxois
-    ChannelsBrowserActivity -> Rones
-    ChannelsProActivity -> Loraioto
-    ChannelsUpgradeActivity -> Golku
-    ChannelsMediaService -> Zaenio
-    ChannelsBootReceiver -> Naxovuvor
+    ChannelsApp -> Zakelve
+    ChannelsInitActivity -> Nesza
+    ChannelsSyncActivity -> Nesveax
+    ChannelsMovieActivity -> Panluhex
+    ChannelsSeriesActivity -> Umpan
+    ChannelsPlaybackActivity -> Zaumxiax
+    ChannelsMainActivity -> Venoum
+    ChannelsBrowserActivity -> Ximir
+    ChannelsProActivity -> Vormi
+    ChannelsUpgradeActivity -> Golxoraax
+    ChannelsMediaService -> Noarvuxo
+    ChannelsBootReceiver -> Kulodravu
