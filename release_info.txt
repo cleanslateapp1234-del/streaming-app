@@ -1,51 +1,51 @@
 --- Channels Free (release) ---
 app label     : Channels Free
-package       : com.hexxira.torpan
-applicationId : com.hexxira.torpan
-theme         : Theme.Noisbe
+package       : com.iopandra.xomixo
+applicationId : com.iopandra.xomixo
+theme         : Theme.Vualumal
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias miriominogolro (passwords withheld)
-buildConfig   : DB_NAME=panmines.db PREFS_NAME=syax_prefs LOG_TAG=Nakeldra
-clarity id    : kubeaxgolenna
-obf dictionary: tools/obf-xisyqu.txt
-palette       : accent=96 deg bg=265 deg
+signing       : alias umdelukabenaqu (passwords withheld)
+buildConfig   : DB_NAME=golmityqu.db PREFS_NAME=vornesio_prefs LOG_TAG=Kakelxolo
+clarity id    : neskakuarvumi
+obf dictionary: tools/obf-goliovu.txt
+palette       : accent=12 deg bg=228 deg
 class renames :
-    ChannelsApp -> Mirdraaxde
-    ChannelsInitActivity -> Iomirsyza
-    ChannelsSyncActivity -> Kaisgol
-    ChannelsMovieActivity -> Moaxkel
-    ChannelsSeriesActivity -> Mikelxiku
-    ChannelsPlaybackActivity -> Golve
-    ChannelsMainActivity -> Notomoku
-    ChannelsBrowserActivity -> Milode
-    ChannelsProActivity -> Panno
-    ChannelsUpgradeActivity -> Zamiaxqu
-    ChannelsMediaService -> Umdezapan
-    ChannelsBootReceiver -> Kamir
+    ChannelsApp -> Devude
+    ChannelsInitActivity -> Nesquna
+    ChannelsSyncActivity -> Goltyumsy
+    ChannelsMovieActivity -> Roraenal
+    ChannelsSeriesActivity -> Arkuvor
+    ChannelsPlaybackActivity -> Draispanmo
+    ChannelsMainActivity -> Veumnesmir
+    ChannelsBrowserActivity -> Vunaio
+    ChannelsProActivity -> Alkuxo
+    ChannelsUpgradeActivity -> Drakel
+    ChannelsMediaService -> Gollutoka
+    ChannelsBootReceiver -> Mimium
 
 --- Channels Pro (release) ---
 app label     : Channels Pro
-package       : com.syzabe.mosyno
-applicationId : com.syzabe.mosyno
-theme         : Theme.Mirro
+package       : com.keldrade.nesbe
+applicationId : com.keldrade.nesbe
+theme         : Theme.Molupan
 rootProject   : Channels
 version       : 3.5.4 (354)
-signing       : alias kunabeisquxorolu (passwords withheld)
-buildConfig   : DB_NAME=nesdraza.db PREFS_NAME=hexioax_prefs LOG_TAG=Derabe
-clarity id    : syvenesarra
-obf dictionary: tools/obf-kelxo.txt
-palette       : accent=38 deg bg=265 deg
+signing       : alias kelkuumkumirara (passwords withheld)
+buildConfig   : DB_NAME=ranoal.db PREFS_NAME=iobedrato_prefs LOG_TAG=Xitoraxpan
+clarity id    : loloxiarkuno
+obf dictionary: tools/obf-isna.txt
+palette       : accent=330 deg bg=265 deg
 class renames :
-    ChannelsApp -> Karamirku
-    ChannelsInitActivity -> Zaxium
-    ChannelsSyncActivity -> Vetosyhex
-    ChannelsMovieActivity -> Nesmiza
-    ChannelsSeriesActivity -> Naxoxogol
-    ChannelsPlaybackActivity -> Mirneshex
-    ChannelsMainActivity -> Kanessy
-    ChannelsBrowserActivity -> Hexloxiis
-    ChannelsProActivity -> Hexza
-    ChannelsUpgradeActivity -> Moumsyio
-    ChannelsMediaService -> Hexmomobe
-    ChannelsBootReceiver -> Rokuxo
+    ChannelsApp -> Mirluar
+    ChannelsInitActivity -> Kakelgol
+    ChannelsSyncActivity -> Molotyza
+    ChannelsMovieActivity -> Ramir
+    ChannelsSeriesActivity -> Nesraumxo
+    ChannelsPlaybackActivity -> Vorquiois
+    ChannelsMainActivity -> Zaalaxku
+    ChannelsBrowserActivity -> Toraldrami
+    ChannelsProActivity -> Kuraumio
+    ChannelsUpgradeActivity -> Enumdemi
+    ChannelsMediaService -> Kelximir
+    ChannelsBootReceiver -> Morami
